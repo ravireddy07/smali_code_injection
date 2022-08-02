@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@android:color/background_light" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <TextView android:textSize="18.0sp" android:textStyle="bold" android:gravity="center" android:layout_gravity="center" android:id="@id/st1" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_margin="3.0dip" android:text="1" android:layout_weight="1.0" />
+            <LinearLayout android:background="#ffededed" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="4.0dip" android:layout_marginBottom="4.0dip" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <TextView android:textSize="18.0sp" android:gravity="center" android:layout_gravity="center" android:id="@id/st2" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="3.0dip" android:text="1" android:layout_weight="1.0" />
+            <LinearLayout android:background="#ffededed" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="4.0dip" android:layout_marginBottom="4.0dip" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <TextView android:textSize="18.0sp" android:gravity="center" android:layout_gravity="center" android:id="@id/st3" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="3.0dip" android:text="1" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

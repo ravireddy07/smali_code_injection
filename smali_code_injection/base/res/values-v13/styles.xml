@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Blue" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Blue</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Blue</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Blue</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_blue</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Blue</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Blue</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Blue</item>
+        <item name="android:actionBarWidgetTheme">@style/Theme.Blue.Widget</item>
+        <item name="android:actionBarItemBackground">@drawable/selectable_background_blue</item>
+        <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_blue</item>
+    </style>
+    <style name="ActionBar.Solid.Blue" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:progressBarStyle">@style/ProgressBar.Blue</item>
+        <item name="android:background">@drawable/ab_solid_blue</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_blue</item>
+        <item name="android:backgroundSplit">@drawable/ab_bottom_solid_blue</item>
+    </style>
+</resources>

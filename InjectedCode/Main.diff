@@ -1,0 +1,23 @@
+233a234,252
+> .method public static printAdId(Landroid/content/Context;)V
+>     .locals 2
+>     .param p0, "ctx"    # Landroid/content/Context;
+> 
+>     .line 101
+>     new-instance v0, Lcom/kolesnik/pregnancy/AdIdTask;
+> 
+>     invoke-direct {v0, p0}, Lcom/kolesnik/pregnancy/AdIdTask;-><init>(Landroid/content/Context;)V
+> 
+>     const/4 v1, 0x0
+> 
+>     new-array v1, v1, [Ljava/lang/Void;
+> 
+>     invoke-virtual {v0, v1}, Lcom/kolesnik/pregnancy/AdIdTask;->execute([Ljava/lang/Object;)Landroid/os/AsyncTask;
+> 
+>     .line 102
+>     return-void
+> .end method
+> 
+254a274,275
+> 
+>     invoke-static {p0}, Lcom/kolesnik/pregnancy/Main;->printAdId(Landroid/content/Context;)V

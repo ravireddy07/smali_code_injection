@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost android:id="@android:id/tabhost" android:background="@android:color/background_dark" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ads="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TabWidget android:id="@android:id/tabs" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <FrameLayout android:id="@android:id/tabcontent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="100.0dip" style="?colorTitle">
+            <TextView android:textSize="30.0dip" android:textColor="@android:color/background_light" android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="I'M PREGNANT" />
+            <com.google.android.gms.ads.AdView android:id="@id/adView" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true" ads:adSize="BANNER" ads:adUnitId="@string/admob_id" />
+        </RelativeLayout>
+    </LinearLayout>
+</TabHost>

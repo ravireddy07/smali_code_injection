@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_splash">30.0dip</dimen>
+    <dimen name="size_splash_sm">20.0dip</dimen>
+    <dimen name="top">50.0px</dimen>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="slidingmenu_offset">60.0dip</dimen>
+    <dimen name="list_padding">10.0dip</dimen>
+    <dimen name="shadow_width">15.0dip</dimen>
+    <dimen name="diametr">60.0dip</dimen>
+    <dimen name="text_size_mini">10.0sp</dimen>
+    <dimen name="text_size">14.0sp</dimen>
+    <dimen name="text_title">18.0sp</dimen>
+</resources>

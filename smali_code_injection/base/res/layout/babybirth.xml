@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffececec" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:id="@id/header" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?colorTitle">
+        <TextView android:textSize="20.0sp" android:textStyle="bold" android:textColor="@android:color/background_light" android:gravity="center_horizontal" android:id="@id/title" android:padding="5.0dip" android:paddingLeft="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:text="@string/babybirth" android:layout_toRightOf="@id/previous" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:background="@drawable/shadow" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="5.0dip" android:layout_weight="1.0">
+        <ScrollView android:id="@id/scrollView1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <TextView android:textSize="16.0sp" android:textStyle="bold" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="@string/welcome" />
+                <Button android:id="@id/dbrith" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="@string/datar" />
+                <Button android:id="@id/tbrith" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="@string/timeb" />
+                <LinearLayout android:orientation="horizontal" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <ImageView android:id="@id/icon" android:layout_width="100.0dip" android:layout_height="100.0dip" android:layout_marginRight="3.0dip" android:src="@drawable/web_hi_res_512" />
+                    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <TextView android:textSize="12.0dip" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginTop="5.0dip" android:text="@string/welcome2" />
+                    </LinearLayout>
+                </LinearLayout>
+                <Button android:id="@id/install" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/install" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="5.0dip">
+        <Button android:textColor="@color/white" android:layout_gravity="center_horizontal" android:id="@id/save" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="2.0dip" android:text="@string/btn_save" android:singleLine="true" android:layout_weight="1.0" style="?colorTitle2" />
+        <Button android:textColor="@color/white" android:layout_gravity="center_horizontal" android:id="@id/rem" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="2.0dip" android:text="@string/btn_remove" android:layout_weight="1.0" style="?colorTitle2" />
+        <Button android:textColor="@color/white" android:layout_gravity="center_horizontal" android:id="@id/close" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="2.0dip" android:text="@string/btn_close" android:layout_weight="1.0" style="?colorTitle2" />
+    </LinearLayout>
+</LinearLayout>

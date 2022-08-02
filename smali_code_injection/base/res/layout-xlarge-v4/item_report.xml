@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@drawable/shadow" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="4.0" style="?colorTitle">
+        <TextView android:textSize="45.0sp" android:textStyle="bold" android:gravity="right" android:id="@id/digit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="23" style="?mtextc" />
+        <TextView android:textSize="22.0sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="right" android:id="@id/month" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Decembr" android:lines="1" />
+        <TextView android:textSize="22.0sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="right" android:id="@id/year" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="2013" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:background="@android:color/background_light" android:padding="3.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textStyle="bold" android:textColor="@android:color/background_dark" android:id="@id/txt" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/symp" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/symp" />
+        <LinearLayout android:id="@id/lsymp" android:background="#ffdcdcdc" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <LinearLayout android:orientation="vertical" android:id="@id/ll" android:padding="5.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/pill" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/pill" />
+        <LinearLayout android:id="@id/lpill" android:background="#ffdcdcdc" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <LinearLayout android:orientation="vertical" android:id="@id/ll2" android:padding="5.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/event" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/docvisit" />
+        <LinearLayout android:id="@id/levent" android:background="#ffdcdcdc" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <LinearLayout android:orientation="vertical" android:id="@id/ll3" android:padding="5.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

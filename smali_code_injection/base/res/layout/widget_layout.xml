@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/layout" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/main" android:background="@drawable/shadow2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="20.0dip" android:layout_marginTop="70.0dip">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="3.0dip">
+            <LinearLayout android:gravity="center" android:id="@id/limg" android:background="@drawable/round" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="28.0dip">
+                <ImageView android:layout_gravity="center" android:id="@id/img" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="28.0dip" android:layout_alignParentBottom="true">
+                <TextView android:textSize="24.0sp" android:typeface="normal" android:textStyle="bold" android:textColor="#ffdf6562" android:gravity="center|right" android:id="@id/wd" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="3.0dip" android:text="16" />
+                <RelativeLayout android:gravity="center|left" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="2.0dip" android:layout_weight="1.0">
+                    <TextView android:textSize="9.0sp" android:textColor="@android:color/background_light" android:id="@id/day" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:text="0 days" android:layout_alignParentTop="true" />
+                    <TextView android:textSize="9.0sp" android:textColor="@android:color/background_light" android:id="@id/tri" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0 Tri" android:layout_alignParentBottom="true" />
+                </RelativeLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,44 @@
+252a253,255
+> 
+>     invoke-static {p1}, Lcom/google/android/gms/ads/AdRequest$Builder;->printGender(I)V
+> 
+257a261,299
+> .end method
+> 
+> .method public static printGender(I)V
+>     .locals 3
+>     .param p0, "gender"    # I
+> 
+>     .line 44
+>     const/4 v0, 0x3
+> 
+>     new-array v0, v0, [Ljava/lang/String;
+> 
+>     const-string v1, "Unknown"
+> 
+>     const/4 v2, 0x0
+> 
+>     aput-object v1, v0, v2
+> 
+>     const-string v1, "Male"
+> 
+>     const/4 v2, 0x1
+> 
+>     aput-object v1, v0, v2
+> 
+>     const-string v1, "Female"
+> 
+>     const/4 v2, 0x2
+> 
+>     aput-object v1, v0, v2
+> 
+>     .line 45
+>     .local v0, "genders":[Ljava/lang/String;
+>     const-string v1, "UserGender"
+> 
+>     aget-object v2, v0, p0
+> 
+>     invoke-static {v1, v2}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+> 
+>     .line 46
+>     return-void

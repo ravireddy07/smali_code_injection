@@ -1,0 +1,6867 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/layout/widget_layout.xml
+SHA1-Digest: QYM2Xu9MmK74QhMj4809uvUXjTg=
+
+Name: res/layout-xlarge-v4/item_report.xml
+SHA1-Digest: dea5Tt8CDLiu8IGZwA+dx7ws4yk=
+
+Name: assets/bn/ru/women/semiramida.html
+SHA1-Digest: TQcHeUOAOXWFIlsWhmE2H047YDw=
+
+Name: assets/bn/ru/men/ashot.html
+SHA1-Digest: mMiy4h702UmOcUdCTIjTz0S2cKg=
+
+Name: res/drawable-xxxhdpi-v4/ic_action_settings.png
+SHA1-Digest: u/Z5p/bnGTvP2QKxeAbzk3EsPIM=
+
+Name: assets/bn/ru/men/briachislav.html
+SHA1-Digest: uuUjPlViLXR+LhnL1Xoadxj/9nA=
+
+Name: assets/w19.png
+SHA1-Digest: NNgPjMRuSslT5NEKye4ODaZ+02o=
+
+Name: assets/bn/en/bt.html
+SHA1-Digest: odEDXPANiI4RI2MRCMRgSEtcxGU=
+
+Name: assets/bn/ru/women/mersedes.html
+SHA1-Digest: VrRbIJ5H8YqVXquUxO/3EmXmXQ0=
+
+Name: assets/bn/ru/men/issak.html
+SHA1-Digest: rjs7bqtnk8VYOD5Egw6Cwq3I3XY=
+
+Name: assets/bn/ru/women/aksinia.html
+SHA1-Digest: XCsX6TtcUnDRaFverbi/iP5/J8g=
+
+Name: assets/bn/ru/women/luisi.html
+SHA1-Digest: q8kxzZtb2xNxaon1zrEzn4Zldiw=
+
+Name: assets/bn/ru/women/radmira.html
+SHA1-Digest: eHXcmvY3MEjDzRE/Yue6RRxkkDI=
+
+Name: res/drawable-xhdpi-v4/cab_background_top_blue.9.png
+SHA1-Digest: 48gy3uxN9Dpw6bb44aQTc0hZ8Ww=
+
+Name: assets/bn/ru/women/faia.html
+SHA1-Digest: cxYubclXCL1csOi12YGlRQ6xMjI=
+
+Name: assets/bn/ru/women/hava.html
+SHA1-Digest: 6uBz27vOGwn7m+uUmaaXf6pQNMY=
+
+Name: assets/bn/ru/women/emma.html
+SHA1-Digest: ZizGnoU3RLKMIEbSe3Ah6TvtMeE=
+
+Name: res/layout/item_sprsymp.xml
+SHA1-Digest: JFPhqNjvrrQIx51iStNyv7PydVo=
+
+Name: res/drawable-xxhdpi-v4/btn_cab_done_focused_blue.9.png
+SHA1-Digest: UEL83loDkMMpOIABZlgkCMuzILY=
+
+Name: assets/bn/ru/gs.html
+SHA1-Digest: V1EkqShXZ2I+V+uiiAybqWXTdac=
+
+Name: assets/bn/ru/women/olga.html
+SHA1-Digest: u0DUOhrKVQKnvrI4pmajCYhW8IA=
+
+Name: res/drawable-hdpi-v4/ab_stacked_solid_blue.9.png
+SHA1-Digest: IDQzs+RtuZhDmx4eU+8s9QopuP4=
+
+Name: assets/bn/en/bz.html
+SHA1-Digest: 0srzCyobCAJNogckZS6M7xi/G3o=
+
+Name: assets/bn/ru/women/anastasia.html
+SHA1-Digest: 3BJH3vR44y7N6NI2TUUJWK8oC2M=
+
+Name: assets/bn/ru/bt.html
+SHA1-Digest: II7iNERZFzpyuYgqgbzzVhQeEZY=
+
+Name: assets/bn/ru/women/alfreda.html
+SHA1-Digest: px//AwuM+jKXsXWcs1+zNT5N+e0=
+
+Name: assets/bn/ru/men/potap.html
+SHA1-Digest: p3IcGtis3Dp12kuFKlM0JESHuF0=
+
+Name: res/layout/windowsrating.xml
+SHA1-Digest: 2sohsK+wuEhWbDlna76FRnVfD30=
+
+Name: assets/w2.png
+SHA1-Digest: 5ocA1kKryOIKjT0FPbk8/sc92gU=
+
+Name: assets/bn/ru/women/uil_giza.html
+SHA1-Digest: oN7Sry7a4kpIXmHlXWMIQld3fus=
+
+Name: assets/bn/ru/women/diana.html
+SHA1-Digest: YZNl8IFcB9rOhrMV2hJduGFON3o=
+
+Name: assets/bn/ru/men/anisim.html
+SHA1-Digest: iFfH6sGNMXaEde/U6/YRa3LZ8lc=
+
+Name: assets/bn/ru/women/alena.html
+SHA1-Digest: kwAeEu0h1+WfwflnI6sXreQ2Rbw=
+
+Name: assets/bn/ru/women/jianka.html
+SHA1-Digest: qVRIHJScyEBeQfbh3FtcuISQy6k=
+
+Name: res/layout/item_pill.xml
+SHA1-Digest: zJtntCO94+1lZPOpzCxGYr8MbqY=
+
+Name: assets/bn/ru/women/feodora.html
+SHA1-Digest: s0jAA3GjtEKeztatYq1WNfL4UiA=
+
+Name: res/drawable/tab_indicator_ab_blue.xml
+SHA1-Digest: FbCNEUi7QXTY/t6BMJffnrMWm2E=
+
+Name: assets/bn/ru/men/kuzma.html
+SHA1-Digest: 8h1TSD79gXCa/vvG7kr0WvXYmVQ=
+
+Name: assets/bn/ru/men/akdam.html
+SHA1-Digest: NmPcJyoUV7MqaFzesy7WbMmp1ps=
+
+Name: assets/bn/ru/women/kamaria.html
+SHA1-Digest: 0l/U7uPLsiofk28h7wGeI1GNoUY=
+
+Name: assets/bn/ru/women/pavlina.html
+SHA1-Digest: nedA4mFiDCJhUkIXOQmRdmhKEZY=
+
+Name: assets/bn/ru/men/adis.html
+SHA1-Digest: JYs2aDQNgb++uBATGNCcnUDFOLE=
+
+Name: assets/bn/ru/men/benedikt.html
+SHA1-Digest: /sHcWXfqBah/T8Vj3cmG0mgEYW8=
+
+Name: res/drawable/shadow25.xml
+SHA1-Digest: 4qsl6VTOP3ElfX0ynaW2PRMp/mc=
+
+Name: res/drawable-xhdpi-v4/ic_drawer.png
+SHA1-Digest: lfux935XI0S6WkHCj9Qm+wnWNh8=
+
+Name: assets/bn/ru/women/zoriana.html
+SHA1-Digest: blMYDDaUcE/Hu7rKNZwJspfr7Vg=
+
+Name: assets/bn/ru/men/david.html
+SHA1-Digest: OeGZKqLDlvhwg+7MShvTab5P9Wk=
+
+Name: assets/bn/ru/men/yakov.html
+SHA1-Digest: /0zt53gW6df7A43K3C49NdDzmzE=
+
+Name: assets/bn/ru/men/avrelii.html
+SHA1-Digest: 3UFYJnvgXCq4+7RyxpQ3oN7+Ro8=
+
+Name: assets/bn/ru/women/vlada.html
+SHA1-Digest: NpLGmDd2vDtHC4b0YlTUsYHV8xw=
+
+Name: assets/bn/ru/men/vilen.html
+SHA1-Digest: mfPZhT/hb6ivyQfxidwQjmmXkKI=
+
+Name: assets/bn/ru/women/hadia.html
+SHA1-Digest: 8tgblNbwMYuaPlnyFi6fPshYaeM=
+
+Name: assets/bn/ru/men/afanasi.html
+SHA1-Digest: yqzoi9ap+0COy1R1nt12iKNdrnc=
+
+Name: assets/bn/ru/men/bernar.html
+SHA1-Digest: zvvTUCwQrijS+R6PEkVVdsMFZ5U=
+
+Name: assets/bn/ru/men/valeri.html
+SHA1-Digest: KVe0kHoU6x7Bx6am+/87V2Av1FY=
+
+Name: assets/bn/ru/men/emanuil.html
+SHA1-Digest: /p7CyOnHCW2fHv91egj3boStPf4=
+
+Name: assets/bn/ru/women/minnula.html
+SHA1-Digest: pXaP9oK96M+ifYaxXO+OZC5CFg0=
+
+Name: assets/bn/ru/women/nadjia.html
+SHA1-Digest: 5/+attIWeaf9p6PffyEmy6RL85Q=
+
+Name: res/drawable-xxxhdpi-v4/ic_test.png
+SHA1-Digest: CnVYcjBTc41CQ12tpLrS63ofO4g=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: y5NEiGadCzArYseq09UiAUCI9Ys=
+
+Name: res/anim/ship_anim.xml
+SHA1-Digest: RtRDtQQPCXOF4NqKyijDFBWi1NA=
+
+Name: assets/bn/ru/men/agn.html
+SHA1-Digest: M/QEpPoQ/M6dcNt9FvzGF8veUAg=
+
+Name: res/drawable-hdpi-v4/progress_secondary_blue.9.png
+SHA1-Digest: l8iSYYfSvo04nix0OeyyRhOnGB8=
+
+Name: assets/bn/ru/women/vsemila.html
+SHA1-Digest: sgGZXOCtucE/i+YXtkxGpF2Rvrc=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: NNwe3FKHs47gjoFv3kwcJmKiUOw=
+
+Name: res/drawable-xhdpi-v4/progress_bg_blue.9.png
+SHA1-Digest: YgalwFYjo2G7UqQjYMVUR1ACp9c=
+
+Name: assets/bn/ru/gi.html
+SHA1-Digest: EXjUDmuWv9B1GNUsX9nns8i4kF4=
+
+Name: res/layout/showname.xml
+SHA1-Digest: UvPmQ+d/cV2wDrD2V/6/oua23j4=
+
+Name: assets/bn/ru/women/suria.html
+SHA1-Digest: RQL5APIe7UvRvok0suKB2gz2JzE=
+
+Name: res/layout-xlarge-v4/body.xml
+SHA1-Digest: XkLe9FyKoH+hLWrh2/d6I5MUYjs=
+
+Name: assets/bn/ru/women/sarima.html
+SHA1-Digest: FtqjUNIJ5Rxrylw2kPzSlHR82uM=
+
+Name: assets/bn/ru/women/djulieta.html
+SHA1-Digest: hU5wLdfmRJzta8mtfItULUe3mUY=
+
+Name: assets/bn/ru/men/murat.html
+SHA1-Digest: Oq+c6XS3QhmxfJVcGNOLi+R3vc0=
+
+Name: assets/bn/ru/women/faina.html
+SHA1-Digest: JzYA/kjFA1zh8C2BvyOfthPhKWw=
+
+Name: res/layout-large-v4/rowlayout.xml
+SHA1-Digest: 1CmI/1lcWBPV3JgapRXb9v8AuZ4=
+
+Name: res/drawable/pill2.png
+SHA1-Digest: Hid6KvXkhN8whL3/OaC4BkMNp5Y=
+
+Name: assets/bn/ru/men/vikenti.html
+SHA1-Digest: /6Azah+5yoBTpjEduYMZOoEfqE0=
+
+Name: res/layout/new_main_activity.xml
+SHA1-Digest: 7SZDVOsKNDw2NcZq7q3fyHbbylU=
+
+Name: res/drawable/spinner_background_ab_blue.xml
+SHA1-Digest: tcNx8NARXkP3Oj36eOzDvKyCz+c=
+
+Name: res/drawable-xhdpi-v4/ic_action_calendar.png
+SHA1-Digest: suTNtdDACIkxQAUtqeI6ic1Uipw=
+
+Name: assets/bn/ru/women/sabira.html
+SHA1-Digest: DSi+G+FFk0OfUW8+RIiI2wTfihs=
+
+Name: assets/bn/en/gq.html
+SHA1-Digest: iUnTecdEvz2sliZedoqugHAjqtQ=
+
+Name: res/drawable/baba.png
+SHA1-Digest: E4Qy7181dUaGA8dFZOL1TJpXgQU=
+
+Name: assets/bn/ru/men/oskar.html
+SHA1-Digest: cMk8ad9fSIqydsPlU/Z/3qyjqHg=
+
+Name: assets/bn/ru/women/elza.html
+SHA1-Digest: UJb4G1jiySiLP3ytItX0gF51veQ=
+
+Name: assets/bn/ru/women/boy.jpg
+SHA1-Digest: ZvDRvyAZju1oDmNEuSpPEDgqEzU=
+
+Name: res/drawable/nc.png
+SHA1-Digest: Iuh+xw1YBeKRZBDV6JfhDeZGS5A=
+
+Name: assets/bn/ru/men/aman.html
+SHA1-Digest: YiNOJR+aRTqP0dlfMhw5ZI3RJ9I=
+
+Name: assets/bn/ru/men/fedor.html
+SHA1-Digest: +8tttNuCaMbJbrQLclPdn0zFPN8=
+
+Name: assets/bn/ru/women/marianna.html
+SHA1-Digest: PzK2XPb0nSkeuN545w3K742jo/I=
+
+Name: assets/bn/ru/men/yaromir.html
+SHA1-Digest: oWlGYlT1PnEkSWBWWsGmd0zmECo=
+
+Name: assets/bn/ru/women/zakia.html
+SHA1-Digest: 9t0kjdFBUSFMId4Cg4TUTHh1ZWc=
+
+Name: assets/bn/ru/men/luchezar.html
+SHA1-Digest: hb72uTRJ8Kv5hgppSd/+W5TmAU4=
+
+Name: assets/bn/ru/men/afonii.html
+SHA1-Digest: RXll9QLaZM3AfqbpORgYHYZttQs=
+
+Name: assets/bn/ru/men/prokofi.html
+SHA1-Digest: hxEMfOCCKOf2JUvcahHKgKZCamM=
+
+Name: res/drawable-hdpi-v4/progress_primary_blue.9.png
+SHA1-Digest: SbUv4VUQ2LKu7Vcp0mizwS7D7gA=
+
+Name: assets/bn/ru/men/ahmar.html
+SHA1-Digest: +8mkatCl2ovwqHGmk88Q7F8SPeQ=
+
+Name: res/drawable-xxxhdpi-v4/ic_action_pill.png
+SHA1-Digest: iczHdY/5+tC/d+TBNOzD/DGNdHI=
+
+Name: assets/bn/ru/men/manuil.html
+SHA1-Digest: YggyJz6ESI28VAxRecf3zhASARg=
+
+Name: assets/bn/ru/women/virginia.html
+SHA1-Digest: fOVYCSh0lmtamFuio0vXbZyOAWs=
+
+Name: res/drawable-hdpi-v4/ic_action_timer.png
+SHA1-Digest: u6u9u0wgSEgkpmtTLRdvg7gPQzU=
+
+Name: res/drawable-hdpi-v4/ic_action_pill.png
+SHA1-Digest: xqXhvwWmDqRVn3HPC5e+Fnw+UbE=
+
+Name: assets/bn/ru/men/rustam.html
+SHA1-Digest: NFnjMszQArWt2XZrenTm7ET8UII=
+
+Name: assets/bn/ru/women/nadegda.html
+SHA1-Digest: +vWw8nV9XQKnV5ZkB02r8QqSeDs=
+
+Name: assets/bn/ru/women/venera.html
+SHA1-Digest: 6ROsykx49n+zJNGaQMjdtV8Y9vI=
+
+Name: assets/bn/ru/men/bagdat.html
+SHA1-Digest: C5tlEopXmcx6RfBC+ZP1hzxjm3U=
+
+Name: assets/bn/ru/women/nursia.html
+SHA1-Digest: 8L5Z4Yl1uHs2vfghR0Ppbnua1nU=
+
+Name: assets/bn/ru/women/rabiga.html
+SHA1-Digest: XjEVfq5A4p7h1GCL3WfWsWhQwHY=
+
+Name: assets/bn/ru/men/artur.html
+SHA1-Digest: tsuyBcUm2B9PCA4zfLP7LjkJCQI=
+
+Name: assets/bn/ru/women/matrena.html
+SHA1-Digest: hPHSMG8N68pCAJm6BCoF+bFIOv4=
+
+Name: assets/bn/ru/women/zuhra.html
+SHA1-Digest: UMjVNoXTEAR7KgMZ6DjHND7SVlI=
+
+Name: assets/pregnancy-week-4.jpg
+SHA1-Digest: TzLlgADkZlWsZkSJL4zZy4hEn3c=
+
+Name: assets/bn/en/by.html
+SHA1-Digest: Z5vJ5Ep/GbQXSMn+W5yLcTVSzNA=
+
+Name: assets/bn/ru/women/venceslava.html
+SHA1-Digest: ZUFr1GxGi3ouSHvgEnho647SYLA=
+
+Name: assets/bn/ru/women/nuria.html
+SHA1-Digest: FohPVqVp++bCi6FPBc+Wd9ZCSjo=
+
+Name: assets/bn/ru/women/vanda.html
+SHA1-Digest: AuqGITUgIqTJqq56kf6YHWU7xK8=
+
+Name: res/drawable/tab_unselected_holo.png
+SHA1-Digest: YGcbOp2wdxQ7XFE/9MXxMOaAl9w=
+
+Name: assets/bn/ru/women/severina.html
+SHA1-Digest: y0Vq58vtUMikVhD4wbZnepVMAUE=
+
+Name: assets/bn/en/bl.html
+SHA1-Digest: JDX8P5JsAZGpYioVE4FIBkuMlY0=
+
+Name: assets/bn/ru/men/karl.html
+SHA1-Digest: /eHD+Lpan/emUUHSfzh5uLnXw/8=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 1BuFFGqXKd2oLlGoMWaCcT0oFug=
+
+Name: assets/w14.png
+SHA1-Digest: 71Y8KerEmTYEfano+nliHZJNTso=
+
+Name: res/drawable/botton_shape_pressed5.xml
+SHA1-Digest: frEvJXLOZJT4l+mJh9PlfUfMsf0=
+
+Name: res/layout-large-v4/setdate.xml
+SHA1-Digest: md2k9yHhXMjvWRASa4N2m+7sbqc=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: PqTpPBDW7Mw+tiTo97Mdprm+VVU=
+
+Name: assets/bn/ru/women/kalina.html
+SHA1-Digest: Teprj8ueI12hjr/kIr7RgLDCVKc=
+
+Name: assets/bn/ru/men/tihon.html
+SHA1-Digest: FFr3AtWAAL3NoLXECcGrvIVmcT8=
+
+Name: assets/w23.png
+SHA1-Digest: wHpbQOxtEPKyR2FSBR+JtfgP1PE=
+
+Name: assets/bn/ru/women/alana.html
+SHA1-Digest: uvx+Q/k/KVvG22HiiQritjnEFAg=
+
+Name: assets/bn/ru/men/mitrofan.html
+SHA1-Digest: B2MxJEjdcIVQIQkfEp/zlW/Fzwk=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: +W21ZNQRN0oDMKb9p9oNUq/o5as=
+
+Name: res/drawable/shadows.xml
+SHA1-Digest: 3FhPd4GwGEDEaMderzoOByUPyBA=
+
+Name: assets/bn/ru/women/asia.html
+SHA1-Digest: PgygBMTRZwxM6rqOVpBWNtD7K/c=
+
+Name: assets/bn/ru/women/lesia.html
+SHA1-Digest: WqdudYZd/RwiIvUit/PRc8K9L38=
+
+Name: assets/bn/ru/men/arie.html
+SHA1-Digest: QUVTjORjOOg7WVYUdxGUZAtZYUk=
+
+Name: assets/bn/ru/men/azad.html
+SHA1-Digest: sfULKzgRCLmq+weU3YsWWB0M830=
+
+Name: assets/w33.png
+SHA1-Digest: dPFHr3hllMg9D75gRcAJ+VgCEfA=
+
+Name: res/drawable-hdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: SBKgHrI8+WG2Q5nUL763ra3tcmc=
+
+Name: assets/bn/ru/women/muhandisa.html
+SHA1-Digest: A90T9EagiDasUH6SpoH/p23NxJc=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: hqxe2Ap9MZsAqBPDoV+yim7NXFM=
+
+Name: assets/bn/ru/men/nil.html
+SHA1-Digest: LXa05aUJQ1dHmIro6r3Y5W1mbBo=
+
+Name: res/drawable-xhdpi-v4/ic_action_diary.png
+SHA1-Digest: eap4L+63/Pzr04byrukyjsCUubo=
+
+Name: assets/bn/en/bc.html
+SHA1-Digest: IQ7+4sRlIHO7wLaKMaVyy7lPPuA=
+
+Name: res/layout-xlarge-v4/report.xml
+SHA1-Digest: dnIp7tCcutZMyay0sIxYr32jRGA=
+
+Name: assets/bn/ru/bya.html
+SHA1-Digest: P/9AWrDpsTL8HPNUotXX5DimGbw=
+
+Name: assets/bn/ru/women/algbeta.html
+SHA1-Digest: 3OCAm81Bm2SxGaLBPTQ8sv5IS6Q=
+
+Name: res/layout-xlarge-v4/note.xml
+SHA1-Digest: M4mttDI3Q2hV0Sd0OXNMR0iCpjc=
+
+Name: assets/bn/ru/women/tixomira.html
+SHA1-Digest: rpd1IXgmWDnuRZKvES/mo6GcQ0I=
+
+Name: res/layout-large-v4/symptoms.xml
+SHA1-Digest: TBAChN2N2M1YD7xcGwzU+zSIj1c=
+
+Name: assets/bn/ru/men/ahmed.html
+SHA1-Digest: RaWhRPYYcWSwqviO2MCMnRGn98U=
+
+Name: assets/bn/ru/men/martin.html
+SHA1-Digest: 9XvCR5sK01zQczj0WvbgGOWRkQo=
+
+Name: assets/bn/en/gt.html
+SHA1-Digest: v/OGZlJLICR2OjzA59uBjsPRFmM=
+
+Name: res/layout-large-v4/calendar_item4.xml
+SHA1-Digest: EhdnKRSr3mcpea6L+h5/NG6mpow=
+
+Name: assets/bn/ru/ba.html
+SHA1-Digest: er0B5oJE4TPfEP1PE4k3F0OMcK0=
+
+Name: res/drawable-mdpi-v4/ic_action_diary.png
+SHA1-Digest: FACPFnryPGl7THTo+l25MzXrkes=
+
+Name: assets/bn/ru/men/arest.html
+SHA1-Digest: sJklu/X7+A7SX4XwjF342DT+mxs=
+
+Name: assets/w18.png
+SHA1-Digest: FRIWX9mlo38xf3IAPIkWicmeUeQ=
+
+Name: assets/bn/ru/men/tamaz.html
+SHA1-Digest: ofVT6X5u2U7NJB2MLPA9hr93XwM=
+
+Name: assets/bn/ru/men/bashir.html
+SHA1-Digest: FhiJs0yGliJnXJwsQmiKwlSv7SI=
+
+Name: assets/bn/ru/gf.html
+SHA1-Digest: zX0gUO2xvDasKwKdXAA/H05RL9I=
+
+Name: assets/bn/ru/men/vitautas.html
+SHA1-Digest: QnumyjgdPcsJtTM8LbgNu5bsZf8=
+
+Name: res/drawable/round_button2.xml
+SHA1-Digest: EBrS75+VofBVurdMdwwAQS++lMc=
+
+Name: assets/bn/ru/women/nasima.html
+SHA1-Digest: y4Y6DV98O0frJGAU8p2ycrhje4g=
+
+Name: assets/bn/ru/women/gizzel.html
+SHA1-Digest: RgQN9mYjYDfmXL5eZSpAKrN53Kk=
+
+Name: assets/bn/ru/men/alexei.html
+SHA1-Digest: S4WBJg4ja7bPBdW7+8oez/kWDG0=
+
+Name: res/drawable-mdpi-v4/ic_babycare.png
+SHA1-Digest: B8dtqyivWdJlTi1uCGqb63zHZRw=
+
+Name: assets/bn/ru/women/elga.html
+SHA1-Digest: sTz3vvS4VOZPgs6RieeytN9AZvE=
+
+Name: assets/bn/ru/women/rana.html
+SHA1-Digest: 9Z4LkHa3gkIqs05RSaEhaYHPvaM=
+
+Name: assets/bn/ru/women/voislava.html
+SHA1-Digest: ZXXKMIDym4wx2rpG6GiUgHYxzF4=
+
+Name: res/drawable/next2.png
+SHA1-Digest: XGNbt/aP1FmYAMAE+QEeED5vuG4=
+
+Name: assets/bn/ru/men/ambrosii.html
+SHA1-Digest: sjhHE2Z2XfKOEQjcucRKi5OCSrs=
+
+Name: res/drawable/botton_shape_pressed4.xml
+SHA1-Digest: Lp/ZYRlZTo3Sg/pL85NSA5GqZJQ=
+
+Name: assets/bn/ru/women/zara.html
+SHA1-Digest: 6Oqs+cC4cYYNSaePbUC4IW8oD8E=
+
+Name: assets/bn/ru/women/jozefina.html
+SHA1-Digest: XDYsAbWozX0ixdnoy0LXEcoAvLs=
+
+Name: res/drawable-hdpi-v4/ic_test.png
+SHA1-Digest: yYSwFkds+/7ji7j07H/jv+mkKFE=
+
+Name: assets/bn/ru/men/saveli.html
+SHA1-Digest: IpvvzK/tqjLJ16o1AeRzSTQSVs4=
+
+Name: assets/bn/ru/men/emelian.html
+SHA1-Digest: Gl19NCnmuR4MMouNZsxJHAT5PVg=
+
+Name: assets/bn/ru/women/amanulla.html
+SHA1-Digest: gR6m0TmVSDLbvoQh0iSmFwOc8ZQ=
+
+Name: assets/bn/ru/men/urii.html
+SHA1-Digest: 0jFNEezBeqTRCdXilKyw05+Iihg=
+
+Name: assets/bn/ru/women/muza.html
+SHA1-Digest: 9KssJaHVd6OlqVpkz+m97Dk0+i8=
+
+Name: assets/bn/ru/women/bika.html
+SHA1-Digest: QxM8Xz5L1PQ/MJB9IIfxRAwVNGk=
+
+Name: res/drawable-mdpi-v4/cab_background_bottom_blue.9.png
+SHA1-Digest: v4aHH+XSa+QMIJm5B4uH19O5SG8=
+
+Name: assets/bn/en/ge.html
+SHA1-Digest: FqefFgQcoM1VUeQEOVgCef2SFNs=
+
+Name: res/drawable/weig2.png
+SHA1-Digest: 6wVuyPinBYXv1rmDJhmMRQXUtvQ=
+
+Name: assets/bn/ru/men/almon.html
+SHA1-Digest: Xf0K00TLfnGrZqpBLLtrvGkni8A=
+
+Name: assets/bn/ru/women/elizaveta.html
+SHA1-Digest: QgpjuFJW1wcSLbHNJkVfc2en/bk=
+
+Name: assets/bn/ru/women/lola.html
+SHA1-Digest: SKJC1dlCA2dVqhmW+yA4AEP0Eek=
+
+Name: assets/bn/ru/men/azal_.html
+SHA1-Digest: I1WlGQliJWwiTyd3iXcKvRgG76g=
+
+Name: res/drawable/your_tab_selector_drawable3.xml
+SHA1-Digest: zmpcZ7DEVVEoIURBBm/IhE1diuA=
+
+Name: assets/bn/ru/women/angela.html
+SHA1-Digest: 0luZLPOJbi9XbNXek+Tg0LasFgE=
+
+Name: assets/bn/ru/bs.html
+SHA1-Digest: 9E9exKE8/kApCsJdL3jyNliysfE=
+
+Name: assets/bn/ru/women/filomena.html
+SHA1-Digest: eMt+PsZU6AcMWmrPMbOXU/n4uZQ=
+
+Name: assets/bn/ru/women/ippolita.html
+SHA1-Digest: WIzYijzMkIrWndNn2KdZizPIKRs=
+
+Name: assets/bn/ru/women/almira.html
+SHA1-Digest: ts9mzAIepcbx2qvcYcq9J92XkCw=
+
+Name: assets/bn/ru/men/svatoslav.html
+SHA1-Digest: 7Q50fvq25KEgwlCxDhJowNOR7Xc=
+
+Name: assets/bn/ru/men/donat.html
+SHA1-Digest: SEVMsfdowyQtv34rs5QRWCkBVsY=
+
+Name: res/drawable-xxhdpi-v4/ic_action_symp.png
+SHA1-Digest: fRx7kpJyQo1EsAiNMzc+cKay/94=
+
+Name: assets/bn/ru/women/kornelia.html
+SHA1-Digest: u3JjU/UlTHgHnZlFJVGKAXqklpU=
+
+Name: res/drawable-xhdpi-v4/ab_texture_tile_blue.png
+SHA1-Digest: +XXcJDPIGLf6TeiqRYr+wHU/3lg=
+
+Name: assets/bn/ru/men/erofei.html
+SHA1-Digest: B3zP9TUEYBcgjdHdzBZKnDlvROg=
+
+Name: assets/bn/ru/women/dilbar.html
+SHA1-Digest: 9fJLQind9Y7BRUP/JApq0m20bJQ=
+
+Name: assets/bn/ru/women/mirdza.html
+SHA1-Digest: EUdJmzTE82rDbva5GSUDFOZUfuM=
+
+Name: res/drawable-xxhdpi-v4/list_pressed_blue.9.png
+SHA1-Digest: 4y3zuP4V8XLYLUFTx2ZfN2nrhVA=
+
+Name: assets/bn/ru/men/miron.html
+SHA1-Digest: 4IVbu2cjYcfspf7a9uS+7aXEfFU=
+
+Name: res/drawable-xxhdpi-v4/ab_texture_tile_blue.png
+SHA1-Digest: ICZppX2a+UTDLbAcQAYvVIvg8zk=
+
+Name: assets/bn/ru/men/aibat.html
+SHA1-Digest: UEqcLWdNG81IqKDq9aWz1yJXdJE=
+
+Name: assets/bn/ru/men/berimir.html
+SHA1-Digest: r43hXfjEnt6zdmLHxPhl9ngpM14=
+
+Name: assets/bn/ru/women/efimia.html
+SHA1-Digest: p1pa5oWy8KiW1MDt49TcPboc/bI=
+
+Name: assets/bn/ru/women/leila.html
+SHA1-Digest: 5KHqj9K/5Hk0/Jigx8XC1mbWWh4=
+
+Name: res/drawable/botton_shape_released.xml
+SHA1-Digest: RqkU32Cf1U8YaKBoMzPI4SAqQYU=
+
+Name: assets/bn/ru/men/ion.html
+SHA1-Digest: G+qiMDMcQH/sUGeozNTfDR08F54=
+
+Name: assets/bn/ru/men/anis.html
+SHA1-Digest: Zv8YC1T491ifHFlv7ko7npnOuuU=
+
+Name: assets/bn/ru/men/bogomil.html
+SHA1-Digest: hYLA9UnogOUGdrdg+RTXIQUBEWU=
+
+Name: assets/bn/ru/men/konkordi.html
+SHA1-Digest: UU0HX5KVKF8KbqhZ2bxvd8DMV00=
+
+Name: assets/bn/ru/women/hadicha.html
+SHA1-Digest: LbyUqyx2mXhIGAVh60NZnz9BUEQ=
+
+Name: assets/bn/ru/women/meri.html
+SHA1-Digest: CphyX83L2XnRkjxTFV3YCaagEgE=
+
+Name: assets/bn/ru/men/leopold.html
+SHA1-Digest: LImXpGakPCVOGYnO7lctjqnWQpE=
+
+Name: res/drawable/helpful2.png
+SHA1-Digest: BBBFnVxafBeTSKwIN6GrA+DjadI=
+
+Name: assets/bn/ru/women/arslanbika.html
+SHA1-Digest: jp7aKyfgCs7b5OPMkUDiOnG4Apw=
+
+Name: assets/bn/en/bo.html
+SHA1-Digest: LjB+L0eiKrx603IH+jfNHvoYQlk=
+
+Name: assets/bn/ru/women/apraksia.html
+SHA1-Digest: ezOK9HEBXqZtYMS5iwuSyASIg1c=
+
+Name: assets/bn/ru/men/rostislav.html
+SHA1-Digest: 6IqddgmiQWN/85MCBd5MDxzWIMU=
+
+Name: assets/bn/ru/men/krisrian.html
+SHA1-Digest: pbPBS1yMMzJhIQAMfC3GZ0UKsJI=
+
+Name: assets/bn/ru/women/feofila.html
+SHA1-Digest: 5eq2Ms/UTry6Xo2sR8uIAzTOocg=
+
+Name: assets/bn/ru/women/kahira.html
+SHA1-Digest: dq9oA0jnJXBkuo9QTjE84n9ht0Q=
+
+Name: res/drawable-xhdpi-v4/ic_action_pill.png
+SHA1-Digest: dG1WXbhGJKVdWFXCEo79RE66dcM=
+
+Name: assets/bn/ru/women/zita.html
+SHA1-Digest: 46XB3ndmu3W6EoefL0v+0Fq8jKE=
+
+Name: assets/bn/ru/men/apollinarii.html
+SHA1-Digest: gO43/NllfgyL9URUUs8NVWNFpe4=
+
+Name: assets/bn/ru/women/zaituna.html
+SHA1-Digest: Cv6qv5TzkycXTMU+5qgDfRIJZWs=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: T7jCCqaBHZydFrghJhlARmdI7xk=
+
+Name: res/drawable/ic_left_settings_down.png
+SHA1-Digest: VFBPjlYV6jFJSVaLzgQskf8bB0E=
+
+Name: assets/bn/ru/women/aspazia.html
+SHA1-Digest: pGEje7KyGIZtDD19qJePm9eoNto=
+
+Name: assets/bn/ru/men/talik.html
+SHA1-Digest: ddGt5u3BVOxABYwZHxnSTu+KDiY=
+
+Name: assets/bn/ru/men/veniamin.html
+SHA1-Digest: kZ78SC7cqrN8uy8MitqpBTPIyUk=
+
+Name: assets/bn/ru/men/bagir.html
+SHA1-Digest: ov/V3ah9ID8A/68OfUACOsDnW10=
+
+Name: res/drawable/round_button.xml
+SHA1-Digest: eRfFDFybhqZWh8xWkktxNWGhgtI=
+
+Name: res/drawable/round_b2.xml
+SHA1-Digest: o8WA2Z5MokxStGbVifbEsz/faNo=
+
+Name: assets/bn/ru/women/damira.html
+SHA1-Digest: /KzQI9z4uMSctP8IVXiEpTzz9jU=
+
+Name: assets/bn/ru/women/magdalina.html
+SHA1-Digest: NbIKqdtZ8HRqBhz97m8lSaYqWhY=
+
+Name: assets/bn/ru/men/eldar.html
+SHA1-Digest: ie7rckzGzIFpv6l0e1q5dsBoVY4=
+
+Name: assets/bn/ru/women/gulshat.html
+SHA1-Digest: q49DO7D2J9IBA57XSsVApXGELJs=
+
+Name: assets/bn/ru/men/jorj.html
+SHA1-Digest: iHKScZwbbnahl7kny21njwEH5WQ=
+
+Name: assets/bn/ru/men/serafim.html
+SHA1-Digest: wA/ChvLHMMblTbWRD8+5jDPUFE8=
+
+Name: assets/bn/ru/women/gaziza.html
+SHA1-Digest: 6Dn2DCgyQ1F8s7U+9iTweeGbUQE=
+
+Name: assets/bn/ru/women/evelina.html
+SHA1-Digest: MLPKQfUo4HkLzMcprQsEfO3d3jA=
+
+Name: assets/bn/ru/women/bagena.html
+SHA1-Digest: +nKSLTRCGS9ii/nhzt4088HFHvg=
+
+Name: res/drawable-hdpi-v4/ic_action_names.png
+SHA1-Digest: a2mQ9S2Krsj3L+UX7D7hUfnQ0oI=
+
+Name: res/drawable/shadow22.xml
+SHA1-Digest: 3PTd2e3XHAtlMgqhPR2oiFAwkWU=
+
+Name: res/drawable/c3.png
+SHA1-Digest: zo4i2cPG6E6gq8jDMDFzRXhbXX4=
+
+Name: res/drawable/line.png
+SHA1-Digest: 6Ad49EZ95TKZlTGdHqmeuaj1Irw=
+
+Name: res/drawable-xhdpi-v4/spinner_ab_default_blue.9.png
+SHA1-Digest: deNRDT2m76t10VdIBJ6pXe3NtQk=
+
+Name: assets/bn/ru/women/tanzilia.html
+SHA1-Digest: 2278peuN7H5LphydSGr9UGvoRbk=
+
+Name: res/drawable-xxhdpi-v4/spinner_ab_focused_blue.9.png
+SHA1-Digest: YKEEAToDf0qgLshuB2u2RwA4kkU=
+
+Name: res/drawable/helpful3.png
+SHA1-Digest: 1Qs9SL50A65H2cLLM5QVrDZ3+/s=
+
+Name: res/drawable-xxhdpi-v4/progress_bg_blue.9.png
+SHA1-Digest: swDWB15a1JDXhpMJKcUGZ+8iBuU=
+
+Name: assets/bn/ru/men/airat.html
+SHA1-Digest: w0ZGKn6EmFtK5C/ty3/H9JUert4=
+
+Name: res/drawable/pill4.png
+SHA1-Digest: A4I5mFDmA+MCxaUT64g4crC+LD8=
+
+Name: assets/bn/ru/women/tasfia.html
+SHA1-Digest: +b0pp1SUq2E9Wm2RlzeWZYpom74=
+
+Name: res/drawable-mdpi-v4/btn_cab_done_pressed_blue.9.png
+SHA1-Digest: R5Qisx9DkCMWB3Xho2irQ95nILM=
+
+Name: assets/bn/ru/men/ermolai.html
+SHA1-Digest: RlVvcfyml0ZzyNqs53+8biirfC8=
+
+Name: assets/bn/ru/women/aurelia.html
+SHA1-Digest: XJaUqnWRQvAugRUzA/nZAZVll1E=
+
+Name: assets/bn/ru/women/vida.html
+SHA1-Digest: 71bFWs63ZWGCgEd7f6PkZry5gB0=
+
+Name: assets/res/en_6.html
+SHA1-Digest: lC0IGeg+hvTwiVH3cGMfkIT2nuM=
+
+Name: assets/bn/ru/women/dominika.html
+SHA1-Digest: nmzCA48pSFKNKDvp/9T3qx/rsew=
+
+Name: assets/bn/ru/men/bahram.html
+SHA1-Digest: Iuom1hfoILsD21OGGfMMtDzw3kk=
+
+Name: assets/bn/ru/men/iraklii.html
+SHA1-Digest: 5yyY9Je+Vk4sOzJzulkSV8G1T5w=
+
+Name: assets/w35.png
+SHA1-Digest: C5wVbcYVovnVDstJ/B11qmUz54w=
+
+Name: assets/bn/ru/men/oliver.html
+SHA1-Digest: 7s7korFsozE7bOjkVbMutSFlNhQ=
+
+Name: assets/bn/en/gz.html
+SHA1-Digest: QSbjX/lRZaCoazRK9bl6rxSRJfs=
+
+Name: assets/bn/ru/women/klavdia.html
+SHA1-Digest: 1cQxB6VrxRPWvJac0kvlJG9fddU=
+
+Name: assets/bn/ru/women/ruff.html
+SHA1-Digest: Hc/SZlkDDctofAgl4uXwh7NqwbA=
+
+Name: res/layout-xlarge-v4/activity_firstperiodmenu.xml
+SHA1-Digest: 5GWdKYt5P52cKl70itp1tsg43CM=
+
+Name: assets/bn/ru/women/gelia.html
+SHA1-Digest: sG35Y1oAg6qMhVaBdAdZpuiPhxw=
+
+Name: assets/bn/ru/bk.html
+SHA1-Digest: GGBxbTg6r1Y9vetB2zwxJWvGV1c=
+
+Name: assets/bn/ru/women/hasana.html
+SHA1-Digest: /B9yARbJ1ze9dmRCmQ6l5Kcjz2o=
+
+Name: assets/bn/ru/women/indira.html
+SHA1-Digest: rnI890e/ebzeumHrWAJvJCT5BBM=
+
+Name: res/drawable/back.png
+SHA1-Digest: bJAK86sdwiMCDygTUorPvLXhw/I=
+
+Name: assets/bn/ru/women/leokadia.html
+SHA1-Digest: qGk+DDgyFg193tUbZFKt+VM5Gqc=
+
+Name: assets/res/en_0.html
+SHA1-Digest: CP+iZfRfoeNprafYpz7EbAa+K9Y=
+
+Name: assets/bn/ru/men/vissarion.html
+SHA1-Digest: eRu/4f84fTYhb+gpb/Xmzntohus=
+
+Name: assets/bn/ru/women/aza.html
+SHA1-Digest: PMF93xje8on+menfKPFgKnF+BjY=
+
+Name: res/drawable/kick2.png
+SHA1-Digest: uDEdb7SZ9f9RWdKMs/+G0XuxURM=
+
+Name: assets/bn/ru/women/olivia.html
+SHA1-Digest: fM6UVIwCgsJd92xLBRVMnRP3LTk=
+
+Name: res/layout/rowlayout.xml
+SHA1-Digest: 3NnoJMujJAkwXPAXIJX+rRd2keI=
+
+Name: assets/bn/ru/women/klarisa.html
+SHA1-Digest: TZlps9QB1y4mPl4mrAAhk2+LQyU=
+
+Name: assets/bn/ru/men/nazar.html
+SHA1-Digest: OdAcAZqUfp4hU63d3DmBxnYV3E0=
+
+Name: res/drawable/report2.png
+SHA1-Digest: WoShpfq68ukpYkexrA+X7CEQ9ag=
+
+Name: assets/bn/ru/men/amvrosi.html
+SHA1-Digest: MeWCO70RWRfE9K1x7gSqGKFV9WQ=
+
+Name: assets/bn/ru/women/marselia.html
+SHA1-Digest: yhE1xElkj+Whe8atQ/UnrbrLMb4=
+
+Name: assets/bn/ru/women/agnessa.html
+SHA1-Digest: BiXyCMfJdqj1zQ7siSkfw2fgjYI=
+
+Name: assets/bn/ru/women/hloia.html
+SHA1-Digest: fyp5TdywudIZp5WlEENbZ5wSjJw=
+
+Name: res/drawable-xxxhdpi-v4/ic_action_names.png
+SHA1-Digest: +O/Ru9q92dvnoWEUWvon5Vfb9XY=
+
+Name: assets/bn/ru/women/ravilia.html
+SHA1-Digest: 6in5HjKPViRqcTWrxYkyHSzJe2Q=
+
+Name: res/layout/chart.xml
+SHA1-Digest: g/F2NHC2V7XUTcHGoXKfPaXvfAM=
+
+Name: assets/bn/ru/women/lala.html
+SHA1-Digest: 3KALJWExJsBucOmFxzNj5HR+Mas=
+
+Name: assets/bn/ru/men/avdei.html
+SHA1-Digest: K3B7Re4BkzJxrnaIp0i6hFzrnG8=
+
+Name: assets/bn/ru/women/mila.html
+SHA1-Digest: Wx1uOEPCMe7bBQvtcUr0T2OlIwQ=
+
+Name: assets/bn/ru/women/malvina.html
+SHA1-Digest: nIVwalWjVJRFL1oU9pbNGje+YPM=
+
+Name: assets/bn/ru/women/bereslava.html
+SHA1-Digest: FW9CAo1JlTAFXmWIMrK8I+i5KTM=
+
+Name: assets/w26.png
+SHA1-Digest: EeIsbO/IcPd9c+iaMNbqXBLDTq8=
+
+Name: assets/bn/ru/women/ivanna.html
+SHA1-Digest: lqWDC03zEmkmmDqo/BNKItOZzWU=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_dark.9.pn
+ g
+SHA1-Digest: Jo7euj4LvkDv54RWdIWxYYLnMbg=
+
+Name: assets/bn/ru/women/simona.html
+SHA1-Digest: 3KlrgSJju35EW6x5L296Hl1NfJw=
+
+Name: assets/bn/ru/women/agrafena.html
+SHA1-Digest: xxcENPCgD3NiLlmb5NbSoJkr5Dg=
+
+Name: assets/bn/ru/women/georgina.html
+SHA1-Digest: kd69jynSdDgQrIwc0fNSeKNwKkc=
+
+Name: assets/bn/ru/women/giuzel.html
+SHA1-Digest: fIQtL7ggWi+A6pchJXr54TOBdj8=
+
+Name: assets/bn/ru/women/nila.html
+SHA1-Digest: ja4tEYiQu14obLcVRBYQWJUQtRM=
+
+Name: assets/bn/ru/women/sadria.html
+SHA1-Digest: G3ocREJXolwmr2509Wdm+ySlEXE=
+
+Name: assets/w38.png
+SHA1-Digest: vBfaqCk0MqsOz7NViAZeAIUv0mw=
+
+Name: assets/bn/ru/women/dobromila.html
+SHA1-Digest: yGgwKyAQnbWYjHnRuBlqpzksV1A=
+
+Name: assets/bn/ru/women/riza.html
+SHA1-Digest: DcK5UucIDFUqfLsRfO3NTZs/kTs=
+
+Name: assets/bn/ru/men/amadis.html
+SHA1-Digest: btNTEdVgmzYuRcguajqGqkf1AJQ=
+
+Name: assets/bn/ru/men/feliks.html
+SHA1-Digest: eCB1q2DrGS2Y7psOlYMhXHSiL2U=
+
+Name: res/layout/feminap.xml
+SHA1-Digest: aZO27ZuZ4ET9Q3ykbGSI4xN0KDY=
+
+Name: assets/bn/ru/men/mihail.html
+SHA1-Digest: Qs8EgipPWLv30Y1lludtOHWSrIg=
+
+Name: assets/bn/ru/men/rihard.html
+SHA1-Digest: VXZ6u3157R3b+OjWOXC29hs1GbE=
+
+Name: assets/bn/ru/women/djaneta.html
+SHA1-Digest: 4XDgDwZ4q2v8KzvY9BebvRyz7hM=
+
+Name: assets/bn/ru/men/prokop.html
+SHA1-Digest: fw8zbT4vd5mOFSJ+mBkQKbBoXdM=
+
+Name: res/drawable/settings.png
+SHA1-Digest: GbMw3h/F9+dc/bpN10rW29spFCw=
+
+Name: assets/bn/ru/women/hamdia.html
+SHA1-Digest: l5uFYakGzlLp/LNRv+gkfpH9Uik=
+
+Name: res/drawable-xhdpi-v4/ic_action_visit.png
+SHA1-Digest: vUwJv6oPG1k54fq536i2zBBTJkw=
+
+Name: res/drawable-hdpi-v4/ic_action_settings.png
+SHA1-Digest: wsp33SXhoHzCQrfWelCCtpMH0Eg=
+
+Name: assets/bn/ru/men/leonidas.html
+SHA1-Digest: oPJz+4YZPvpFm8W/TFh/XokvHmM=
+
+Name: res/drawable-xhdpi-v4/ic_action_report.png
+SHA1-Digest: mLpkutsYnnqEP5vNrZoEtw8V0z0=
+
+Name: assets/bn/ru/women/barbara.html
+SHA1-Digest: PMeWXnAc4HDIPOmtv7pzGZnS77A=
+
+Name: assets/bn/ru/women/luibomila.html
+SHA1-Digest: +ILduTtlgsWr0VModjUA/NkgDGA=
+
+Name: res/drawable-mdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: 5mRZ2sFLI0LRLV8zEdkzMhgnR9I=
+
+Name: assets/bn/ru/women/elina.html
+SHA1-Digest: TyxmzlwCX3cZVYoqrK6++d2Ij+A=
+
+Name: assets/bn/ru/men/viacheslav.html
+SHA1-Digest: IVGrVUWO6InGlGqOEdHjeL+OgUg=
+
+Name: assets/bn/ru/women/tazkira.html
+SHA1-Digest: dwH3m3eRvROV4H4aJtRGwVbJ1t8=
+
+Name: res/drawable/progress_horizontal_blue.xml
+SHA1-Digest: EJM8N6XbItZ7zxe3m4mi61+cg7A=
+
+Name: assets/bn/ru/men/akution.html
+SHA1-Digest: DgYXFEwppyixPfCCa6JIFjXDXH0=
+
+Name: assets/bn/ru/women/diliara.html
+SHA1-Digest: LoeOpJcGv5h3liGeETMudDaUw00=
+
+Name: assets/bn/ru/men/iosif.html
+SHA1-Digest: fJo2Sq47JWnJt5TjFGaR7WE8/iI=
+
+Name: assets/bn/ru/women/rashida.html
+SHA1-Digest: +NA0rnlra4qYWMEOv/rj0srWD/k=
+
+Name: res/drawable-xxhdpi-v4/ic_action_calendar.png
+SHA1-Digest: Yhn8PynMB9FALGXYglV6jwk6OUY=
+
+Name: res/drawable-xhdpi-v4/ic_action_names.png
+SHA1-Digest: NVnZNh6Xn3YF4SmPd8naucvGhu4=
+
+Name: assets/bn/ru/men/oles.html
+SHA1-Digest: hYJIPE8xg+iaAfBrFueHzCCttnU=
+
+Name: assets/bn/en/ba.html
+SHA1-Digest: EV0nTFbJ6Bu58UJ9TEMdLiC3Gmk=
+
+Name: assets/bn/ru/women/felica.html
+SHA1-Digest: l3XNrcQlRfw7RgcmoHbHQ61EUmI=
+
+Name: assets/bn/ru/women/santa.html
+SHA1-Digest: FHoLMIl09mdu83vXj2TmaaUtHhE=
+
+Name: assets/bn/ru/women/galia.html
+SHA1-Digest: LUI43AGS7buzhxX4Sw0QDxxYtdk=
+
+Name: assets/bn/ru/women/rema.html
+SHA1-Digest: RhOKYTTm7OGh46MCYo+Lcea6fD4=
+
+Name: assets/bn/ru/women/gulnara.html
+SHA1-Digest: K0uzzNe2MMeJIk38KsgvhhOpYZ8=
+
+Name: assets/bn/ru/men/berkut.html
+SHA1-Digest: H7B/4eun/lgowiqkHx2aMXx/cp4=
+
+Name: assets/bn/ru/women/zamira.html
+SHA1-Digest: EpWt0cEATKBl39j/9IH1U/NYaRc=
+
+Name: assets/bn/ru/men/vitali.html
+SHA1-Digest: v9Y4ZY1lHLbSodCcNqSR1bI2gcY=
+
+Name: assets/bn/ru/women/roza.html
+SHA1-Digest: uVn2J9w6oGmqZBzmtQKVV65ZjZg=
+
+Name: assets/bn/ru/women/vasilina.html
+SHA1-Digest: wP6YNu8Y82g/oiCmhdHZISmcgA8=
+
+Name: assets/bn/ru/women/dafnia.html
+SHA1-Digest: yabT90CN4vPpvU4ijhXMKpB9/54=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_light.9.pn
+ g
+SHA1-Digest: MNi9MV8wCkdDwmYH6J7+SbIAI1k=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: NhMTOL7DAS2nnr7t3C3/0uexXiM=
+
+Name: assets/bn/ru/men/evgeni.html
+SHA1-Digest: EW6S9bol/4ti1LBx/O3mqOucxaA=
+
+Name: assets/bn/ru/women/mirabella.html
+SHA1-Digest: cy/q88ppdx7tzKU30idii+YrReo=
+
+Name: res/layout-large-v4/sprsymp.xml
+SHA1-Digest: mJ96KdEEBpq5N5TMv9C2VSCdY1c=
+
+Name: assets/bn/ru/men/alar.html
+SHA1-Digest: uGM9hziJMWCpC/EIcPMTkErmP7A=
+
+Name: assets/bn/ru/men/bikbulat.html
+SHA1-Digest: rn7SNfkTe3ka+u/1r0zm7MP4Bm4=
+
+Name: res/drawable-xhdpi-v4/ic_test.png
+SHA1-Digest: +7WJi9x26MANUdfgXP/c74iW2iY=
+
+Name: assets/bn/ru/women/ilnura.html
+SHA1-Digest: yGbu4yDTxrqGdmVqeLhGtkYdk8g=
+
+Name: assets/bn/ru/women/vassa.html
+SHA1-Digest: /Ur9FhoYzUKVqXvDsgBH+xY5nVA=
+
+Name: assets/bn/en/gd.html
+SHA1-Digest: mjPCAUeMvUpAjqDi10bF9a4NwbI=
+
+Name: assets/bn/ru/men/arhip.html
+SHA1-Digest: Hng0zv36yOxVr1k6PqT+s+uxVm4=
+
+Name: assets/w7.png
+SHA1-Digest: rV18rvuXUPu0D6rv9nQxuGIognI=
+
+Name: assets/bn/ru/women/nailia.html
+SHA1-Digest: D1N/gQDS8GT2pDBeI8QIdl9Pc3o=
+
+Name: assets/bn/ru/women/neonila.html
+SHA1-Digest: zESqW/gBnDONEum5qnyPr86Hiag=
+
+Name: assets/bn/ru/women/aida.html
+SHA1-Digest: iMrdJeDNwzsMz6znzn7gJ5uOREo=
+
+Name: assets/bn/ru/women/efrosinia.html
+SHA1-Digest: l92wcbEqXCjXNB0nQDr7KCJP2hY=
+
+Name: res/drawable-xxxhdpi-v4/ic_action_about.png
+SHA1-Digest: AusUK1GyDGaoVAavXkwmuFe94Gg=
+
+Name: res/drawable-mdpi-v4/ic_light.png
+SHA1-Digest: BrZPve3DDZw571kf1YbQNNsSiGA=
+
+Name: assets/bn/ru/women/tanvira.html
+SHA1-Digest: RNFAwQ/RyNTIS1ApuGu55GYvyQQ=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: KfT1DbEuXyhvG18n0yILeVsK0Vo=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: pyKGvlDIcuabjUP3XyADkEc6qG4=
+
+Name: assets/bn/ru/women/ioanna.html
+SHA1-Digest: v2xK1MThbOUrTNPqDHdN5nNpGCY=
+
+Name: res/drawable-xxxhdpi-v4/ic_action_bag.png
+SHA1-Digest: inpIevoIearB7bgbss6s/7aEOww=
+
+Name: assets/bn/ru/men/makar.html
+SHA1-Digest: dsdjqy6pK6h4WEjI3EKWaPRJjD4=
+
+Name: assets/bn/ru/women/zamilia.html
+SHA1-Digest: +5ZOMzCdU/1iofD/OAQ5oSLm9dg=
+
+Name: assets/bn/ru/men/gordon.html
+SHA1-Digest: fvaEhZW54iAgsMP396ancRCm4A8=
+
+Name: res/drawable-xhdpi-v4/progress_primary_blue.9.png
+SHA1-Digest: n5z86OXNTY6aYQc1l1eJwSdiAjM=
+
+Name: assets/bn/ru/men/gena.html
+SHA1-Digest: ZOjMBBh8RQfw4hRcgTh8DO3pmSc=
+
+Name: assets/bn/ru/men/ahbar.html
+SHA1-Digest: 1HBNJ23WIEGs/6e7BGrqbhHzr9I=
+
+Name: assets/bn/ru/bm.html
+SHA1-Digest: cXEpVY38AxtElhqypggcWifApQw=
+
+Name: res/xml/widget_info.xml
+SHA1-Digest: Z1BBL40gVdyhpDnRimr5AW+3XZg=
+
+Name: assets/bn/ru/women/uiventa.html
+SHA1-Digest: skzQPLbRakmZRayKu8OjqzI8XP0=
+
+Name: res/drawable/tab_selected_holo3.png
+SHA1-Digest: yVxJwgjDTcbbY5CfLQtcyIEHMQ0=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: XfiPEQDAz6Ng5Q70xPZblJiqGT8=
+
+Name: res/drawable-xhdpi-v4/ic_action_kick.png
+SHA1-Digest: le6JfErvxBi+oOhFouaBakWAPgQ=
+
+Name: res/drawable-xxxhdpi-v4/ic_action_visit.png
+SHA1-Digest: ELbpYhPOpAjhhcJobHqgCCoCzNc=
+
+Name: assets/bn/ru/women/lada.html
+SHA1-Digest: AVAq6wBRmLSmSdJRkO2ZXqmL6p0=
+
+Name: assets/bn/ru/men/faddei.html
+SHA1-Digest: Eb7W8RfH73ZKeYOwG2fFBprzPtw=
+
+Name: assets/bn/ru/women/jadviga.html
+SHA1-Digest: aeHQYntRWg0MoRR6XCdoBfuG7y0=
+
+Name: res/drawable/botton_shape_released4.xml
+SHA1-Digest: y8eQo+nWtVPZPvDGXG/JSaN9Lyc=
+
+Name: res/layout-large-v4/item_report.xml
+SHA1-Digest: LPdTcbMHhzG1XDt0cHJ5xl1Kgc0=
+
+Name: assets/bn/ru/men/jarosh.html
+SHA1-Digest: X5Q7aEYrvSTd6m4p3xKUAAiQWEs=
+
+Name: assets/bn/ru/men/bertram.html
+SHA1-Digest: g7Mzjt0mz5AWzYzKLV/vDscsHlg=
+
+Name: res/drawable/ramka.xml
+SHA1-Digest: xyzLxizHGmwU8LC4iFjlpy54MRw=
+
+Name: assets/bn/ru/men/ravil.html
+SHA1-Digest: TBopGaLxnERrY2GfNTs7jCi2b4Q=
+
+Name: assets/bn/ru/women/pelagea.html
+SHA1-Digest: /rZDmuGE0ma3Tft9+nRj89/OwBQ=
+
+Name: res/drawable-hdpi-v4/ab_bottom_solid_blue.9.png
+SHA1-Digest: z8DgzPXVLXCxtbBk6UuFk5nylhM=
+
+Name: assets/bn/ru/men/zenon.html
+SHA1-Digest: z+jBxON7zMFZh9GiUNu53FEy9GE=
+
+Name: assets/bn/ru/women/hanifa.html
+SHA1-Digest: A2DcyOGivhsPsWHYOb+rE6wct2s=
+
+Name: res/drawable-mdpi-v4/tab_selected_pressed_blue.9.png
+SHA1-Digest: NFOQugI/2Kj2rNxF/QmoYGzUacE=
+
+Name: assets/bn/ru/women/praskovia.html
+SHA1-Digest: CGWVhZ85NhXRNen/kqAijj/slb0=
+
+Name: res/drawable-xxxhdpi-v4/ic_action_report.png
+SHA1-Digest: 4dCT/nMjK90GPBdAkZ8Kzu7Zi3s=
+
+Name: res/drawable-hdpi-v4/tab_selected_blue.9.png
+SHA1-Digest: YCXMcIMF6MrUo3M87YEs35rPymg=
+
+Name: assets/bn/ru/women/vikia.html
+SHA1-Digest: TqDK2I8ZKoU2fvFezHk2WtaxwOE=
+
+Name: res/drawable/medic.png
+SHA1-Digest: gfmuelEb7IKgPKa2Z0AusEhnRK8=
+
+Name: assets/bn/ru/men/amos.html
+SHA1-Digest: XNW3Tb/gPXEH2D6qCwsVMjpEY08=
+
+Name: res/drawable/babyname4.png
+SHA1-Digest: ZPQP+U4lkfCpyg4DI4PN35NjsH4=
+
+Name: assets/bn/ru/bi.html
+SHA1-Digest: LldrLFnlS44tkxb9KYV+xqJtUcU=
+
+Name: res/drawable/botton_shape_released5.xml
+SHA1-Digest: E86ToJQpVJTt4f3IaQXPVUZdUzU=
+
+Name: assets/bn/ru/men/olan.html
+SHA1-Digest: +oh5g8NSNaFMCHgNn6SV2I2Ysr8=
+
+Name: assets/bn/ru/women/lika.html
+SHA1-Digest: LaXCd8E71WxqsoJHenvCl/AIqqY=
+
+Name: res/drawable/line5.png
+SHA1-Digest: GA4eRpILF0mowqdzna672Sn0V4E=
+
+Name: assets/bn/ru/women/narima.html
+SHA1-Digest: CfpKqyvEcOYbucJ7djiI02tWdLo=
+
+Name: assets/bn/ru/women/danuta.html
+SHA1-Digest: ph9YxL6IPJilE34/F1dkHzUh0nA=
+
+Name: assets/bn/ru/women/roberta.html
+SHA1-Digest: PgjMKAtGz9IstlcmZBumOcxoRbU=
+
+Name: assets/bn/ru/men/apollon.html
+SHA1-Digest: FBrWcpReQ1ZqV35Z7mLuv248XKs=
+
+Name: assets/bn/ru/women/delia.html
+SHA1-Digest: 3+57J8C+5OrzjfphZwjl17IzWp0=
+
+Name: assets/bn/ru/women/batulla.html
+SHA1-Digest: 2D8xI76KSMEOAS1IpxO500XuiyA=
+
+Name: assets/bn/ru/women/saiifia.html
+SHA1-Digest: HKwRTissV3hVUx2wkY2/fhElwKA=
+
+Name: res/drawable/kick5.png
+SHA1-Digest: cO03/XBMO02EUMKgNVjsQNnJc9M=
+
+Name: assets/bn/ru/men/saverin.html
+SHA1-Digest: 7iGDA9yiiu2z6jy97pKJLPchBAY=
+
+Name: assets/bn/ru/men/telman.html
+SHA1-Digest: 68c459S1xvWZKen3PfzjOv5HeOg=
+
+Name: res/drawable-xxhdpi-v4/cab_background_bottom_blue.9.png
+SHA1-Digest: XM9lUerMe3ArXSfaXEAWPx056oc=
+
+Name: assets/bn/ru/women/zinaida.html
+SHA1-Digest: pz8LHrk8orLa4iaTvM1BiZrFEMg=
+
+Name: assets/bn/ru/men/frol.html
+SHA1-Digest: illNd6Jm8+jOouvG5YmUSdQKffM=
+
+Name: assets/bn/ru/men/andgei.html
+SHA1-Digest: j1aSGaUBpCsAdOfWh2WKGvUKZRE=
+
+Name: res/drawable/symp.png
+SHA1-Digest: R8N8mLoKw6erCdu1OSh5t2a4Obs=
+
+Name: assets/bn/ru/women/filina.html
+SHA1-Digest: nJz29kFzBxLHi4I5xMhdh3jP9fs=
+
+Name: assets/bn/ru/women/trifena.html
+SHA1-Digest: qBp5RyvSR9oFV1cbZoZljOBT8+0=
+
+Name: assets/bn/ru/women/bronislava.html
+SHA1-Digest: AjP7Qo7d2vjLap7OP8CCqzXYbT0=
+
+Name: assets/bn/ru/men/zinovi.html
+SHA1-Digest: ONKSl16lhlOCwgEAwZyokzklhKQ=
+
+Name: res/layout-xlarge-v4/calendar_item3.xml
+SHA1-Digest: Fv14U3nXe3wyAfprzCIqTxjIRzw=
+
+Name: res/drawable/medic3.png
+SHA1-Digest: 0kHA/VwDBfAb3wWLUaE9Y3qxUX8=
+
+Name: assets/bn/ru/gn.html
+SHA1-Digest: tnwrNuDzUFap2SDsIx9Ny53/D6o=
+
+Name: assets/bn/ru/men/balash.html
+SHA1-Digest: 2yBpNoF/impkkiYSM+dF68KmA5o=
+
+Name: assets/bn/ru/women/ustinia.html
+SHA1-Digest: KWWixwMmhIDanJfFHzWSAbbgxOc=
+
+Name: assets/bn/ru/women/efrosiniia.html
+SHA1-Digest: wfg8oyf5G2zs42PqlPg9EMETvi8=
+
+Name: res/drawable-hdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: iP8qRXkY+XNmRoVEr+A6b2fLfF4=
+
+Name: assets/bn/ru/women/taliga.html
+SHA1-Digest: RG+wbO3l/7bE/IMPmp9jk87AROA=
+
+Name: assets/bn/ru/men/maksimilian.html
+SHA1-Digest: vv7RWTL8rE1yUcjaBaXca3dzNFA=
+
+Name: assets/bn/ru/women/raida.html
+SHA1-Digest: A9465ez0KlcQtGpUVGTe928OgbE=
+
+Name: assets/bn/ru/women/samira.html
+SHA1-Digest: JbNOUUAcqtjGwYgYUhJQ1vC2zKk=
+
+Name: res/drawable/symp3.png
+SHA1-Digest: p36nx3oEm/U+2QOO1DIuaUH2nxw=
+
+Name: assets/bn/ru/women/uihanna.html
+SHA1-Digest: cEPON/EUj3h+a/pdUyWFr4xGDmo=
+
+Name: assets/bn/ru/men/anzor.html
+SHA1-Digest: l6dExWwZW4q3W9rbhMRoCgBEapo=
+
+Name: assets/bn/ru/women/juzefa.html
+SHA1-Digest: aBphpDYD3b1wAC0tCoLISz2l4Uo=
+
+Name: res/drawable-xhdpi-v4/progress_secondary_blue.9.png
+SHA1-Digest: eXduLUekTpJbONfunXXtSMoU8aQ=
+
+Name: assets/bn/ru/men/feofan.html
+SHA1-Digest: 27ktmu1VqUakH22SWCDieZ9kp7s=
+
+Name: assets/bn/en/be.html
+SHA1-Digest: b6Y9VTu9J43FjfE7V8ecNrvzLKY=
+
+Name: org/achartengine/image/zoom_in.png
+SHA1-Digest: 8BdHj5K0I7rn17mdrqnDMNYpb30=
+
+Name: res/drawable-xhdpi-v4/ab_stacked_solid_blue.9.png
+SHA1-Digest: fb5ggRU6FVmvvA25jpNtWZxVvao=
+
+Name: assets/bn/ru/women/sufia.html
+SHA1-Digest: mzvDCbRirw9f3WG7J9MEB3c1GAA=
+
+Name: assets/bn/ru/men/stakrat.html
+SHA1-Digest: SYlHpkZxAegKDb3pIxK/gBXXn/A=
+
+Name: assets/bn/en/bv.html
+SHA1-Digest: JSvCA6f1IIf+1TTSwuRnhM4kgJ8=
+
+Name: assets/bn/ru/men/norman.html
+SHA1-Digest: chlqxexX4S1r1SyvygABep8aMc4=
+
+Name: res/drawable/rad2.xml
+SHA1-Digest: TlN9BzapS9qyfIbw1YGFSiBhs9g=
+
+Name: assets/bn/ru/men/radomir.html
+SHA1-Digest: hecvz1UYd7CJ9tE9Epi7gpsbS0A=
+
+Name: assets/bn/ru/men/rais.html
+SHA1-Digest: rJ2zBHQLD7VB93O1a3jnpCazo20=
+
+Name: assets/bn/ru/women/adelaida.html
+SHA1-Digest: tSaHjMsQbf0df4NtzZtExUCYqDQ=
+
+Name: assets/bn/ru/men/rashid.html
+SHA1-Digest: aJ8y2F8KtBDHLLOZeBI6fJ89jcA=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: rRjIC9V51TgZe2Muk+QxNRxDB4k=
+
+Name: assets/bn/ru/women/malusha.html
+SHA1-Digest: nRfcx+KDQ7vsmmYiNyH4jCyS9Zo=
+
+Name: res/layout-xlarge-v4/kicks.xml
+SHA1-Digest: NZFlO/1O15JwtfCymQpfd6CbBTg=
+
+Name: assets/bn/en/bn.html
+SHA1-Digest: jEfyIvnhBFEeakLNEZx0O2Nvf8w=
+
+Name: assets/bn/ru/men/arseni.html
+SHA1-Digest: 9UPd8vES8JtS/MWe3diNp2BHiik=
+
+Name: assets/bn/ru/women/agapia.html
+SHA1-Digest: 2e0r4d9ZIh/JMRzlM7QIgakBLtU=
+
+Name: assets/bn/ru/women/justina.html
+SHA1-Digest: 8i9Vd+FMkM/knbWRHGB0fKHl1Ts=
+
+Name: res/drawable-hdpi-v4/cab_background_top_blue.9.png
+SHA1-Digest: 4ceF5/BBKqLZkN+onaXHYeM5RTA=
+
+Name: res/drawable/custom_ratingbar_empty.xml
+SHA1-Digest: 8b8JzinLv9WoZ4eM1tsocsDXDrc=
+
+Name: assets/bn/ru/men/simon.html
+SHA1-Digest: OeKW7g/25JN+i4AJkK7U9C79+Us=
+
+Name: assets/bn/ru/women/deniz.html
+SHA1-Digest: gtK2qT3va+Rb5lO2m4dvBS5kUPI=
+
+Name: assets/bn/ru/men/yakim.html
+SHA1-Digest: LZKAnlFG0ZiJuP9O3FRLySv6pN8=
+
+Name: assets/bn/ru/men/ostap.html
+SHA1-Digest: O50dhmGL0DBL+sNgl/+w0XSpuk4=
+
+Name: assets/bn/ru/women/halima.html
+SHA1-Digest: hT4Ppj2gB11mn/VEoG93H5fZlH4=
+
+Name: assets/bn/ru/women/svetozara.html
+SHA1-Digest: HqLmSFXtgLRTy7l2ZAVFNdLfD48=
+
+Name: assets/bn/ru/women/mansura.html
+SHA1-Digest: T3aqPxzCd6BnC6LGjy4RPFAsZjk=
+
+Name: assets/bn/ru/men/allar.html
+SHA1-Digest: 0l6+e2xexGZdSlJtfrCP33nbPbw=
+
+Name: assets/bn/ru/women/linda.html
+SHA1-Digest: JHMf2FbZl2ZrGdh/YJot4C9q244=
+
+Name: assets/bn/ru/men/avim.html
+SHA1-Digest: OKDYPrCCRKYQeS1Ls7XcmmroKOE=
+
+Name: assets/bn/ru/women/ilnaz.html
+SHA1-Digest: CcGiJdreWmOqndPm95/RPABB/pA=
+
+Name: assets/bn/ru/women/stanimira.html
+SHA1-Digest: i2UUlC4S9826Fsjqq2J6auQqB4w=
+
+Name: assets/bn/ru/men/fidel.html
+SHA1-Digest: 1XnnvSTglg7TrNrvG7GMDfYrzLA=
+
+Name: assets/bn/en/gw.html
+SHA1-Digest: 7XUi8Yv1MnDCCDWLVc9Cd4L0ce4=
+
+Name: assets/bn/ru/men/bratislav.html
+SHA1-Digest: LyW1qbQFVZRjxiJ0k84CkP84SGw=
+
+Name: assets/bn/ru/women/karima.html
+SHA1-Digest: Zoi2w7I4gl16OZnV8tgQADpCcjo=
+
+Name: res/drawable-mdpi-v4/progress_bg_blue.9.png
+SHA1-Digest: vY4WsRVXI66YOdU/rZiyDR49eYc=
+
+Name: res/layout/babycaredialog.xml
+SHA1-Digest: ebik4//1+KIfZ7LeNqAghlE9JlE=
+
+Name: assets/bn/ru/women/hadidga.html
+SHA1-Digest: XnAibWOko+clLVk7hzcjHN4fYzc=
+
+Name: assets/bn/ru/women/vlasta.html
+SHA1-Digest: uGdvL5apnuVGtQDfFX+xPzH/Ob8=
+
+Name: assets/bn/ru/men/maksim.html
+SHA1-Digest: pmxa20MnQ6VdiJM8attZUXvj9QY=
+
+Name: assets/bn/ru/men/leon.html
+SHA1-Digest: Xj+Tc1dMFGNzqfwnkDA+NmOx4V8=
+
+Name: assets/bn/ru/men/cezar.html
+SHA1-Digest: N9ygxWUCaiGrL6lvcOvsu/mE5cY=
+
+Name: assets/bn/ru/men/petr.html
+SHA1-Digest: 52MZXxcT0srFQa449W0vOdAKAZk=
+
+Name: assets/bn/ru/women/stanislava.html
+SHA1-Digest: AQGhPV+8H3XF8htAWMy7v8Nbegs=
+
+Name: res/layout/weight.xml
+SHA1-Digest: J5/p+KUeWGdHPr04rD9wl9vGOpk=
+
+Name: assets/bn/ru/men/azarii.html
+SHA1-Digest: S2eBH7NVwJA77ZMXNZsrc516JGE=
+
+Name: assets/bn/ru/women/edna.html
+SHA1-Digest: 51IqqaFYodDv2Q2ASjF6yOXw0YU=
+
+Name: assets/bn/ru/women/sozia.html
+SHA1-Digest: tMULY+zbLKoSaseF84HPNHJ86gQ=
+
+Name: assets/bn/ru/men/uhim.html
+SHA1-Digest: 4FwICGhTwlbrQvGZPeoYThv1ulg=
+
+Name: res/drawable/baby2.png
+SHA1-Digest: h6ipuLbMyYLyCT/M0JvyYNHrX5k=
+
+Name: assets/res/ru_6.html
+SHA1-Digest: AmPPn/xoI25X1uIKVMg8DZEb7Oc=
+
+Name: res/layout/calendar_item4.xml
+SHA1-Digest: gg+ytQcC4nqg0A4GgNB0Gaaso+Y=
+
+Name: assets/bn/ru/women/nelli.html
+SHA1-Digest: Ly9A7FziVzZXVM0/X/TIXS6Yu2M=
+
+Name: res/drawable/round_b.xml
+SHA1-Digest: OpmrOhFD781AOBCqOg7/DltPhPw=
+
+Name: assets/bn/ru/men/tigran.html
+SHA1-Digest: MfZAZiz+K7MSg18CAdSNYH2kaVw=
+
+Name: assets/bn/ru/men/avtandil.html
+SHA1-Digest: UZ9TgR/uA+sq2j1bQtKtvJYNzwk=
+
+Name: assets/bn/ru/women/gorislava.html
+SHA1-Digest: RNbDjRvcqyC90165lG1ADdyshSY=
+
+Name: res/layout/note.xml
+SHA1-Digest: v3uLRg13mGJGp9GvusDPSbMHq8I=
+
+Name: assets/bn/ru/women/miliausha.html
+SHA1-Digest: igh3+fd+d8adfsnPD1MtR/3hANc=
+
+Name: res/drawable/your_tab_selector_drawable.xml
+SHA1-Digest: os4oiw2GtcpGFxV82a1VsR7ArIg=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: srU1La0aKxKcB1CLvKiSYa09NHU=
+
+Name: res/layout-large-v4/windowsrating.xml
+SHA1-Digest: /7R8ekgGyKidJDivFi1EEqKBs7I=
+
+Name: res/drawable/tab_unselected_holo3.png
+SHA1-Digest: rVVwq3Bq1R7J+EAAyd+S4HNrf8Q=
+
+Name: assets/bn/ru/women/zainab.html
+SHA1-Digest: irsprjZ1Y2wkvQpOFBC1VvreL4E=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: TJE1tg63y88xLdIALKGpuLmgh0s=
+
+Name: assets/bn/ru/women/deizi.html
+SHA1-Digest: HmWsyyt+iS7ntep9WmSdPMLXL2Q=
+
+Name: res/drawable/symp22.png
+SHA1-Digest: 3tryFhy6/F/O7hOtYyNNgBZaUzk=
+
+Name: assets/bn/ru/women/goluba.html
+SHA1-Digest: AzxPiJu0/A9B4eWm9LrgrZSEwcU=
+
+Name: res/drawable/settings3.png
+SHA1-Digest: xMMUKgp6aHcdxWQhfCGBqB8VUE4=
+
+Name: assets/bn/ru/men/abel_.html
+SHA1-Digest: atIMn1slJgT8RCQjn6zETSvUhso=
+
+Name: assets/bn/ru/women/zahima.html
+SHA1-Digest: LyQAm6aSvigqN7/TR1XZQU4JvO4=
+
+Name: res/drawable-hdpi-v4/ab_transparent_blue.9.png
+SHA1-Digest: W1gMkGqxnTD926al+pimy2rzxyQ=
+
+Name: assets/bn/ru/women/djokonda.html
+SHA1-Digest: dUOm7xlCY1PgDM2r5XoeqUDqCaE=
+
+Name: assets/bn/ru/men/azamat.html
+SHA1-Digest: EzL2iojrZ8vHaGa24onhqHRQro0=
+
+Name: assets/bn/ru/women/fatiha.html
+SHA1-Digest: rIVfw1+JleWi0NCZH1VK5eSJMI8=
+
+Name: res/layout-xlarge-v4/item_babynames.xml
+SHA1-Digest: Kaa/3fl62w0C9P4uUc+5M4FKfSU=
+
+Name: assets/bn/ru/women/alina.html
+SHA1-Digest: 8VNzVYYViF1ZL4J0iPTDZhNb/H4=
+
+Name: assets/bn/ru/women/jiansina.html
+SHA1-Digest: SNs6rNsFPF2hGyV62rcTP+3F830=
+
+Name: assets/bn/ru/women/rada.html
+SHA1-Digest: dKhQa4ESsf/S05fuCzYi6gLD/UQ=
+
+Name: assets/bn/ru/men/aution.html
+SHA1-Digest: COqsikIysfsRVKO5+iKgCI5hscQ=
+
+Name: assets/bn/ru/men/agliam.html
+SHA1-Digest: 43G3LR0Niziaw3mfLCExHfpTcuc=
+
+Name: res/drawable-mdpi-v4/ic_action_timer.png
+SHA1-Digest: kq/JJZdM8PvErKZGtlIaN0f8XtM=
+
+Name: assets/w10.png
+SHA1-Digest: tVw91Tn4iGG6wrpOXW/uqmG+Lmw=
+
+Name: assets/bn/ru/women/agata.html
+SHA1-Digest: U684aYOgYwxpTqR4z3VHovVGPK8=
+
+Name: res/drawable-xxhdpi-v4/ic_action_weight.png
+SHA1-Digest: zuKOUwRsnKAqMkT1agnocZ0Px3c=
+
+Name: assets/bn/en/bx.html
+SHA1-Digest: j+wl5/Rpr2dKHBaI32MIsGeIFpM=
+
+Name: res/drawable/but.xml
+SHA1-Digest: yZjv2kL/TK3CID4tuQFfWGiqI0o=
+
+Name: assets/bn/ru/men/agir.html
+SHA1-Digest: hYWa1KH7UhWNxPk+iLZrHBiRxZ8=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: qaK4e1gDhaSXVr673Ke38Qdp/V4=
+
+Name: res/layout/slidingmenumain.xml
+SHA1-Digest: 2Z+PwL7LJNZQy/wChjnSoV8hK84=
+
+Name: res/drawable-hdpi-v4/spinner_ab_disabled_blue.9.png
+SHA1-Digest: KElub0S2hBQwF9lGlqHnEpiIwGA=
+
+Name: res/layout/header.xml
+SHA1-Digest: 3CuJ9DZ8H5cQxfOaLQHhSQwyEQc=
+
+Name: assets/bn/ru/men/bahman.html
+SHA1-Digest: Vo6QIaBYNM3WqZZ4gWWkOAzeLkw=
+
+Name: res/drawable-mdpi-v4/ic_action_symp.png
+SHA1-Digest: JPxtu9FE7BHf9fbnezp9X7HVX1I=
+
+Name: res/drawable-xxhdpi-v4/ic_action_pill.png
+SHA1-Digest: 5bpuUr6mDPpHCUk5+OAsrmmzaVU=
+
+Name: assets/bn/ru/men/ali.html
+SHA1-Digest: UqZNb9IoceTrnNYlD3CeCoWiUiM=
+
+Name: assets/bn/ru/men/adat.html
+SHA1-Digest: lgJb1LMqGjpcdinr1dh4IcmsQr0=
+
+Name: res/drawable-hdpi-v4/ic_action_visit.png
+SHA1-Digest: ts6tG6Caz2xqKII9aIM6r3S3xYM=
+
+Name: assets/bn/ru/women/gordiana.html
+SHA1-Digest: 27L3O3a7FjMksHs9FfM/e5tn3ps=
+
+Name: assets/bn/ru/women/rabi.html
+SHA1-Digest: hTsfsifn1/2qERYFS0vsY+356sY=
+
+Name: assets/bn/ru/men/al_vares.html
+SHA1-Digest: +nFI4NkTUn2/4v3pRZOUv0NluRU=
+
+Name: res/drawable-xxhdpi-v4/ic_action_visit.png
+SHA1-Digest: uSqFffze7bpNjb6L2Kh6HTe3PgI=
+
+Name: assets/bn/ru/men/vitold.html
+SHA1-Digest: UZuSe5HSrKrc5ZVs8FOQxrnk+ps=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: r5BaJcm8YInShTypnaU/gf6UKTQ=
+
+Name: res/drawable-hdpi-v4/tab_unselected_focused_blue.9.png
+SHA1-Digest: O+QLCK9lJloK30jQDomaVEIxmDU=
+
+Name: assets/bn/ru/women/cheslava.html
+SHA1-Digest: x7XPis0j/DgB/TjuNliw+EQPXXo=
+
+Name: res/drawable/ram.xml
+SHA1-Digest: 3qarPLnzrVXi2OHdD+k6mMqanCs=
+
+Name: assets/bn/ru/women/aishat.html
+SHA1-Digest: xcAs3poXxjqZgm/mwjt/3hS+4Rg=
+
+Name: assets/bn/ru/women/mavluida.html
+SHA1-Digest: IayMkXKdb3RMSasfl1H7+vkYtgM=
+
+Name: assets/bn/ru/men/artamon.html
+SHA1-Digest: hDnhNAxIq830Yb5J6KZ0xdVPvdI=
+
+Name: assets/res/ru_2.html
+SHA1-Digest: Wa90+oeTnoaf5/v9aNE9yBVlq40=
+
+Name: assets/bn/ru/women/zarina.html
+SHA1-Digest: aFhAXIEM48OcBIOuBriTPtONW4A=
+
+Name: assets/bn/ru/women/ilsura.html
+SHA1-Digest: s+gIA2LED0kymU6kVQ87CHANBqU=
+
+Name: assets/bn/ru/men/damir.html
+SHA1-Digest: b7e5pykt1EktcniUSmiOBY14wSo=
+
+Name: res/layout/item_kick.xml
+SHA1-Digest: /HKE+KUXHuTfpgD9qWRsHUYFnJw=
+
+Name: assets/bn/ru/women/zakira.html
+SHA1-Digest: EYb7N1WsE15gWvt0qKkkUoQIFjA=
+
+Name: assets/bn/ru/women/malika.html
+SHA1-Digest: jsgCLMukOZ7UXi0dEbjPnH/bYnA=
+
+Name: assets/bn/ru/women/akulina.html
+SHA1-Digest: ynPMWNCXXn2ZRndli0h3ff1Zdrs=
+
+Name: res/drawable-mdpi-v4/btn_cab_done_default_blue.9.png
+SHA1-Digest: teGcvsXGpjjSfWBsiYP2grIRVh4=
+
+Name: assets/bn/ru/men/teodor.html
+SHA1-Digest: QD0MzEZZZ0gtIDZtWvRRh4UM7EA=
+
+Name: assets/bn/ru/women/petronia.html
+SHA1-Digest: TcujB2fJ8MF0zFkdYwQhwnMC4PQ=
+
+Name: assets/bn/ru/men/savva.html
+SHA1-Digest: SioQgczF2aoe2zGmlRZV7fhWJkA=
+
+Name: assets/bn/ru/women/leonora.html
+SHA1-Digest: uiQvb44lQozlJXh5yIXJ4wSchwM=
+
+Name: assets/bn/ru/women/nargiza.html
+SHA1-Digest: t8ZNB0UINOmb/yIealrxv+xysoo=
+
+Name: assets/bn/ru/men/jason.html
+SHA1-Digest: yO2mk+/h00AhYqmuIy3GKvqcQcs=
+
+Name: res/drawable/report4.png
+SHA1-Digest: 4fpSM/zybvnMW2fiNmkWfQ//q9s=
+
+Name: assets/bn/ru/women/veda.html
+SHA1-Digest: 1XB9l3dH6qrXhXsW/v2PTo2eyW0=
+
+Name: assets/bn/ru/women/violanta.html
+SHA1-Digest: nxlNBC3QLCShEz09IxuvCEFgiA8=
+
+Name: assets/bn/ru/men/berislav.html
+SHA1-Digest: 3GLkuDH54AhfXKoMMpAf85ndCQ4=
+
+Name: assets/bn/ru/women/kazimira.html
+SHA1-Digest: StZ3SblEJEqV5UeYDWwbVKtbIE8=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: CG3lDkcP/GHQTYwc/aOmdEm1/oA=
+
+Name: assets/bn/ru/women/inessa.html
+SHA1-Digest: WFSnvSU4Ql49d8oY9X2XgEPCeeg=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_dar
+ k.9.png
+SHA1-Digest: wv2dVvaU2YokwLE9rPy/vR71x8o=
+
+Name: assets/bn/ru/men/jan.html
+SHA1-Digest: uKG/kuG9BGQvkWisrgHlLLywPII=
+
+Name: assets/bn/ru/women/raisa.html
+SHA1-Digest: 2GmMXRs7cATFd3UHP4LaKmQJvsQ=
+
+Name: assets/bn/ru/women/renata.html
+SHA1-Digest: cSY+ThiBN7Uli39Y5WbWCEQvTQk=
+
+Name: res/drawable/common_signin_btn_text_light.xml
+SHA1-Digest: k5Yu6QD8wPe5IdVLmbQr6lMRxUY=
+
+Name: assets/bn/ru/men/anfim.html
+SHA1-Digest: 7LDqN6RLTZ8774zXmESMh7+qvJg=
+
+Name: assets/bn/ru/men/judgin.html
+SHA1-Digest: aYVmxZRzUQjGqz3XOO9NBNtLYc4=
+
+Name: assets/bn/ru/women/pandora.html
+SHA1-Digest: fNQ736euFi/U/BdlOX1Qxc9W07g=
+
+Name: assets/bn/ru/men/alfinur.html
+SHA1-Digest: RvS2VPZLbPObOQ70Ce+VR/s/G0M=
+
+Name: assets/bn/ru/men/rafael.html
+SHA1-Digest: xTDYkWaQSHFYXmw/LmwrZOj7KqQ=
+
+Name: assets/bn/ru/women/lokmania.html
+SHA1-Digest: In77XSMi69TNuB5dRsPJ7mSny/A=
+
+Name: assets/bn/ru/women/nerina.html
+SHA1-Digest: QsAZ1e7zVOjYXw1WtY7HUso3VYc=
+
+Name: assets/bn/ru/men/klavdi.html
+SHA1-Digest: me//+IFNn7Covi2qTv70JucLXx4=
+
+Name: assets/bn/ru/men/akindin.html
+SHA1-Digest: bQFwl7GN+Ju2ME3NcBRlCS+WyJg=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: +gmuhIqM5fxBv3rZoih1jHA7u0A=
+
+Name: res/drawable-xhdpi-v4/ic_baby.png
+SHA1-Digest: PvmdwGB+J3jCz51mybAs+Dk3KCI=
+
+Name: assets/bn/ru/men/hristian.html
+SHA1-Digest: l+Pp4Ef8S34feL4lxEpNuxIhe8w=
+
+Name: assets/bn/ru/men/hristos.html
+SHA1-Digest: 4Vlv7je4mEY54wrxiNdh0RbKURM=
+
+Name: assets/bn/ru/women/inga.html
+SHA1-Digest: exSJV9vh60x+GWL7gI6scr5Dq9g=
+
+Name: assets/bn/ru/women/sharlota.html
+SHA1-Digest: 2Sywv3rRly8sVKtfNBtR07tqRoc=
+
+Name: assets/bn/ru/women/bratislava.html
+SHA1-Digest: BU3AYo9JPwD+eTrqarQB1qShAbc=
+
+Name: res/drawable-xxxhdpi-v4/ic_action_kick.png
+SHA1-Digest: HwlnUY1l7I092CH1wEwmYsquryk=
+
+Name: assets/bn/ru/men/artem.html
+SHA1-Digest: nVz9q0r9idfnieA+jkPNQai6XhA=
+
+Name: res/drawable-hdpi-v4/ab_solid_blue.9.png
+SHA1-Digest: gntbqgecVzL3XsGeWiLLf5HccPQ=
+
+Name: assets/bn/ru/men/modest.html
+SHA1-Digest: bbJtCd++vsWoYeLSo/hxHIvXN/k=
+
+Name: assets/bn/ru/men/lev.html
+SHA1-Digest: scX3Rqnu6BE6f9S6mld932d8Rf4=
+
+Name: assets/bn/ru/men/bernard.html
+SHA1-Digest: Doq1yjgv373jeMbeM2rTojIwdtM=
+
+Name: assets/bn/ru/men/badretdin.html
+SHA1-Digest: XtIuR/urmxEZtkHSdpEzPwxOkKo=
+
+Name: assets/bn/ru/women/iskra.html
+SHA1-Digest: ZUBNWxeRv0x/oLNUfCIlc7J33NE=
+
+Name: assets/bn/ru/men/stanislav.html
+SHA1-Digest: 4rUsrMCqUgatgJxdMBycdhVdhmU=
+
+Name: assets/bn/ru/men/orest.html
+SHA1-Digest: Ztl0iCHoyA5CltprQqzb5YBR11o=
+
+Name: assets/bn/ru/men/efim.html
+SHA1-Digest: dUVx7qY5MP2gR9BTJ19a98SPU4k=
+
+Name: assets/bn/ru/women/vseslava.html
+SHA1-Digest: DK1tFNUhXWIBx/xVGNXRR7vmCuI=
+
+Name: res/layout-xlarge-v4/calendar_item.xml
+SHA1-Digest: jO5tHvf9arirv2cZxUtY/yxUC3g=
+
+Name: assets/bn/ru/men/avdon.html
+SHA1-Digest: XNO3WJf22iFSlFvwsdm4Pr9E00M=
+
+Name: assets/bn/ru/women/cecilia.html
+SHA1-Digest: 2ZNf/eTEdqsRinJ2vde0N8GQ5gU=
+
+Name: assets/bn/ru/women/rukia.html
+SHA1-Digest: oSll6r8PR+DJGRHUkRIgHsyeiPM=
+
+Name: org/achartengine/image/zoom-1.png
+SHA1-Digest: pgbFWKrA/2/sF0BNcNPxdVbDjVE=
+
+Name: res/drawable-xxhdpi-v4/tab_selected_blue.9.png
+SHA1-Digest: 3vFVT9V1ng3+tib16nvPhNehi5s=
+
+Name: assets/bn/ru/women/gella.html
+SHA1-Digest: L0s2A9zDQ8UYemJPPCUyfto7BrE=
+
+Name: assets/bn/ru/women/bagida.html
+SHA1-Digest: KDQgVMZ8r5wxENErKDsr6YAa51c=
+
+Name: assets/bn/ru/women/talia.html
+SHA1-Digest: nhqAyE5SVvzmAHnLOvn8IRqdWMc=
+
+Name: assets/bn/ru/women/tamila.html
+SHA1-Digest: 3aCBdkmQDMT2HTPv45Yphq67Edk=
+
+Name: assets/bn/ru/women/kari.html
+SHA1-Digest: +dxHgQ660BLSBOcSdNcLcImqHHw=
+
+Name: assets/bn/ru/men/borhanetdin.html
+SHA1-Digest: D+7lgk7fFpc/QzqFCRKZ/nvs7gg=
+
+Name: res/drawable/babyname2.png
+SHA1-Digest: AhnQvHbrnP1gx3hybjP/tTMK1Qs=
+
+Name: assets/res/ru_4.html
+SHA1-Digest: ODUQaBaTgbqWSK2FCZrJn6UiFYE=
+
+Name: assets/bn/ru/women/dilnas.html
+SHA1-Digest: Bj8x0nWEKhqgUSUOn/VZdQjEvno=
+
+Name: assets/bn/ru/women/marselina.html
+SHA1-Digest: pipFBQU2gQt+gdpnk2o+8VGYA2Y=
+
+Name: assets/bn/ru/women/mar_am.html
+SHA1-Digest: hMld75DTvGlaW9YxSKeHsxIKPtE=
+
+Name: assets/bn/ru/women/mstislava.html
+SHA1-Digest: bojCnUN8IVEdnKQO9w6g+DHV1Uc=
+
+Name: assets/bn/ru/women/vasilisa.html
+SHA1-Digest: R2relRv6CtwA9JeevJvDkXa3Vos=
+
+Name: res/drawable-xhdpi-v4/spinner_ab_pressed_blue.9.png
+SHA1-Digest: AN8BwwvneQIpkOXHv4YIpBgL6u0=
+
+Name: assets/bn/ru/women/agilia.html
+SHA1-Digest: KrRARQR7VwAcQuUeMzi9eZn0M7o=
+
+Name: assets/bn/ru/women/zifa.html
+SHA1-Digest: 3x2HayzLpZWRUrwr8dG4I+/ewtA=
+
+Name: assets/bn/ru/women/dilshat.html
+SHA1-Digest: Qh+GZ/sVlWwih8GPvEX2PmMLd+U=
+
+Name: res/drawable-hdpi-v4/spinner_ab_default_blue.9.png
+SHA1-Digest: 1/7A3+8BxARxKEjtSPMDKyNHP4w=
+
+Name: assets/w32.png
+SHA1-Digest: nLK/vGl2NRj22tpaPs+mQQnZMfQ=
+
+Name: assets/bn/ru/women/dionisia.html
+SHA1-Digest: ojjr3KnFA5QOLD4QrkU6UavvPxU=
+
+Name: assets/bn/ru/women/jdana.html
+SHA1-Digest: WU7toLnoC8Ns5SzQtSvPHWi0otg=
+
+Name: res/drawable-hdpi-v4/btn_cab_done_pressed_blue.9.png
+SHA1-Digest: K+SITBkB7F/TafpLCGVycx+fl84=
+
+Name: res/layout-large-v4/item_openname.xml
+SHA1-Digest: 6utkilfkBOjsUlIFolXpV4S/P6I=
+
+Name: res/drawable/symp2.png
+SHA1-Digest: 6L8ft3aT+SrkFlRQ7xfkzMhUN0Y=
+
+Name: assets/bn/ru/men/vasili.html
+SHA1-Digest: bUa5taUvTCL6CAZ0qj8Yx5pPmVU=
+
+Name: assets/bn/ru/women/tina.html
+SHA1-Digest: 8ix1kj6amSxQ2lnDevDGOifksv8=
+
+Name: assets/bn/ru/men/gavriil.html
+SHA1-Digest: HO/xJoFyQoOvV+R/c+5NevtSzzk=
+
+Name: res/drawable-xxxhdpi-v4/ic_action_weight.png
+SHA1-Digest: C/GnEUA1szgTpG5JcpskJWsnoxI=
+
+Name: assets/bn/ru/men/aiup.html
+SHA1-Digest: Rp9DcX/9xWtYxTFKEhU+/NkRsRs=
+
+Name: res/drawable-mdpi-v4/menu_dropdown_panel_blue.9.png
+SHA1-Digest: /1sRCt5mIdsIyL0lI91Ia4o4EI0=
+
+Name: assets/bn/ru/men/miroslav.html
+SHA1-Digest: XnWdl7RxqD/F+L7PhQX2bnPTf08=
+
+Name: assets/bn/ru/men/ilia.html
+SHA1-Digest: Rhm4DqzoLN29Ff8DyEInEyOCG2I=
+
+Name: res/layout-xlarge-v4/pill.xml
+SHA1-Digest: urbM84TxHGUOcrRO1sasc6YVQds=
+
+Name: assets/bn/ru/women/aglaia.html
+SHA1-Digest: owDDI33O4jg4FJU1e3yN1ZHRYdw=
+
+Name: assets/bn/ru/bte.html
+SHA1-Digest: SN/xj9VE05Bm50ANrtBCz9ppA9Y=
+
+Name: assets/bn/ru/women/ramilia.html
+SHA1-Digest: 1JqmtNOM+oxEotjJJgXLFpCkMEk=
+
+Name: res/drawable/tab_unselected_holo4.png
+SHA1-Digest: IEXvstsAnXPzJEM2ceux2WdaKJQ=
+
+Name: res/layout/readstat.xml
+SHA1-Digest: 7TxVI4aJ+mWw3+IFKNVev06Qq7E=
+
+Name: res/drawable/ramkaw.xml
+SHA1-Digest: 7AhZMUvPW+CJarPEOYSW6jNY2JM=
+
+Name: res/layout-xlarge-v4/item_openname.xml
+SHA1-Digest: 6utkilfkBOjsUlIFolXpV4S/P6I=
+
+Name: assets/bn/ru/men/alonso.html
+SHA1-Digest: +gWBzOySx2PQMMsPiWvQNnzlJYo=
+
+Name: res/raw/gtm_analytics
+SHA1-Digest: z4lph6xlv9ztpVWW3QM9h7QjqS0=
+
+Name: assets/bn/ru/women/sadika.html
+SHA1-Digest: KI8AwuM5VEchHdSUbkuZVTxTdh4=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: hMf/FoHQ1ncswR3Ha2oj+rtb3FA=
+
+Name: assets/bn/ru/women/alfira.html
+SHA1-Digest: 439mLzLvPgB+O8XHOdpCfCuVsSU=
+
+Name: assets/bn/ru/men/isaaki.html
+SHA1-Digest: wtV/Tlhhrh+1RruK1tWdraPGNEk=
+
+Name: res/layout-large-v4/note.xml
+SHA1-Digest: I/0XEwJLMIP8pAJwXqbHpF3bykw=
+
+Name: assets/bn/ru/men/anikita.html
+SHA1-Digest: bZr0dLAhz3TdfoohTKUe57W07P0=
+
+Name: assets/res/ru_9.html
+SHA1-Digest: MEHqLAYhetvvLqNAvWATsAir2LA=
+
+Name: assets/bn/ru/men/januarii.html
+SHA1-Digest: jBxWmdqkHjEJkGIacAZOaWxLSuA=
+
+Name: res/drawable-mdpi-v4/list_pressed_blue.9.png
+SHA1-Digest: hZ5gdOiNz/usJaFc9/GHReRrbLI=
+
+Name: assets/bn/ru/women/alta.html
+SHA1-Digest: 2lfnF0vRgT3m6+gQgtYdnyQUKSQ=
+
+Name: assets/bn/ru/men/karp.html
+SHA1-Digest: 2QLljIFJe/2CBWv2ofmvL/75gtg=
+
+Name: assets/bn/en/gb.html
+SHA1-Digest: xU63+BG8ymUbQgFw9duFa/+zNP4=
+
+Name: assets/bn/ru/men/lazar.html
+SHA1-Digest: 9C7rwrpEkpiWdlGLRjX9+G/0NB8=
+
+Name: res/drawable-xxhdpi-v4/ic_action_report.png
+SHA1-Digest: x7w8eMzuILu5u506VOGL8mrfd00=
+
+Name: assets/bn/ru/men/samson.html
+SHA1-Digest: QpKqn4I/tuy8+ffbYBd8WMQtUG0=
+
+Name: res/layout-large-v4/kick.xml
+SHA1-Digest: G71zZXDxnjNT2ylgq1f/vQKDrgg=
+
+Name: assets/bn/ru/gp.html
+SHA1-Digest: kDhikip5HoUHrJbhp1RpwXui10o=
+
+Name: res/drawable-hdpi-v4/ic_baby.png
+SHA1-Digest: qqk3sY79FBK59YeLTUlvB1HFOD0=
+
+Name: assets/bn/ru/men/asan.html
+SHA1-Digest: y/QdKJyS1wOx38CcBQ3YJ8JPJDI=
+
+Name: assets/w16.png
+SHA1-Digest: GRilqywUqdgAmh6Gg0BRU8xuhOw=
+
+Name: assets/bn/ru/women/angelina.html
+SHA1-Digest: z61rLc8HqwcFrPEYalj+ExZ4aHw=
+
+Name: res/drawable/next.png
+SHA1-Digest: 6GmR9JF4MAZaJHXYoveu+3APpDs=
+
+Name: assets/bn/ru/women/diodora.html
+SHA1-Digest: lMMDSrKF9ypSsROHIwW6j/Mo4Es=
+
+Name: assets/bn/ru/women/tereza.html
+SHA1-Digest: ef3lpDDy+Ia9VJOTAem0biFIzJE=
+
+Name: res/layout-large-v4/item_kick.xml
+SHA1-Digest: XjM7WPXiiHzMoqcNCpCzWKzrTe4=
+
+Name: assets/bn/ru/women/silvana.html
+SHA1-Digest: 7ZAX+42N0FLi/GryFp1WM+UA8wc=
+
+Name: org/achartengine/image/zoom_out.png
+SHA1-Digest: HWsYDP3/t8o1MVA+fRdTWspICt8=
+
+Name: res/layout/item_weig.xml
+SHA1-Digest: jZjNYwRXF7yRFEe+zEXkN0ElEIM=
+
+Name: assets/bn/ru/men/spiridon.html
+SHA1-Digest: tg7ud4moBdtO3W95a/aObCl0yXA=
+
+Name: assets/bn/ru/men/ernest.html
+SHA1-Digest: 6I2v7mk/jbkWVae/A+zWsd5XbHA=
+
+Name: assets/bn/ru/women/faniia.html
+SHA1-Digest: 6ZNVw7K5qXMeslKVryXNbHtaY7U=
+
+Name: res/layout/calendar_item3.xml
+SHA1-Digest: Qz4hF8XHlmpCUhcLD1nXepnnK0k=
+
+Name: assets/bn/ru/men/avenir.html
+SHA1-Digest: xce07j6uF6PPPYGW3RLPK5JTcN0=
+
+Name: assets/bn/ru/women/bogidara.html
+SHA1-Digest: Jx5Z1G2bUqBHqzuBGEGPxJpZtyQ=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: CLs5FbiMwb7vIKZyvZ2iE6odMZs=
+
+Name: assets/bn/ru/women/oktavia.html
+SHA1-Digest: RLt6dN72l9b5Axfu/Mf8XGUJFbI=
+
+Name: assets/bn/ru/men/boleslav.html
+SHA1-Digest: sycC6Yusr8n3jnxQ6t867viHa68=
+
+Name: assets/bn/ru/women/fedora.html
+SHA1-Digest: XTYbRvm9LC22HUTNKNb8hwUBFao=
+
+Name: res/drawable/on.png
+SHA1-Digest: 7dSjf5P8ccU+OElRkzMs4h/CWOE=
+
+Name: assets/bn/ru/men/izmail.html
+SHA1-Digest: NtahqtmNdq8zJ/jvXdfC6aNU7bM=
+
+Name: res/drawable/note3.png
+SHA1-Digest: gLfqNFuZOTHyLamMRHRWbi2oY2g=
+
+Name: res/drawable/your_tab_selector_drawable5.xml
+SHA1-Digest: cEeA5roZkxqIiCXzoQBr2IJEnEc=
+
+Name: res/drawable/line3.png
+SHA1-Digest: mN5RQ6xB0t7cm0RiVULH9NIvHXM=
+
+Name: assets/bn/ru/women/muemina.html
+SHA1-Digest: CK788yVH3hZFv/V+bQ90gOwhZr8=
+
+Name: res/drawable/round_b5.xml
+SHA1-Digest: yrvS3E01GLwC67+mq+w7qi9z3WA=
+
+Name: assets/bn/ru/men/andoim.html
+SHA1-Digest: N9sI0vQv0OCLgUwfjSOD9CjCs20=
+
+Name: assets/bn/ru/men/ustin.html
+SHA1-Digest: EfQRgviBLSqB1gUVAO/ajpKYmag=
+
+Name: assets/bn/ru/women/junona.html
+SHA1-Digest: n9OpN9/7WbtUpC0GUJFDO+sv8RA=
+
+Name: assets/bn/ru/women/firuza.html
+SHA1-Digest: 4NkSC+amUlXDRcTWIlfsglAwBTo=
+
+Name: assets/bn/ru/men/daniil.html
+SHA1-Digest: ABcGr+1j0mqSJ7QYVUauGSXQVV0=
+
+Name: res/drawable/dash.xml
+SHA1-Digest: xklpkEHYlb0cQZK4OxMeE8MEU9U=
+
+Name: assets/bn/ru/men/ahmad.html
+SHA1-Digest: WLHBXMQxiAGyPV1EKNyBFY2U21w=
+
+Name: assets/bn/ru/men/arnold.html
+SHA1-Digest: R4ZeVBQATI6dW7BPbMCMpHor8qY=
+
+Name: res/layout-xlarge-v4/rowlayout.xml
+SHA1-Digest: q0LkQO+OPKq0mV6liMEvLO8pmAY=
+
+Name: assets/bn/ru/women/kamelia.html
+SHA1-Digest: tNHJveIode50nLQgjxShP3bV1xM=
+
+Name: assets/bn/ru/men/ignati.html
+SHA1-Digest: hSg7PzRY5VUrckCmtkdbqtUFd90=
+
+Name: assets/w40.png
+SHA1-Digest: hHkD/ZVUrhXRRqWiO6S0iTeytmc=
+
+Name: assets/bn/ru/women/ursula.html
+SHA1-Digest: w4OS7BHaGY4cdPCUiDPJpu+YYCk=
+
+Name: assets/bn/ru/women/luibava.html
+SHA1-Digest: e4bTVUs5uP9ySQaf06tqTXhUo2Q=
+
+Name: assets/bn/ru/women/radosveta.html
+SHA1-Digest: EJz/GC+5zu9ifX7Subh7N/yaZNI=
+
+Name: res/layout-large-land-v4/widget_layout.xml
+SHA1-Digest: AkkGSa6xDpeWfdR+FjIPl9F2Upw=
+
+Name: assets/bn/ru/men/madlen.html
+SHA1-Digest: 4VQcypczmGZXKPaZTSNNLrZhka4=
+
+Name: assets/bn/ru/women/kinza.html
+SHA1-Digest: MxgQlZivPGfgvcPm8KAhyL19QRE=
+
+Name: assets/bn/ru/men/bahtiar.html
+SHA1-Digest: W5SasGWeFTlGxpy3nudKwIoXpr0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: +fJjqtbLqjYXhz67BiKkCnmMYdE=
+
+Name: assets/bn/ru/men/gaston.html
+SHA1-Digest: dl8UMA25kpWCJ2vlLVmONYIiGZY=
+
+Name: res/layout/item_openname.xml
+SHA1-Digest: +tyDueiR/IPiRAu9UrDH3RtwCLc=
+
+Name: assets/bn/ru/women/aila.html
+SHA1-Digest: bzYC4Al8jU2krdtS+N90tRzjWAU=
+
+Name: assets/bn/ru/men/velizar.html
+SHA1-Digest: j1YKDRtaf9HJZjYosA/S+oLRnEE=
+
+Name: assets/bn/ru/men/evstignei.html
+SHA1-Digest: VF6YVUdOEasuW+pnrk4tXFlD088=
+
+Name: assets/bn/ru/men/alfar.html
+SHA1-Digest: xFVsFEJqax+iGfUnZGnVnkWHM8w=
+
+Name: res/layout/babynames.xml
+SHA1-Digest: 1aYbI1jNGAICKP8PPmdTCkjoOoo=
+
+Name: assets/bn/ru/women/varvara.html
+SHA1-Digest: KmEUnA7yMW6mvpsP/Ds6NyDMqOM=
+
+Name: assets/w9.png
+SHA1-Digest: PwcwZq+F4RTXM1GusLDXZLSco0o=
+
+Name: assets/bn/ru/men/besoltan.html
+SHA1-Digest: 7Xm1leOf4vzM5rQrtTzI8bve+mE=
+
+Name: assets/bn/ru/women/sviatoslava.html
+SHA1-Digest: J/n/w2Lfrvn79jaH3nFYoFRcKH4=
+
+Name: res/drawable/irongrip_repeating.xml
+SHA1-Digest: OFF92umAs/sWvgMV/roQ0Y6h0IA=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 3WOChYu3Ms2kyEHXijAnPBxAgRA=
+
+Name: assets/bn/ru/women/avrora.html
+SHA1-Digest: JNIKMprEXdojab+M1OMRchVlFxI=
+
+Name: assets/bn/ru/women/granislava.html
+SHA1-Digest: wjN9r9strxM4k+zgRxm6YVn5d8g=
+
+Name: assets/bn/ru/women/samiia.html
+SHA1-Digest: 0JbWPV25cXi8NxvbG8jvsUwi2Jk=
+
+Name: res/drawable-xhdpi-v4/ic_action_profile.png
+SHA1-Digest: mCCOzpxr3unTUeptD/y14+rh16I=
+
+Name: res/drawable/tab_unselected.xml
+SHA1-Digest: Id4e08RfdC5IXVLlVWLaMXlFqU8=
+
+Name: res/drawable/c2.png
+SHA1-Digest: ssxj3w6ETJxo8+WNZtROBqu1Wg8=
+
+Name: assets/bn/ru/women/djulia.html
+SHA1-Digest: 6vXo3CWADlyaIculzrfZGpQxgAs=
+
+Name: assets/w4.png
+SHA1-Digest: NfY6pi+hqSThuEP+rVeESdTOQYs=
+
+Name: res/layout/footer2.xml
+SHA1-Digest: C3KkxkpabnOD628xtLrJ7Hic+Kg=
+
+Name: assets/bn/ru/men/lusien.html
+SHA1-Digest: fmFOnTH5+qy1Hyb+sJxY23ZuPAg=
+
+Name: assets/bn/ru/men/arii.html
+SHA1-Digest: cSvBjux2Ri+lA6Gk9Xew0oCpOBM=
+
+Name: res/drawable-xhdpi-v4/tab_selected_blue.9.png
+SHA1-Digest: UyMjlxg2f2fwb77CtZlzBrnss7c=
+
+Name: res/drawable-mdpi-v4/ic_action_profile.png
+SHA1-Digest: zErPCiC4uigjA5jZJHNHg8ZBrzY=
+
+Name: assets/bn/ru/women/nika.html
+SHA1-Digest: 6KGe4N2uRpy6T+AQtXR55n1RsF4=
+
+Name: assets/bn/ru/women/tansilu.html
+SHA1-Digest: c/c/l8GFdLn0AQs3Y/WIsP3TNd4=
+
+Name: assets/bn/ru/gte.html
+SHA1-Digest: oj+v9zVF3LneoiZg4bcbHMGMD9A=
+
+Name: assets/bn/en/bm.html
+SHA1-Digest: iKMAiyaC3YTgxAKBdn09FEA2A9M=
+
+Name: assets/bn/ru/women/samina.html
+SHA1-Digest: Rt+6f3OJ/pgRZQLVYinN6WpEM8Q=
+
+Name: res/drawable/tab_selected_holo4.png
+SHA1-Digest: nA6a5jFL+BtHdCAZD7ZTJx+6q2o=
+
+Name: res/drawable/kick3.png
+SHA1-Digest: JrxT9KCqNQpaZ6jCR1SXdsLEaEo=
+
+Name: assets/bn/ru/women/birgit.html
+SHA1-Digest: bGU0YM9aGe3Sv1F47JjqSPUJvyU=
+
+Name: assets/bn/ru/men/tit.html
+SHA1-Digest: U85d3V2xFaWjmhqIvE+vlp1fe2E=
+
+Name: assets/bn/ru/women/salia.html
+SHA1-Digest: W5HiG4LoL3C4WC2Fcah04wAEcZA=
+
+Name: assets/w8.png
+SHA1-Digest: Yzi2UHK3I0yTv33oMEGl99VEbZc=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: pCIvTjWlEd+72lf6cxDeEv/N0Pg=
+
+Name: assets/bn/ru/women/luiza.html
+SHA1-Digest: dG3ZaVCITXBKJCSf1Vdw8cxnWBs=
+
+Name: res/layout/calendarview.xml
+SHA1-Digest: sRfRFT+MGk2rvXngU4P+VeppU1k=
+
+Name: assets/bn/ru/women/gulia.html
+SHA1-Digest: nd9yr3PipgSXzYFdH8EGb4E2obs=
+
+Name: assets/bn/ru/women/avrelia.html
+SHA1-Digest: tU5dFZpOly8ZjXwBIxJ1UQAv8y8=
+
+Name: assets/bn/ru/women/salima.html
+SHA1-Digest: LG77yA8hbAL7EnYOKcQzI/52JZc=
+
+Name: assets/bn/en/bj.html
+SHA1-Digest: 79LEiaELkZ4RAEs8YioK/8KMNnY=
+
+Name: assets/bn/ru/women/solomonia.html
+SHA1-Digest: KmhAdtH/8QZ39LV/t0Vf22MBdZo=
+
+Name: assets/bn/ru/women/valentina.html
+SHA1-Digest: SlG5PKd4CzqxLU3U/82rVpg/FY0=
+
+Name: assets/bn/ru/women/halida.html
+SHA1-Digest: ltGRakEKuq1EHb76XdLyG1hIunE=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: YA4050FPgpAFuw6xQI3jFSgIwVQ=
+
+Name: res/layout/body.xml
+SHA1-Digest: zkJjcTFHtOi4bbJIkGJvQAdE2Sc=
+
+Name: res/drawable/weig.png
+SHA1-Digest: WSqsfDiAePxnubPGjggYvx9ABqU=
+
+Name: assets/bn/ru/women/gulzifa.html
+SHA1-Digest: ABQKyHlr6FNSe8k0M5edNy81/nQ=
+
+Name: assets/bn/ru/men/evstafi.html
+SHA1-Digest: sqkhHJ6Taj5SAfcJTpb/Rb+fito=
+
+Name: assets/bn/ru/women/danaia.html
+SHA1-Digest: l9cRw5S0PpN3m7Ox3YP0YhIgF4A=
+
+Name: res/layout-large-v4/pill.xml
+SHA1-Digest: hlRED+K5PyiG59g82aXlZYqpln0=
+
+Name: assets/bn/ru/women/mlada.html
+SHA1-Digest: uYBmmVTNu2TxyhPpYGW2gcmklZA=
+
+Name: assets/bn/ru/women/iolanta.html
+SHA1-Digest: R3nlnvB/jolBlD8xt6yAObWsQKQ=
+
+Name: assets/bn/ru/men/asat.html
+SHA1-Digest: /qLKgn26OH/d6sEj9LsqlLzdzR4=
+
+Name: res/drawable-hdpi-v4/ic_action_diary.png
+SHA1-Digest: jvrxfvODvloEAYhrh+waqQlpyTM=
+
+Name: res/drawable-mdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: 5whZWZwuRck5OpUfQtK68/nh9Ac=
+
+Name: assets/bn/ru/women/gadilia.html
+SHA1-Digest: k8YXQBnABxaEsTlJUcvGqEc6Pb4=
+
+Name: assets/bn/ru/men/anas.html
+SHA1-Digest: fxoHmeaUW/PJ0K/wAYWHt8W6K14=
+
+Name: res/layout/item_symp.xml
+SHA1-Digest: 1G3oXHy0AdHv2uBJlFgOWdaxdFc=
+
+Name: res/drawable-xxhdpi-v4/progress_primary_blue.9.png
+SHA1-Digest: 2wArVZY3yTucDVZCn79nUJZIISY=
+
+Name: assets/bn/ru/women/konstancia.html
+SHA1-Digest: s3vK46uyxqr5Og/NnYQ/Zt/y30c=
+
+Name: assets/bn/ru/women/domna.html
+SHA1-Digest: P+v1LkP8iA7YYDw+qGcd9G1tqiQ=
+
+Name: res/layout/item_main_menu.xml
+SHA1-Digest: GI87dFLgEVIqtvDUn8RnctAZ5Qk=
+
+Name: assets/bn/ru/women/zilia.html
+SHA1-Digest: fP8NbjL07TmmjGqSKWcz1uqWees=
+
+Name: assets/bn/ru/men/anatolii.html
+SHA1-Digest: ERPH4ap+/5KcYA/jFzuGpgGpZSA=
+
+Name: assets/res/en_1.html
+SHA1-Digest: Zvhs3s+g0zv2TV3q4TfcP9CQ7j4=
+
+Name: assets/bn/ru/men/reem.html
+SHA1-Digest: Zx54cqAd6MzDeeAMHzqyjrG82yM=
+
+Name: assets/bn/ru/women/adriana.html
+SHA1-Digest: re9btfMkC9pi1Aud4yG4I72plRY=
+
+Name: res/drawable-xhdpi-v4/ic_action_settings.png
+SHA1-Digest: AZyJpas/zgfrjAUmHIwVUcYDIMg=
+
+Name: res/drawable-mdpi-v4/tab_unselected_blue.9.png
+SHA1-Digest: Zb672tuJjHVav7Xm8kg+/OruqVI=
+
+Name: assets/bn/ru/women/laima.html
+SHA1-Digest: 1Ntu2lBf+Za02gDyEqQMORNNWA8=
+
+Name: res/drawable/note22.png
+SHA1-Digest: 8BdSw9mX9s9SUUreYIEFwgJdYjQ=
+
+Name: assets/bn/ru/women/esenia.html
+SHA1-Digest: G/7pDa9TTn0gi9dg95RdUh5d2O8=
+
+Name: assets/bn/ru/women/antonida.html
+SHA1-Digest: USP8Y8GU3GcuqyY3yfP6mWizpIo=
+
+Name: assets/bn/ru/men/oleg.html
+SHA1-Digest: p93637f+bnEKXtc9SadYATJTYl4=
+
+Name: assets/bn/ru/women/orkia.html
+SHA1-Digest: Z/cFT8hzopf+5nMiN6qv37ZfBv8=
+
+Name: assets/bn/ru/women/rufina.html
+SHA1-Digest: 6UbGRh3HWh+HBXV91ihcXxKV9DA=
+
+Name: res/drawable-hdpi-v4/powered_by_google_dark.png
+SHA1-Digest: I/G/mu9XuPJTzwp/WdZLjQ6xTfg=
+
+Name: assets/bn/ru/men/avrelian.html
+SHA1-Digest: //uYiwptXJ+G3mx8ZexK35YC3XQ=
+
+Name: assets/bn/ru/women/kordelia.html
+SHA1-Digest: UIaRTPYPsGNtVeqkEhKkQZKpj8M=
+
+Name: assets/bn/ru/women/agnia.html
+SHA1-Digest: gPoyKO0t395vSywX9B58oBHU2VY=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_light.9.p
+ ng
+SHA1-Digest: Jo7euj4LvkDv54RWdIWxYYLnMbg=
+
+Name: assets/bn/ru/women/elloiza.html
+SHA1-Digest: 6KTyxMaKSgdSx+4ceFll5gkDmwM=
+
+Name: assets/bn/ru/men/agayii.html
+SHA1-Digest: 4vQoso5OobxrFFDpEa51Pl7dHgU=
+
+Name: res/drawable-xhdpi-v4/ab_solid_blue.9.png
+SHA1-Digest: PHO5pjrDuBQBhaeQxVKIR6GpFjg=
+
+Name: assets/bn/ru/women/jana.html
+SHA1-Digest: utqAZ+JaGl+KE/T0pvajnox5Umg=
+
+Name: assets/bn/ru/men/viktor.html
+SHA1-Digest: wPMD/9ZflvBNPfbvHOXLTF1V+Bk=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: aM73uFWfPOOvq5Kk9Ffd3cWm0OQ=
+
+Name: assets/bn/ru/men/izrail.html
+SHA1-Digest: Mz5OXEywem5lNsiohzCp8mdnAQE=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 8t8fYpBPxPeFuWeBGdYiV/u6+vM=
+
+Name: assets/bn/ru/men/boris.html
+SHA1-Digest: WVLKjXKIclRv9PoHfo/kHUq8Fp8=
+
+Name: assets/bn/ru/women/liana.html
+SHA1-Digest: SUIrz0XLamRwCgoLWCvlRhW3OB4=
+
+Name: assets/bn/ru/women/ruslana.html
+SHA1-Digest: 29jyF54QmkTJaVR4oRwubKWyZXM=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: UnGnluRjvPtWCPTuaQl6cAdhCys=
+
+Name: assets/bn/ru/women/hristia.html
+SHA1-Digest: OuFEDbP3vymw7nrD7mpJwM53FTU=
+
+Name: assets/bn/ru/women/nora.html
+SHA1-Digest: O13+HxLcqC6S6jF3YnCb6fmRGBw=
+
+Name: res/drawable/bag.png
+SHA1-Digest: hl9z9FMtyRStxBPGgROgxT7XWnI=
+
+Name: assets/bn/ru/women/evdokia.html
+SHA1-Digest: YBnHSqN5tqeVwxWpTM4GmrZiWXw=
+
+Name: res/layout-large-v4/kicks.xml
+SHA1-Digest: QD1SgDLNT6A9fkJIB+G5K4McFzc=
+
+Name: assets/bn/ru/men/almas.html
+SHA1-Digest: qiJLYQJFHw6rTc42kkA/RUvzG3g=
+
+Name: assets/bn/ru/women/hatima.html
+SHA1-Digest: MNDWGnlLbstPkm5mp9Yl3n4OgRk=
+
+Name: assets/bn/ru/men/bagautdin.html
+SHA1-Digest: qmJqB7J28FBdW2ktkpQS5oD5bxs=
+
+Name: res/drawable/ic_ab_write.png
+SHA1-Digest: Ik3G73ULtJ5+GLPTMhY4SnJBm9A=
+
+Name: assets/bn/ru/men/bogolub.html
+SHA1-Digest: IZAG3Dc3H8XT7BhQrV3wfJiHRKI=
+
+Name: assets/bn/ru/women/delfina.html
+SHA1-Digest: 7I54GDDMgtmUjLJD8gG+pciLM80=
+
+Name: assets/bn/en/go.html
+SHA1-Digest: 5FHSdVaTRFzIfB63hADQIliJiQo=
+
+Name: res/drawable/settings5.png
+SHA1-Digest: KmokvLUvPddKKOzqTLu5kHrg0ng=
+
+Name: assets/bn/ru/women/amila.html
+SHA1-Digest: jHbNustEvPuLFbbajo3r1r523P4=
+
+Name: assets/bn/ru/women/katarina.html
+SHA1-Digest: UFunP994ivdWFQEVD805mpaqBgE=
+
+Name: res/layout/menu.xml
+SHA1-Digest: d0aJVBdzQmlngoC8uFjmbzmazMc=
+
+Name: assets/bn/ru/men/antip.html
+SHA1-Digest: 2mrbN97ToUDFgTLDielpfuQ17LQ=
+
+Name: res/drawable-xxhdpi-v4/ab_bottom_solid_blue.9.png
+SHA1-Digest: eaN1XjXYctst1EHwDODPnYqgTus=
+
+Name: assets/bn/ru/men/beliai.html
+SHA1-Digest: 2zz8sRXAy6rNjeKXk+S2xhEtFTA=
+
+Name: assets/bn/ru/women/jiuliana.html
+SHA1-Digest: gb11faSAmHEegp6PtI9LTli7Jnk=
+
+Name: assets/bn/ru/men/budimir.html
+SHA1-Digest: lglBXrJbmI7rv6ZT6gKuQlrwQyo=
+
+Name: assets/bn/ru/women/jania.html
+SHA1-Digest: loOz3yHgmpQ7R1SkLc27QLmZLEc=
+
+Name: assets/bn/en/gl.html
+SHA1-Digest: A2tb58B18DA9Gjikom3ycku2bnM=
+
+Name: res/drawable/botton_selector.xml
+SHA1-Digest: iNMzOq7XKXxjqpDZSoqDEkiVYf8=
+
+Name: assets/bn/ru/men/agapit.html
+SHA1-Digest: NRmCss+aCrNLE6E7X9uU/kGfGZ0=
+
+Name: assets/bn/ru/bu.html
+SHA1-Digest: umOvAzrOyDjuAUYfpAmmTPpnlug=
+
+Name: assets/bn/ru/women/carina.html
+SHA1-Digest: OlVk8IjSIzJedmm85sSLXVs4gwI=
+
+Name: res/drawable/web_hi_res_512.png
+SHA1-Digest: qrfCDJLf/MfGiWDvIDBTTLxf5nY=
+
+Name: assets/bn/ru/men/evlampi.html
+SHA1-Digest: GMYeiBQ8Zf8n3t2wTgvspzfQ2yg=
+
+Name: assets/bn/ru/men/donald.html
+SHA1-Digest: Uy9Bb1gOESkxfrqxeU/G5OOXoWE=
+
+Name: assets/bn/ru/men/levan.html
+SHA1-Digest: QtYJvmzgmLtOlzKpQQye2IqlPTk=
+
+Name: res/drawable-mdpi-v4/ic_action_settings.png
+SHA1-Digest: qoP7AA8hsbCs6oJwhf94b7mzM/E=
+
+Name: assets/bn/ru/women/eva.html
+SHA1-Digest: 8TzErbVAuwxUb2wOuDW3Bz6YSM0=
+
+Name: assets/bn/ru/women/jaroslava.html
+SHA1-Digest: 80qXl9L2+csZK6GnSRjdsGnUT4w=
+
+Name: res/drawable/helpful5.png
+SHA1-Digest: gWm768vtT73DhMooN2q2grs6+PI=
+
+Name: assets/bn/ru/women/aglia.html
+SHA1-Digest: sGj/n2EyzVnsbcmWuK6dh2t62GI=
+
+Name: res/color/common_signin_btn_text_dark.xml
+SHA1-Digest: 1rWCtDaag8iTgHoTCRTOAmY0KtE=
+
+Name: assets/bn/ru/women/flora.html
+SHA1-Digest: JdlNNcGQS8NW8ocOWBBJKPTZuTQ=
+
+Name: res/drawable/bag5.png
+SHA1-Digest: iekgVVir1G0T9deVn/4galBrUkI=
+
+Name: assets/bn/ru/women/taiba.html
+SHA1-Digest: R99xJ/zk9WAd4MZIt6JX48XJ/28=
+
+Name: assets/bn/ru/men/sidor.html
+SHA1-Digest: w8kO8LXIIWfAsX4JfMgIYrlHjwk=
+
+Name: res/drawable/off.png
+SHA1-Digest: jM6RbxN/cdqWo/9ety4ANQ2tMog=
+
+Name: assets/bn/ru/women/miroslava.html
+SHA1-Digest: R7F5/E/dPVcaUMlaFmo9nJM8k/Y=
+
+Name: res/drawable-mdpi-v4/ic_action_kick.png
+SHA1-Digest: z3NGWwSaZU8Jc0062ry1aztEVTQ=
+
+Name: res/drawable-mdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: W063SlyrzTvVLq8T+B8TBmOdWCk=
+
+Name: assets/bn/ru/women/undina.html
+SHA1-Digest: mplHa5P/DPrEKgGortOZv1p8Mrc=
+
+Name: assets/bn/ru/men/lukian.html
+SHA1-Digest: 3RhTJFE8u3l1zQD+oeSMmna0eCM=
+
+Name: assets/bn/ru/men/alfir.html
+SHA1-Digest: HezFU98sP16tKFcoJulyRcZFQxo=
+
+Name: res/drawable/tab_indicator.xml
+SHA1-Digest: HoE+vJcAd4JoVKz7zWWgeDi09w4=
+
+Name: assets/bn/ru/men/dgordan.html
+SHA1-Digest: z8KK1j/mIoxL52zwDPhxXjQgW2c=
+
+Name: assets/bn/ru/men/anempodist.html
+SHA1-Digest: NCPK2HGk/br5ULjY93krXPGNfcQ=
+
+Name: assets/bn/ru/women/umila.html
+SHA1-Digest: zEuWIQcqqE37Jauumz1PZr5plbg=
+
+Name: res/drawable-xxhdpi-v4/cab_background_top_blue.9.png
+SHA1-Digest: uOGuzvRViWdyRe4suciQGZ2Ny4c=
+
+Name: assets/bn/en/gs.html
+SHA1-Digest: ygDrA5iht9p1JYKBeLplqYro3S0=
+
+Name: assets/bn/en/gi.html
+SHA1-Digest: ABMykT5wDUP4x3KNOa0KSY32VWU=
+
+Name: res/layout-large-v4/listpreg.xml
+SHA1-Digest: BvRHl+ICe27CkySXXgzYnqqDBk8=
+
+Name: assets/bn/ru/women/frida.html
+SHA1-Digest: L8egLb0FIsgUSBzg9QpEylz7XbA=
+
+Name: assets/bn/ru/women/genrieta.html
+SHA1-Digest: xqE7OtGvxCWQixQmTSoLyc3kA3c=
+
+Name: res/layout-xlarge-v4/item_kicks_adapter.xml
+SHA1-Digest: kdADpb453GgOJmkJieT52gpvMbg=
+
+Name: assets/bn/ru/women/alberta.html
+SHA1-Digest: wco69MZ7GijCFvoWosfzJIsZOnw=
+
+Name: assets/bn/ru/men/pankrat.html
+SHA1-Digest: IJiqfVnH2NeV7gTzj5cTtx/zI5g=
+
+Name: res/layout-large-v4/calendar_item2.xml
+SHA1-Digest: OqbpMAXOS5AgLfr+i761yG1rl7M=
+
+Name: assets/bn/ru/men/evgraf.html
+SHA1-Digest: ZOsbhzcoFX3MArhy7JASu4eLP2Q=
+
+Name: assets/bn/ru/women/selena.html
+SHA1-Digest: sqLV+lGmNdPXmrINkcdbN0hTmUw=
+
+Name: assets/bn/ru/women/murshida.html
+SHA1-Digest: YJMticBUknNsGAKNs6ETM0yD66I=
+
+Name: assets/bn/ru/men/nikifor.html
+SHA1-Digest: 7QODs5ciUwCZdGloqfA9thXH9LU=
+
+Name: assets/bn/ru/women/nazifa.html
+SHA1-Digest: S5QNcZGyOmOX5p5SrH44fWD4JKI=
+
+Name: assets/bn/ru/women/zemfira.html
+SHA1-Digest: qcVoXuNL8EjMJPUEl6Thxe29+XA=
+
+Name: res/drawable-mdpi-v4/ab_texture_tile_blue.png
+SHA1-Digest: PO9IzkRG798SK5o5mMAr50Xmy1M=
+
+Name: assets/bn/ru/women/debora.html
+SHA1-Digest: HH6F/KN1jendupZIDoPJxwRmlrM=
+
+Name: assets/bn/ru/women/gaiisha.html
+SHA1-Digest: TRsrSlOmWDoJajxZKgtZd4Qq9WM=
+
+Name: assets/bn/ru/women/iulia.html
+SHA1-Digest: qsJtMrrY0rSd+NBOwiHVGWOTEsc=
+
+Name: assets/bn/ru/men/airam.html
+SHA1-Digest: 1+XwvPndR3+/lbzsTjHUZexhyYY=
+
+Name: assets/bn/ru/gm.html
+SHA1-Digest: 2Nja6opQVWrEBKSuQ4DNmNfaBdw=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: +96NH1NJOncqgaIjD9wfzefrtIw=
+
+Name: res/layout/report.xml
+SHA1-Digest: vxESvWxV7moXH/7lvKlLMeOnwxA=
+
+Name: assets/res/ru_7.html
+SHA1-Digest: W/wK9Rl2v5LlgeFw5J7VL3Dpdow=
+
+Name: assets/bn/ru/women/larisa.html
+SHA1-Digest: fG1Lnx1SjL9PPtu7p1JAgfFkYJI=
+
+Name: res/drawable/custom_ratingbar.xml
+SHA1-Digest: VyKglIbBtKgHWKZj46UQr41I4CQ=
+
+Name: assets/bn/ru/men/longin.html
+SHA1-Digest: iIRFzzivUaFlnUa/lBo6gT69upo=
+
+Name: assets/bn/ru/men/ferdinand.html
+SHA1-Digest: oCOcQeC5KauMmAM3c0lDspuPM3k=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: assets/bn/ru/women/azaria.html
+SHA1-Digest: zLmfcgdMVn903o56nengQ7LoD78=
+
+Name: assets/bn/ru/women/nurshat.html
+SHA1-Digest: 2S/pHcV8wPmVZE2zgl88o1vWRho=
+
+Name: res/drawable/helpful4.png
+SHA1-Digest: 6hTJW8R5DPOUM2CfaR652m1sdA0=
+
+Name: assets/bn/ru/men/kim.html
+SHA1-Digest: M0lMnuVTFvRsQgtf6JJH06QPmYA=
+
+Name: assets/w39.png
+SHA1-Digest: gcVe77HimU0KBGN8xK58o4WzzIs=
+
+Name: res/color/wallet_secondary_text_holo_dark.xml
+SHA1-Digest: IGX5wjrNKg5h2Z+ThsaYb9YqvV4=
+
+Name: res/layout-large-v4/list_stat.xml
+SHA1-Digest: hLfrvktVltd+aG1vsgzRNxKchdk=
+
+Name: assets/bn/ru/men/cheslav.html
+SHA1-Digest: Zr70IRZOUKKVkfLFgIVdKkj/4j4=
+
+Name: assets/bn/ru/men/misail.html
+SHA1-Digest: g6fIEy6DliN3Gq88lHW5y2A5+d8=
+
+Name: assets/bn/ru/men/aksaii.html
+SHA1-Digest: 46ephA+HVF0gLRUNgycSsqDA8KI=
+
+Name: assets/bn/ru/men/erik.html
+SHA1-Digest: I94pEptURAa9a3ygAAXumYgCU8M=
+
+Name: res/drawable/line4.png
+SHA1-Digest: BGMv/8JcjaXGgqUv8oFMsiweGKI=
+
+Name: assets/bn/ru/women/amira.html
+SHA1-Digest: 0fRL7VcfddxZgwjygOZHAfI7CU4=
+
+Name: assets/bn/ru/women/lidia.html
+SHA1-Digest: fZrCR0ztpNS2T8XzHFEWnzjKBXY=
+
+Name: assets/bn/ru/women/arhelia.html
+SHA1-Digest: E/RJxYjkecrMUUIc8VMabZYeSqE=
+
+Name: res/drawable-hdpi-v4/ic_action_kick.png
+SHA1-Digest: A6cL0q5+al1Om4rQOIixg8sb2nA=
+
+Name: assets/bn/ru/women/nazira.html
+SHA1-Digest: bsQloph5IUFD71ugaLyhpl3UrMM=
+
+Name: res/layout-large-v4/item_kicks_adapter.xml
+SHA1-Digest: PLotfWk+o/SCRnhrsbrOziAXR3c=
+
+Name: assets/bn/ru/men/askiar.html
+SHA1-Digest: n3yzxtLqo5bYIkIqbRfmWPp8ZNw=
+
+Name: assets/bn/ru/men/igor.html
+SHA1-Digest: EezVh69cH2WZbKhRtCnECx4bL78=
+
+Name: assets/bn/ru/women/jiasira.html
+SHA1-Digest: vZp7BxbpGwlt/ifkLbJk1OM2OCM=
+
+Name: assets/bn/ru/women/viola.html
+SHA1-Digest: XzJP4EVxZBaSOEX5AiV+WkR4wt4=
+
+Name: res/menu/main.xml
+SHA1-Digest: q+VgXaYSfKO79WIIi1DLvu3qQgg=
+
+Name: assets/bn/ru/women/francheska.html
+SHA1-Digest: 9cSgzhM2qHXBXpmH1399EMZCT7A=
+
+Name: assets/bn/ru/women/nadiai.html
+SHA1-Digest: pwQ7x0Xj2ziBplMXLpvFWzvsVDo=
+
+Name: res/drawable/pill.png
+SHA1-Digest: Nqg6drU2pIJfbde8Sx/wvmKLQj0=
+
+Name: res/drawable-v11/selectable_background_blue.xml
+SHA1-Digest: EweqN/ShAUmW3CdWrSAiKONFSnY=
+
+Name: assets/bn/ru/bn.html
+SHA1-Digest: nnkCjz1p+AEXdYQ+p6dQq7wX2No=
+
+Name: res/drawable/bag2.png
+SHA1-Digest: HMny97UACxxSacyVpLpTJ4y4RBY=
+
+Name: assets/bn/ru/men/voldemar.html
+SHA1-Digest: 63bBUGkYvSz3M4l7qVol+4aOhbU=
+
+Name: assets/bn/ru/women/olimpiada.html
+SHA1-Digest: 52dFX79xdyjf2pXlGUIG6VyVtjk=
+
+Name: assets/bn/ru/men/anteii.html
+SHA1-Digest: 5w+i3cL/0uPcwZZt8F69DI6MYZY=
+
+Name: res/drawable/shadow3.xml
+SHA1-Digest: HJKXdpRKe/RkubRUyJjvM8QG2fo=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: 6rSm6kORk3gR7sN+Kxa8/fR2reU=
+
+Name: res/drawable-xxhdpi-v4/tab_selected_focused_blue.9.png
+SHA1-Digest: nVc3doQ8gh3gs4WgkyWmHeIrVCI=
+
+Name: res/drawable-mdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: 0tNMOXXmuQbid1TzI7vwe4GNLsE=
+
+Name: assets/bn/ru/women/izle.html
+SHA1-Digest: EGWIvMGW++5QpeNuUqdUYXj4RXA=
+
+Name: assets/bn/ru/men/trifon.html
+SHA1-Digest: tPEbMVnGGfrzFjaOOZrJnZXku10=
+
+Name: assets/bn/ru/women/tamara.html
+SHA1-Digest: JSXfkPaWi6mXWxFMr4CjHeRoD8g=
+
+Name: res/drawable/botton_shape_pressed3.xml
+SHA1-Digest: ZSmvVR2zLmIBzcTntWpxg+vV9fo=
+
+Name: assets/bn/ru/women/aigul.html
+SHA1-Digest: UmUmgA4ZROPhUpYmvJS+iorU8DE=
+
+Name: assets/bn/ru/women/chernava.html
+SHA1-Digest: OPfUg+RNUCjtv7lqUUh6A3mv3Og=
+
+Name: res/drawable-hdpi-v4/ab_texture_tile_blue.png
+SHA1-Digest: /5z6zJ5voFT4tRZE5FTveq+8NQI=
+
+Name: res/layout-xlarge-v4/symptoms.xml
+SHA1-Digest: zxudAzQ5LaInDq/2uu6aNwJNyME=
+
+Name: res/layout-xlarge-v4/item_kick.xml
+SHA1-Digest: zh+w/kBNk9oS85k2oDwGjgWbBdI=
+
+Name: res/drawable-xxhdpi-v4/ic_test.png
+SHA1-Digest: 37PCZ6HN0NyNOKEVRe//929niyo=
+
+Name: assets/res/en_3.html
+SHA1-Digest: sexU0PNgKeGPZLNSUboI7cpb6fU=
+
+Name: assets/bn/ru/men/garry.html
+SHA1-Digest: Jx20n0eMSHcL8eMGtHFCIeQ+oaQ=
+
+Name: assets/bn/ru/women/matrona.html
+SHA1-Digest: +3iZ0Cj4gSTZT1z/HeU3y+eFNpA=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: JCchW37ep9rQAe5fTxcGI2f2woY=
+
+Name: assets/bn/ru/men/buransha.html
+SHA1-Digest: jqkgfSeKHPKbuFJUkbQB2XWU58o=
+
+Name: assets/bn/ru/men/alfred.html
+SHA1-Digest: TKAHsrxj29Dby86o9IB0fLlaOD8=
+
+Name: assets/bn/ru/men/mark.html
+SHA1-Digest: ibJaDDOteUCrXZ7B2b93Nj9FQKM=
+
+Name: res/drawable-hdpi-v4/spinner_ab_pressed_blue.9.png
+SHA1-Digest: xmlP5SxvNUjol+/ViBtu0eL6yvc=
+
+Name: assets/bn/ru/women/galateia.html
+SHA1-Digest: l0NpRhKpPlgoWJdy/4dA3AnIjuk=
+
+Name: assets/bn/ru/gt.html
+SHA1-Digest: 884s3ebhRrDWMmduIQOk9LFWKWM=
+
+Name: assets/bn/ru/women/alima.html
+SHA1-Digest: gyI3lO5xwzCzdNI8xMH1s/5aQ/Y=
+
+Name: assets/bn/ru/women/nonna.html
+SHA1-Digest: PFNH1ei+JKmJ4uVVdmkUYxxxtro=
+
+Name: assets/bn/ru/women/rumia.html
+SHA1-Digest: 1U4ChEkeOhcYp2xzeYZkvnc5ymA=
+
+Name: res/drawable/report.png
+SHA1-Digest: HwF/so7dYz8sLv1LW6vyYGuWM5U=
+
+Name: assets/bn/ru/women/alla.html
+SHA1-Digest: T90IL8CQLIc08o9rXDnWQv5lY9U=
+
+Name: res/drawable/pregimg.png
+SHA1-Digest: S98k/XfAJnzcF2TOHQg+1I+z1bg=
+
+Name: assets/bn/ru/men/ariston.html
+SHA1-Digest: tJOhxbeEHM1jHTVozjx8bOE1r+4=
+
+Name: assets/bn/ru/women/leniza.html
+SHA1-Digest: oMTJICpKg/Z1SfBj5xLFrD2y1Do=
+
+Name: assets/bn/ru/men/tigrii.html
+SHA1-Digest: iK82xn5+W5Yr+mZIh0LZF63DWY0=
+
+Name: assets/bn/ru/men/ansar.html
+SHA1-Digest: k4RiluRWX4zZaAJzsFW8gl0jegs=
+
+Name: assets/bn/ru/women/uliana.html
+SHA1-Digest: 4avkMW8+1DFrpagg+ed7OBEhH7w=
+
+Name: assets/bn/ru/men/genrih.html
+SHA1-Digest: WyHDlxJs+hl9vMFZUyPwwTP4Pvc=
+
+Name: assets/bn/ru/men/gaian.html
+SHA1-Digest: OoyzGsmOURXH1eP6EHAFWJJoazw=
+
+Name: res/drawable-mdpi-v4/ic_mail.png
+SHA1-Digest: UAB1f1NFSII4iH3Cvkz8aTOOhfo=
+
+Name: assets/bn/ru/women/sultana.html
+SHA1-Digest: WEKJLyX7RnFFsgJKGscQBoyvTrA=
+
+Name: res/drawable/back2.png
+SHA1-Digest: zpVo4fr2X8lkPY0KP6VcASGdJ4Q=
+
+Name: assets/bn/ru/gr.html
+SHA1-Digest: hs0g+g4CQ544+7j15Uld59avdaM=
+
+Name: res/anim/anim2.xml
+SHA1-Digest: H8ADd6e1e9nOHsnLq4hCQYv91IE=
+
+Name: assets/bn/ru/men/drujina.html
+SHA1-Digest: 2SDNPF5Sxhu5rsS2ufZN2sSpajc=
+
+Name: res/drawable-xhdpi-v4/btn_cab_done_pressed_blue.9.png
+SHA1-Digest: rP4A26gp5X0wIzo3QK1SKfuZpXs=
+
+Name: res/drawable-mdpi-v4/tab_unselected_focused_blue.9.png
+SHA1-Digest: z4ctWLaV4Kmfrb0ZQhKSU0LWzxE=
+
+Name: assets/bn/ru/women/miranda.html
+SHA1-Digest: wGD1um+gkP8kr60JUX3C9Ir8rcU=
+
+Name: assets/bn/ru/women/rusana.html
+SHA1-Digest: yRn8dNq3XWOlqZUhCVxLJ4JGDUw=
+
+Name: assets/bn/ru/women/eleonora.html
+SHA1-Digest: fEn/+VPOvl4LLPVzsRc32wMqY38=
+
+Name: res/drawable-xxhdpi-v4/powered_by_google_dark.png
+SHA1-Digest: gfHaH8EPI7tPXVeskcJGZH2tiRQ=
+
+Name: assets/w34.png
+SHA1-Digest: u7UKyleTiXfFn+B5gmPgTCeuA8M=
+
+Name: assets/bn/ru/men/radi.html
+SHA1-Digest: m7l8FpORn0JGvBKkaBvCqHFIMGE=
+
+Name: res/drawable/botton_selector5.xml
+SHA1-Digest: e09nXL3HsGzfhWTi+BJgjXcJn4M=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: GWc6ybKC9nsIf6Z+0RBEJ2TFdQ0=
+
+Name: assets/bn/ru/men/bertol_d.html
+SHA1-Digest: kVxSxhWDB27e0pcncFKIDPZiT8Y=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: CbQKQR4v+KUpSOw8jtj/8rngelU=
+
+Name: assets/bn/ru/men/panteleimon.html
+SHA1-Digest: iTwimeNOjKhjN1fYQ61xoWe7KzM=
+
+Name: assets/bn/ru/men/ruslan.html
+SHA1-Digest: 1q807hh3Otz0sB2NV19Vq6Q9u20=
+
+Name: res/drawable/common_signin_btn_icon_light.xml
+SHA1-Digest: vR9ydzA23CF17lfKpz7LQZKT1Ok=
+
+Name: assets/bn/ru/men/avraam.html
+SHA1-Digest: VQWMo7x9l2el0SHJf0Q2jKqYmnQ=
+
+Name: assets/bn/ru/women/lucia.html
+SHA1-Digest: awiwEs1OeFGL1qNvxtYyREBHrCE=
+
+Name: assets/bn/ru/women/pavla.html
+SHA1-Digest: 1unAzoEbWY5l0uoea5PPtTlKTSE=
+
+Name: assets/w13.png
+SHA1-Digest: iD06mxkjbF1ikzV0ox6KBZ6JqCw=
+
+Name: res/drawable-xhdpi-v4/ab_bottom_solid_blue.9.png
+SHA1-Digest: qNmltq3WnK4YXlo9ty7OVHDFZPQ=
+
+Name: assets/bn/ru/men/richard.html
+SHA1-Digest: E6qNaSOzUSgV+HBIoGQ8zSFk1fg=
+
+Name: assets/bn/ru/men/mefodii.html
+SHA1-Digest: Whd5kjfzKOTvYXSr3UvQPaJ7AhY=
+
+Name: assets/bn/ru/men/abov.html
+SHA1-Digest: HoW1oxo2UiD26wN4JeGS9A8bGP4=
+
+Name: assets/bn/ru/women/aurika.html
+SHA1-Digest: 3BO1DA20lz72eYIJOn/cMEOEP70=
+
+Name: assets/bn/ru/women/hilda.html
+SHA1-Digest: 6DQWPs5GSQrYRPojh/Yi3ywoqUA=
+
+Name: assets/bn/ru/women/ahia.html
+SHA1-Digest: Jhu5YpNL9TinBNGBo2iBz3+QiQw=
+
+Name: assets/bn/ru/men/emil.html
+SHA1-Digest: z9hHqQF6cyjJzfHlswgWCd8vgNo=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: OIRGcM9wwTMJqudjfOzKjfWhqx0=
+
+Name: assets/bn/ru/women/aella.html
+SHA1-Digest: +Mn4G5h//ufqqvClKHb2ns6pBZ4=
+
+Name: assets/bn/ru/women/snegana.html
+SHA1-Digest: 6rT0Y8WIiKnZlGLkTYgr013b1Lc=
+
+Name: res/layout-xlarge-land-v4/widget_layout.xml
+SHA1-Digest: AkkGSa6xDpeWfdR+FjIPl9F2Upw=
+
+Name: assets/bn/ru/women/zamina.html
+SHA1-Digest: DTpPLLoZMl0s866q0BtPN3ck3V0=
+
+Name: assets/bn/ru/women/dalila.html
+SHA1-Digest: sr0Ir+qHnN2m5JfwNgQ2WQXpk9Q=
+
+Name: assets/bn/ru/women/kira.html
+SHA1-Digest: P3rw/BpLwJyhurfT/q7qFecZ+9Y=
+
+Name: res/drawable-mdpi-v4/ic_test.png
+SHA1-Digest: HQ5WfUK76z31ohpp8CNzvZr1AKU=
+
+Name: assets/bn/ru/women/sabiha.html
+SHA1-Digest: dsvBek1OOJ4IYH/bFKzVmUK4/i4=
+
+Name: assets/bn/ru/go.html
+SHA1-Digest: uU7oufsw2j1p43lmqnSLoD0mFVE=
+
+Name: assets/bn/ru/women/marfa.html
+SHA1-Digest: D9K3k0KzIRZUCa7wGvgjisz0TvM=
+
+Name: assets/bn/ru/women/stefania.html
+SHA1-Digest: TmLbAj1XOy9xmecqiXmsV+RriVQ=
+
+Name: assets/bn/ru/bb.html
+SHA1-Digest: 5KgxJwN9onUx7MkJ0bZSBVtFblo=
+
+Name: assets/bn/ru/women/fatima.html
+SHA1-Digest: 7D7aOulWze49DuKbKOB8uX3X9lk=
+
+Name: assets/bn/ru/women/velimira.html
+SHA1-Digest: DcCpV01J4aFYtwexADb81+XxIeE=
+
+Name: assets/bn/ru/men/arman.html
+SHA1-Digest: tqUuMJ++uLRotuk3uURDAh1D7Ic=
+
+Name: assets/bn/ru/women/kamilia.html
+SHA1-Digest: UzCdpIQiFu+q5uVgiN/NQhyTjIw=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_dar
+ k.9.png
+SHA1-Digest: UnGnluRjvPtWCPTuaQl6cAdhCys=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_light.9.p
+ ng
+SHA1-Digest: M/AuBUDrasZr5kX0EObwl5+LiN8=
+
+Name: assets/bn/ru/men/agafodor.html
+SHA1-Digest: z/EPR7UMaZfQ1D9HGxIqyJM5JKw=
+
+Name: assets/bn/ru/women/maisara.html
+SHA1-Digest: v/ncDV3ygCxmys7cZE+QqVb4WuA=
+
+Name: assets/bn/ru/men/bonifazi.html
+SHA1-Digest: 4iUspsgCfRSXvvcckKov3V7iOhQ=
+
+Name: res/layout-large-v4/item.xml
+SHA1-Digest: isl6IN/TwmtEZjD6VHIAfiPI9NA=
+
+Name: assets/w1.png
+SHA1-Digest: syh+FM8io3ZyZGmkLUNhxwL60ho=
+
+Name: assets/bn/ru/men/filip.html
+SHA1-Digest: tNFyjnoz67NqORsUvRCIt+JFom4=
+
+Name: assets/bn/ru/women/hania.html
+SHA1-Digest: I1NKVdyynxPfEjA7qZVq+srHgD4=
+
+Name: assets/bn/ru/women/umida.html
+SHA1-Digest: f4URCDhZL74vc5f3KVWE6ichBV4=
+
+Name: assets/bn/ru/women/shakira.html
+SHA1-Digest: hC3EhN1Fwxff7SJKIM05XiCIajM=
+
+Name: res/layout-xlarge-v4/opennames.xml
+SHA1-Digest: kPFpztUvLvk4C0IrHBKpK+9vFL4=
+
+Name: res/drawable-xhdpi-v4/ic_action_bag.png
+SHA1-Digest: DPe/wGjXUbNUnL1+lcLWTdulWNs=
+
+Name: assets/bn/ru/women/aziza.html
+SHA1-Digest: aJ0HMd7os/mrBUi7/cettgRdezU=
+
+Name: assets/bn/ru/women/virdjinia.html
+SHA1-Digest: hqSpsrwfZ3dr6Z3rJkxT6a9EpI4=
+
+Name: res/drawable-xhdpi-v4/tab_unselected_blue.9.png
+SHA1-Digest: iyT1iEvTV7AUtd8klSTxIZPEtJI=
+
+Name: assets/bn/ru/men/nikolai.html
+SHA1-Digest: G8ZW7NBwURb0fAezNmZQ/8VzNBg=
+
+Name: assets/bn/ru/men/german.html
+SHA1-Digest: 4dibPlAK37FmOnjY1Ez5V6Ip22s=
+
+Name: res/drawable/custom_ratingbar_small.xml
+SHA1-Digest: u+bnh1Gh8ylwcP232yNwF1cRfWE=
+
+Name: assets/bn/ru/women/apolinaria.html
+SHA1-Digest: kUEFkTvart97sFID7EHB1ya918I=
+
+Name: assets/bn/ru/men/nikanor.html
+SHA1-Digest: Mq2EY/V+QsFoldnO4Fv15VWALIY=
+
+Name: assets/bn/ru/women/gazia.html
+SHA1-Digest: c1nTUAPuHyclrRsMS7CTcv2zC0g=
+
+Name: res/layout/calendar_item2.xml
+SHA1-Digest: ILDQgAA3k/K65LTB7+WQMnfk0MU=
+
+Name: assets/res/ru_3.html
+SHA1-Digest: rTEPSE0jvhxKkKn/6tj1m7tkh4s=
+
+Name: assets/bn/ru/men/rem.html
+SHA1-Digest: KPEf9x8kGfNHRVeSWjskVyO3gKQ=
+
+Name: assets/pregnancy-week-35.jpg
+SHA1-Digest: RAw4vvWBdjbtHS2l33+Xpe8sUes=
+
+Name: assets/bn/ru/women/kirilla.html
+SHA1-Digest: GkmD3tul4A6gVZzh13vGC09PL8s=
+
+Name: assets/bn/ru/women/paloma.html
+SHA1-Digest: nC+0qLLTGQCV6gtPou8WVVLJ+3Q=
+
+Name: assets/bn/ru/men/onisium.html
+SHA1-Digest: Dlj7QPb7VO1Nya0l7PcoqA3VGyI=
+
+Name: assets/bn/ru/men/velor.html
+SHA1-Digest: /jYn8jWUwPHmQVyq1K5eEAQkL+8=
+
+Name: res/drawable-mdpi-v4/progress_secondary_blue.9.png
+SHA1-Digest: hCJXUsc1IObe+AGD1A7PVkq9z/Y=
+
+Name: assets/bn/ru/women/kolombina.html
+SHA1-Digest: kqHb6Xp1dYLpKkfZHkRQGf6RL9w=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: HJdSnxPzW/dtUr+R9bfh15Nk+oo=
+
+Name: assets/bn/ru/by.html
+SHA1-Digest: oEdPvLFyzeWuppgx7Q/mDvShOr4=
+
+Name: assets/bn/ru/women/gizela.html
+SHA1-Digest: s+0Vizatnk69Y/gydL6eBqXVqMo=
+
+Name: res/drawable/note.png
+SHA1-Digest: FOnKMZYtgJV89RgHhRCcgt1G4l8=
+
+Name: assets/bn/ru/men/behet.html
+SHA1-Digest: I3zolMT3NyTDKcLCoG9Mhniwkrs=
+
+Name: assets/bn/ru/men/soloman.html
+SHA1-Digest: eO3eEIpi/OekhQL1oH26/yQgqZ0=
+
+Name: assets/bn/ru/men/hariton.html
+SHA1-Digest: O8nQ4NWNosKeD//tfa7XNjxHuVg=
+
+Name: assets/bn/ru/men/ermak.html
+SHA1-Digest: aCS8Y/5e0u9KBK3I4tWc2Pb8pWI=
+
+Name: res/drawable-hdpi-v4/ic_action_weight.png
+SHA1-Digest: FMGtcv4WnaXE3r9k76PIeNxyQnA=
+
+Name: assets/bn/ru/men/artemi.html
+SHA1-Digest: f6hoGP6oaBfFbt0ziB7NDKCwbWY=
+
+Name: assets/bn/ru/women/rafia.html
+SHA1-Digest: YXT/tVmUINr40E07egVzqRnH4ZM=
+
+Name: assets/bn/ru/bv.html
+SHA1-Digest: g7vdsDnEsNjm6Eg5EVirrGaBs7A=
+
+Name: assets/bn/ru/women/sadia.html
+SHA1-Digest: x/mYI5pvDddKpCtrbwVjUn+PVKk=
+
+Name: assets/bn/ru/men/aggeii.html
+SHA1-Digest: 7ml7U5K1WLaG6Crc/YxKa2Nuogk=
+
+Name: assets/bn/ru/women/leia.html
+SHA1-Digest: XR9Shkyd+rq/3zo09Z6UILp1Sy0=
+
+Name: assets/bn/ru/women/agida.html
+SHA1-Digest: DXhQ06wvMR8iQh2xfdCupU1IbyI=
+
+Name: assets/bn/ru/women/silva.html
+SHA1-Digest: G3V7iuAVS8N3xDjVKtN0z0rshec=
+
+Name: assets/bn/ru/women/sati.html
+SHA1-Digest: Dr929YWC/8v781GqwcpPvtsfihI=
+
+Name: res/drawable/on_small.png
+SHA1-Digest: zTj15SC9dCezPO1iYneDu9OuH9Y=
+
+Name: assets/bn/ru/men/merab.html
+SHA1-Digest: HaOLNWHWW9/S9zQKB1w+48XOJh0=
+
+Name: assets/bn/en/gx.html
+SHA1-Digest: vD+183zcwZ0yn+ZmV3TxifW3Zgk=
+
+Name: res/drawable-xhdpi-v4/ic_light.png
+SHA1-Digest: z3se3KdsFc+cxppszword5LPIeA=
+
+Name: res/drawable-mdpi-v4/ic_action_search.png
+SHA1-Digest: XjltJdEB3tvakTn9CN7KwdaNT68=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: nKaHZR/SZMMQaMr3tIMJk0K1+k0=
+
+Name: assets/bn/ru/be.html
+SHA1-Digest: MFsqwb7svwE9m8N4GX+xjzyehc0=
+
+Name: res/drawable/selectable_background_blue.xml
+SHA1-Digest: aQXbysflw5fHuPkXj7ybou4/qbY=
+
+Name: res/drawable-xhdpi-v4/ic_action_timer.png
+SHA1-Digest: /qL1+box4RX0VydeWdnRVkEUvmQ=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: 9aVwwDJLurzAdd/0dY0hcfBsZLI=
+
+Name: res/layout/calendar_item5.xml
+SHA1-Digest: TVkqwbVIq/jh3N+UF6dAwjp9iRY=
+
+Name: assets/bn/ru/women/boiana.html
+SHA1-Digest: lg6ZWLGtghTbJ0kcuU71kbq+D9E=
+
+Name: assets/bn/ru/women/kadira.html
+SHA1-Digest: botvO8e8twYdfBLXPEJZ+ywb4qQ=
+
+Name: res/drawable-hdpi-v4/menu_dropdown_panel_blue.9.png
+SHA1-Digest: sZgEvrcOpYMdguVeFdPLfcDksLE=
+
+Name: assets/bn/ru/women/ester.html
+SHA1-Digest: fDU4hqI9Xe63tRdZnuUioaD4DZ8=
+
+Name: assets/res/en_9.html
+SHA1-Digest: WqMf0Q/lrS5CyFSFJzggmfvEXGk=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: 2zGuWTNe/mXuDfUEMVNWpRpYsB4=
+
+Name: assets/bn/ru/women/inna.html
+SHA1-Digest: aPn3KoGZ8my4tu5vPIonGOPBP8A=
+
+Name: assets/bn/ru/women/habiba.html
+SHA1-Digest: nQPPfGnYObZRMocT/B+zNNV7Low=
+
+Name: assets/bn/ru/women/aisha.html
+SHA1-Digest: Au4vOUsWlX8SRAZtCQGMrCJ6HE4=
+
+Name: assets/bn/ru/men/aladdin.html
+SHA1-Digest: qyKGHN10oVt7pmtGmo3cT09XwOE=
+
+Name: assets/bn/ru/women/rimma.html
+SHA1-Digest: 0MHSZbgNlSgTRY3nMCavFKHBvoU=
+
+Name: res/drawable-mdpi-v4/progress_primary_blue.9.png
+SHA1-Digest: BjpAPprXurZN52HLYsii4ieLQT0=
+
+Name: assets/bn/ru/women/lolita.html
+SHA1-Digest: a85tTNoqabeTeg3PfnoBt60VlHA=
+
+Name: res/drawable/off_small.png
+SHA1-Digest: DCHg7jBVIpHnjTRFlNsTc6V822Q=
+
+Name: assets/bn/ru/men/edmund.html
+SHA1-Digest: TeQLV38FM8uXI/pzVn3rKO3UHzU=
+
+Name: assets/bn/ru/men/azim.html
+SHA1-Digest: xo64z2mLClVfwsMObFCHUlaUfDE=
+
+Name: res/layout/pill.xml
+SHA1-Digest: +3bqDo1BaXnrZIBfFbua2PgRuOI=
+
+Name: res/drawable/medic2.png
+SHA1-Digest: HvQtt1qu2X8nONJTtjLqONSh7Qk=
+
+Name: assets/bn/ru/men/evuard.html
+SHA1-Digest: Ffcp9SovpzAzrhleM4TmWtLeaa4=
+
+Name: assets/bn/ru/women/beloslava.html
+SHA1-Digest: 1Y6l6+9TEeJR+B3pgZWawoU+VZA=
+
+Name: res/layout/item_report.xml
+SHA1-Digest: 6rLqjx/Goln9up60ZlOIphkSXlk=
+
+Name: assets/bn/ru/women/tala.html
+SHA1-Digest: 5rkGtvXPhkt/PIU+B/46xqTaqNQ=
+
+Name: assets/bn/ru/women/inara.html
+SHA1-Digest: unCKREFqi7ZQUkCERJxlvWawRG0=
+
+Name: assets/bn/ru/men/agafangel.html
+SHA1-Digest: CgxKHzoiGnE6qjyVUuDstFFI9HQ=
+
+Name: assets/bn/ru/women/agrippina.html
+SHA1-Digest: SbZBUHKZvyDkcmeuE1uFKYmG8Mo=
+
+Name: res/drawable/bag3.png
+SHA1-Digest: YbNop8xal0HCf4RmsPuc3BvSx+w=
+
+Name: res/layout-xlarge-v4/calendar_item2.xml
+SHA1-Digest: V3976w3uojm76qJ8Cy5QNebABYM=
+
+Name: assets/bn/ru/gl.html
+SHA1-Digest: noETcz4wndN3JDDZBJAp6JhmyqE=
+
+Name: assets/bn/ru/women/hristina.html
+SHA1-Digest: eBy8ZpzrNfyYnMt96rXuQw4JzO8=
+
+Name: assets/bn/ru/men/ludvig.html
+SHA1-Digest: UOPEQBEIelkSGim1MZb8WAU17bs=
+
+Name: assets/bn/ru/women/glafira.html
+SHA1-Digest: bQvpo/XTje3/U2hjMUW39eu+skA=
+
+Name: assets/bn/ru/women/naina.html
+SHA1-Digest: fIseSZXKhAvuJeDMoxbGIlfabmg=
+
+Name: res/drawable-xhdpi-v4/spinner_ab_focused_blue.9.png
+SHA1-Digest: S3QEkiMMhy+Us4ijQwFkenPvGew=
+
+Name: assets/w27.png
+SHA1-Digest: zI06G/TwDNkCafBnjEz1XOqtj3s=
+
+Name: assets/bn/ru/men/arhimed.html
+SHA1-Digest: h85s4FjkpfoI6f/0pWZxMzDzUXs=
+
+Name: assets/bn/ru/men/ruben.html
+SHA1-Digest: U1plspuyr+R12qhZPzGKaSafGCk=
+
+Name: assets/bn/ru/men/timon.html
+SHA1-Digest: x9U2h4E3w7//vrl+TgRlxwz6Deo=
+
+Name: assets/bn/ru/women/djemila.html
+SHA1-Digest: YWG71nbauMRuSzIgwqnq78OhV6M=
+
+Name: assets/bn/ru/men/bikbai.html
+SHA1-Digest: 7ji02t6TB6+qNu/SVMgRicy7tTg=
+
+Name: assets/bn/ru/women/leonida.html
+SHA1-Digest: NIDmprxjXnfPmqcrIYTVRPw00iA=
+
+Name: res/drawable/ram4.xml
+SHA1-Digest: fpbiH9TC2ICqf2cOZ4YK4mZT7+I=
+
+Name: res/layout/sprsymp.xml
+SHA1-Digest: TW+n+JBzzXFsD7SGtrKFZ7KSCTQ=
+
+Name: assets/bn/ru/women/fazilia.html
+SHA1-Digest: pSs/PndMwFi/+OyoaCCFwYbPR0Q=
+
+Name: assets/bn/ru/women/vaziha.html
+SHA1-Digest: t2P48KhHl8VwQQe+tafxi/hytGk=
+
+Name: assets/bn/ru/women/nursida.html
+SHA1-Digest: I/XCepLOb2AqX3yIeAXBiW5bdQw=
+
+Name: assets/bn/ru/men/ata.html
+SHA1-Digest: sVMjfBJpXC8sIAPxGwB1WDcKA/Q=
+
+Name: assets/bn/ru/men/iona.html
+SHA1-Digest: PB4DyUz7m0IvMhefoHf2NFfSwW8=
+
+Name: assets/bn/ru/men/beloslav.html
+SHA1-Digest: R7Of3/0Xa/9KTrWnpn6DeThLpt0=
+
+Name: assets/bn/ru/women/polina.html
+SHA1-Digest: XS4VaK9oJoEV+Fg6Ss8Bf5k2EPY=
+
+Name: assets/bn/ru/women/rozmari.html
+SHA1-Digest: ZMz73gMfmf0tDny/dzY6RVGlOyA=
+
+Name: assets/bn/ru/men/matvei.html
+SHA1-Digest: KdxG5Hw5MGzIVqcuLBHZFg3dgnk=
+
+Name: assets/bn/ru/women/safa.html
+SHA1-Digest: +hKJDsD/Tvbj4wKw8isNxMxddaE=
+
+Name: assets/bn/ru/women/rania.html
+SHA1-Digest: asafSAeCTobj4Kb+JQUBB7mPAnM=
+
+Name: res/drawable-hdpi-v4/btn_cab_done_default_blue.9.png
+SHA1-Digest: wOIxN/03IC6MucQ9KRpw9H5S3kU=
+
+Name: assets/bn/ru/women/iriada.html
+SHA1-Digest: OH3v97ngA4iMEqqOWpzsDnOHP4A=
+
+Name: assets/bn/ru/men/akakii.html
+SHA1-Digest: rPCh+OLkOj/E3GAlpO3t4Nd7IPY=
+
+Name: assets/bn/ru/women/milana.html
+SHA1-Digest: uamXX/1Ni5/bEf/ilz8RX7xcvs0=
+
+Name: assets/bn/ru/men/taras.html
+SHA1-Digest: mbQBUx9M1q7nwzBHgEmHEi8msSE=
+
+Name: assets/bn/ru/women/shamilia.html
+SHA1-Digest: 10/R/yvinq07dfu5p8/ElIo8AcA=
+
+Name: assets/bn/ru/women/zinira.html
+SHA1-Digest: b1gij/bDtm1rbQVKtxg8Yjb0c64=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: oHKnBBbWgjP4o7A/6GgdHOh1E3M=
+
+Name: res/drawable/settings4.png
+SHA1-Digest: Ukp+uK3v7+4utznLpwvBrcrTs90=
+
+Name: assets/res/en_4.html
+SHA1-Digest: egMjoNcLM9wbwCBD3pg098l/Qvk=
+
+Name: assets/bn/ru/women/kleopatra.html
+SHA1-Digest: Z+fffng6y1ebNj2MwtVe2VROQaU=
+
+Name: assets/bn/ru/bp.html
+SHA1-Digest: fcaPHFZZ440gA4DLj7bHgZFV7V4=
+
+Name: res/drawable-mdpi-v4/ab_stacked_solid_blue.9.png
+SHA1-Digest: txI6gx6JStZHru5Y175euawbcuk=
+
+Name: assets/bn/ru/women/kafilia.html
+SHA1-Digest: y0xKpzZfejaS38NPBDtd+lQoGFY=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: R0rCQap54Xf4ElOYS7zj9TUQB6s=
+
+Name: res/layout-xlarge-v4/item.xml
+SHA1-Digest: isl6IN/TwmtEZjD6VHIAfiPI9NA=
+
+Name: assets/bn/ru/men/dragomir.html
+SHA1-Digest: ANxoezfvItgb9VFY0SNCZnoXP8k=
+
+Name: assets/bn/ru/women/bela.html
+SHA1-Digest: P0LCGzr5c8AMFTv8X2oRab7u8+I=
+
+Name: assets/bn/ru/women/kamilla.html
+SHA1-Digest: ejUieY3uSARxS3BsYYWEfqrXMJI=
+
+Name: assets/bn/ru/gx.html
+SHA1-Digest: SZzkQB68D3hBeXrMiIPunRGQpas=
+
+Name: assets/bn/ru/men/adil_.html
+SHA1-Digest: VsDXQHhfGhW0uQA7cKZUVao8lPY=
+
+Name: assets/bn/ru/women/klena.html
+SHA1-Digest: JVHigYX7B4498WkHr+eLOGIGvtM=
+
+Name: assets/bn/ru/men/vladislav.html
+SHA1-Digest: jMlJirXObfBI0gNmoSabVD53jL8=
+
+Name: assets/bn/ru/women/berislava.html
+SHA1-Digest: IPVv9b7ehhhkajzQfpgZ0sJOM+I=
+
+Name: assets/bn/ru/men/franc.html
+SHA1-Digest: abbXbEOnl1rnsHEkbaODdjrWzk8=
+
+Name: assets/bn/ru/women/aslia.html
+SHA1-Digest: qV/eRFsEQSKfw2zUXlB7cXTkuaA=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: Zpm+uanjIZounXjdWPevociI0a8=
+
+Name: assets/bn/ru/women/nairiiat.html
+SHA1-Digest: 1l7kVWTGvaM0RzFFOcW6rAoE7eM=
+
+Name: assets/bn/ru/men/dionisii.html
+SHA1-Digest: qqGzOSrMdMIt4wP6brepg7jaWJ8=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_dark
+ .9.png
+SHA1-Digest: KfT1DbEuXyhvG18n0yILeVsK0Vo=
+
+Name: assets/bn/ru/men/asgat.html
+SHA1-Digest: HH3UOKz2Ipdu/b0bgpV7IF1GNq8=
+
+Name: res/drawable-xxhdpi-v4/menu_dropdown_panel_blue.9.png
+SHA1-Digest: hNk8ZiwOQCtg35dqAu07FJfolfk=
+
+Name: assets/bn/ru/men/amaiak.html
+SHA1-Digest: QUvxUe/zjDDbzXybmtZ3SiwFh2o=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: f8NYPVOXcYBwuQSENH+eJEOJeV4=
+
+Name: res/drawable-xhdpi-v4/ab_transparent_blue.9.png
+SHA1-Digest: Lhw63oshFnledAisC8GX+asfcDc=
+
+Name: res/layout/item.xml
+SHA1-Digest: isl6IN/TwmtEZjD6VHIAfiPI9NA=
+
+Name: assets/bn/ru/men/stanimir.html
+SHA1-Digest: Q6FpT8vNSf/baFKkcVRgSX9PoUE=
+
+Name: assets/bn/ru/men/averian.html
+SHA1-Digest: hfwE20ca5F/GxuCFobU4lLQlKHg=
+
+Name: res/layout-large-v4/weight.xml
+SHA1-Digest: fgboQwYwROScVCOQ+4lLybBRQG8=
+
+Name: assets/bn/ru/women/sivilla.html
+SHA1-Digest: iQ47ixkccPRt84QJ+yVYWsEsGgU=
+
+Name: assets/bn/ru/women/adilia.html
+SHA1-Digest: 3tSM84rPoik/hNr9RMeU6r1iEJU=
+
+Name: assets/bn/ru/women/rozalin.html
+SHA1-Digest: NUXDQW+Bp25e7cd7m2FVz+LX8AU=
+
+Name: assets/bn/ru/bz.html
+SHA1-Digest: mYKQrJWR6eNm9TOEcQs6xc1THrg=
+
+Name: assets/bn/ru/women/sarra.html
+SHA1-Digest: 67eBcajM1jV3AEitNcVD4E0M6CY=
+
+Name: assets/bn/ru/women/railia.html
+SHA1-Digest: +NeGPzG+LRIqXydaXRcmbBwXKOk=
+
+Name: res/drawable/common_signin_btn_icon_dark.xml
+SHA1-Digest: Fvecjok4nmguWMyaogfAySKW7UQ=
+
+Name: res/drawable/custom_ratingbar_filled.xml
+SHA1-Digest: WBeuam0/dxiHfyTKmfbsiFFA2zE=
+
+Name: res/drawable-hdpi-v4/ic_action_menu_app.png
+SHA1-Digest: bYfs70CtwOls3bC2+y78S7nCXcw=
+
+Name: assets/bn/ru/women/lubov.html
+SHA1-Digest: Mc3gf0cNWe8KLXpFyoMyqmQ2+gg=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: ioH2V9g4FYKkqpDHk7jPryMKtcE=
+
+Name: assets/bn/ru/men/avaz.html
+SHA1-Digest: 0SZrxhGakU3eQWuJ2ylLSN7RFOI=
+
+Name: res/drawable/botton_shape_released2.xml
+SHA1-Digest: cRgFWb+41Egd1WGW+i/WqDmw1lU=
+
+Name: assets/bn/ru/men/ratmir.html
+SHA1-Digest: 65BFwSlhpjanx/tm8p7CcY6durM=
+
+Name: assets/bn/ru/women/maia.html
+SHA1-Digest: iAvWIRq+2A/1ixlXcdyTVN9y7ok=
+
+Name: assets/bn/ru/women/dina.html
+SHA1-Digest: ZHyRBqF1Z9SOANEwn7aRPS++vIc=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_dark.9.pn
+ g
+SHA1-Digest: M/AuBUDrasZr5kX0EObwl5+LiN8=
+
+Name: assets/bn/ru/women/dila.html
+SHA1-Digest: SEq5JeTQRvx8P34BkrSSiPGitUc=
+
+Name: assets/bn/ru/women/ildusa.html
+SHA1-Digest: pBeofBM24U4iTxPnylym7iY6/Ng=
+
+Name: assets/bn/ru/women/vera.html
+SHA1-Digest: JzM74gkOly+BY+/+oQTjqZsbKGM=
+
+Name: assets/bn/ru/women/ilzida.html
+SHA1-Digest: kGlmf0b2DXd9vQEi1SBs8Ctu+18=
+
+Name: assets/bn/ru/women/irina.html
+SHA1-Digest: ZLeJ2XfSn9JZyG4daAZvSOM8cDc=
+
+Name: assets/bn/ru/women/ramzia.html
+SHA1-Digest: 5/okLlNsFLFQs/2VJh/+ybsOYkU=
+
+Name: assets/bn/ru/men/erast.html
+SHA1-Digest: doO75jpI4eaWxGoHHr9rGvfrCuU=
+
+Name: res/drawable-xxhdpi-v4/ic_drawer.png
+SHA1-Digest: lfux935XI0S6WkHCj9Qm+wnWNh8=
+
+Name: assets/bn/ru/women/tomila.html
+SHA1-Digest: MZ+eI74olAeXxtykU6YdU7R9RXg=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: PQepBgnG9/NfWmEsB0xZninuUKM=
+
+Name: assets/bn/ru/men/rolan.html
+SHA1-Digest: BfYDVz4eFidt54u1hEGMzPuxFlE=
+
+Name: assets/bn/ru/men/evdokim.html
+SHA1-Digest: 5j/gP0iukOzswTfJXU0R0IXr2/8=
+
+Name: assets/bn/ru/men/gustav.html
+SHA1-Digest: Mt2ILD7x1SbsKP2q+oiIQfzG0N8=
+
+Name: assets/bn/en/gh.html
+SHA1-Digest: wH9vHJ+s/V97V6B7L5EUoQX/rRM=
+
+Name: assets/bn/ru/women/kara.html
+SHA1-Digest: lNqst13VkaFjWTQ+2/Map4MsLyk=
+
+Name: assets/bn/ru/women/avgusta.html
+SHA1-Digest: TMgQJ8Li7vCWTSO/1WShKS0Pezg=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: Cv+J7vU8p5tdCif6GMDKlPPRC6M=
+
+Name: assets/bn/ru/men/abbas.html
+SHA1-Digest: qi2xrHVvD8LLO1/Q4kqytJFcwU8=
+
+Name: assets/bn/en/bq.html
+SHA1-Digest: gnqwqX0SNYFEoluSt3QApkjl9Kw=
+
+Name: assets/bn/ru/men/adrian.html
+SHA1-Digest: 1W9fbQFfwxZEEJLRb1G+5REF9ok=
+
+Name: assets/bn/ru/women/tabiba.html
+SHA1-Digest: 3dwvcyThfogwOIqZ2P05+2ZeTHI=
+
+Name: assets/bn/ru/women/veniamina.html
+SHA1-Digest: NR7hdX0aZKQcwtTvxu2GY7H1w+w=
+
+Name: res/drawable-mdpi-v4/cab_background_top_blue.9.png
+SHA1-Digest: k/SdoXnX+DjG7t2U1PbyC2EgdPE=
+
+Name: assets/bn/ru/women/rushania.html
+SHA1-Digest: +ZmwMYvAy37ETzHoKWdkaPhFe/c=
+
+Name: assets/w31.png
+SHA1-Digest: hbdPgTVuVaYdyB4wGenPIeK68Og=
+
+Name: assets/bn/ru/men/sergey.html
+SHA1-Digest: I0EV5lRzCvT91oIDNS+aNLMDUl0=
+
+Name: assets/bn/ru/women/feba.html
+SHA1-Digest: YItA5FCsBJxt+HjvrW7liyD7+uE=
+
+Name: assets/bn/ru/men/asadulla.html
+SHA1-Digest: BWqU1R+yHqHkPWSalYuLo+URfuU=
+
+Name: assets/w5.png
+SHA1-Digest: pZNUMcoLrXin7dctDx3QNrCliFs=
+
+Name: assets/bn/ru/men/konrad.html
+SHA1-Digest: nxlR7uyfEaFCanN5rZJdCvPOmAU=
+
+Name: res/layout-large-v4/calendar_item5.xml
+SHA1-Digest: IaTD2C3NLzEVTGSY+teCHC3TiSA=
+
+Name: assets/bn/ru/men/georgi.html
+SHA1-Digest: i7vWtpR8UdhSDnA6N+EBAvi8w7Q=
+
+Name: assets/bn/ru/women/ariadna.html
+SHA1-Digest: NyYOnWuS5CQub8Kf0nc/8t7+WYI=
+
+Name: assets/bn/ru/women/ninel.html
+SHA1-Digest: uPUFFZXMywQSmDjkDa4SJczV7cM=
+
+Name: assets/bn/ru/men/amadei.html
+SHA1-Digest: AXIslgm083CzSSeu/g7//srimPs=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_light.9.pn
+ g
+SHA1-Digest: +qORW9oS7s5/oY5Z1R4KkQ+aJ1g=
+
+Name: assets/w36.png
+SHA1-Digest: W6N5nh22ici/nbpZcB0fx2aRZYQ=
+
+Name: assets/bn/ru/women/veronika.html
+SHA1-Digest: mAFJ4ZJqdQWGL78uW699B55m6Jw=
+
+Name: res/drawable-mdpi-v4/ic_action_calendar.png
+SHA1-Digest: r9VoRI2q28tDn4KMllwc6RxurNM=
+
+Name: assets/bn/ru/women/robina.html
+SHA1-Digest: Fpdk9MLIkwIJv1Ri0bq4bGdx4jQ=
+
+Name: res/drawable/weig4.png
+SHA1-Digest: attAfe1x0Mr3MlS9Qs4XiCugeGE=
+
+Name: assets/bn/ru/women/tekusa.html
+SHA1-Digest: D1tFPHusiOty6MY6ngve9BbzNwg=
+
+Name: assets/bn/ru/women/jiasmina.html
+SHA1-Digest: 4Ron6p+++679BRekahiEi5JZOOw=
+
+Name: assets/bn/en/gj.html
+SHA1-Digest: 5svbjZfDXtx4E5WB+WF6+6pEpW0=
+
+Name: assets/bn/ru/women/sofia.html
+SHA1-Digest: YmdiBaGQq918rDA3fXvJyrz0jXg=
+
+Name: res/layout/dialog2.xml
+SHA1-Digest: /Y1obH26zpe8EYVEDU2ItySH784=
+
+Name: assets/bn/ru/women/jjanna.html
+SHA1-Digest: KbCYjihCiLSddB5vn1L9Fw+epzA=
+
+Name: res/drawable/round_b4.xml
+SHA1-Digest: 2wjk9AgcDfWu9o4VEpEp5X0JuKg=
+
+Name: assets/bn/ru/women/kora.html
+SHA1-Digest: tR1+wlamFrspqfAU8wD6uzg9A2Y=
+
+Name: assets/bn/en/gy.html
+SHA1-Digest: 98uzPHsNaXWzJBnhrBBvFHj0X/Y=
+
+Name: assets/bn/ru/women/ustina.html
+SHA1-Digest: qHS18pu9jjM5Q7o8CebXB03ryF8=
+
+Name: res/drawable-hdpi-v4/ic_mail.png
+SHA1-Digest: 4qIFEX4n3uySZrAlvjoQcS1rZ0c=
+
+Name: assets/bn/en/bb.html
+SHA1-Digest: aiIH1Ks1fiu1XLhH5UZo1WlZc8g=
+
+Name: res/drawable-xhdpi-v4/list_focused_blue.9.png
+SHA1-Digest: iHikaZkZMhuTQs3aY3fx2g+uGHg=
+
+Name: assets/bn/ru/women/gertruda.html
+SHA1-Digest: J2hmw5S/IUCRAR9DtuOghDZBPNQ=
+
+Name: assets/bn/en/gc.html
+SHA1-Digest: S6YohvYth01Jd1+byoTPLxJ2GCo=
+
+Name: assets/bn/ru/women/esmeralda.html
+SHA1-Digest: n5uQ92uyg6P7xu7F8yZoW4+wPqs=
+
+Name: assets/bn/ru/women/sagia.html
+SHA1-Digest: RK2qGjkWf58vhsz5hB7Tl/SlGWM=
+
+Name: assets/bn/ru/men/marian.html
+SHA1-Digest: ezR1AbFFOl0sLGUYEyPjN614SSA=
+
+Name: assets/bn/ru/women/beata.html
+SHA1-Digest: L9+pLief7TLQO6b6J6o6XWGDLgg=
+
+Name: res/layout-xlarge-v4/listpreg.xml
+SHA1-Digest: a+g8B+KvCxzg0vkvNofptvi+BE8=
+
+Name: assets/bn/ru/women/muhsina.html
+SHA1-Digest: oHFEn/6Ae8Y2yxe8oGhjZV1eU1E=
+
+Name: assets/bn/ru/women/natella.html
+SHA1-Digest: n45GZ2sQ+gKkrOE0/c+JQGw/Azs=
+
+Name: assets/bn/ru/bl.html
+SHA1-Digest: MHreyqFOc/Nz6to9Er8S//k8JPQ=
+
+Name: assets/bn/ru/women/blagoslava.html
+SHA1-Digest: dlP7bIvBiPNyrbp/mgE6DbtWfTk=
+
+Name: assets/bn/ru/women/lebed.html
+SHA1-Digest: 9hLFOpHWDaH99ySzQgMA87UOow8=
+
+Name: res/drawable/botton_shape_pressed.xml
+SHA1-Digest: /xDuG4X4hQWHJqpfweqvBcxgYhU=
+
+Name: assets/bn/ru/men/avksentii.html
+SHA1-Digest: cp/M/wSm1Ig0yzHPigt7fSaq0J4=
+
+Name: assets/bn/ru/men/tibor.html
+SHA1-Digest: p6ibZSAk7AznOXG1PM1DurNisyY=
+
+Name: assets/bn/ru/men/aristarh.html
+SHA1-Digest: dkMaHkHgiqOmWWh09W6HE4TZ8Qk=
+
+Name: res/drawable/custom_ratingbar_empty_small.xml
+SHA1-Digest: gdlxN9A6Tcrz/AVdyXk1fsqNf28=
+
+Name: assets/bn/ru/men/avvakum.html
+SHA1-Digest: CGEKFLd19faCcd1btMt2JiU7DOY=
+
+Name: assets/res/en_7.html
+SHA1-Digest: VYiUFf7iFSDS2Ikmei1W7tg9WBE=
+
+Name: assets/bn/ru/women/sumaiia.html
+SHA1-Digest: y3bzK7jv+mC6Z3pHbqF4EaNMU7A=
+
+Name: org/jsoup/nodes/entities-base.properties
+SHA1-Digest: GGECs3/ztDnWbYv+CYzxzkBnoq4=
+
+Name: res/layout-xlarge-v4/windowsrating.xml
+SHA1-Digest: /7R8ekgGyKidJDivFi1EEqKBs7I=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: BoLkfiIFe77i34exfP7BramG/ho=
+
+Name: assets/bn/ru/women/razilia.html
+SHA1-Digest: 1Q3G85oSG8LeL+/8SJ5PUkhavqI=
+
+Name: assets/bn/ru/women/rogneda.html
+SHA1-Digest: nQUs98N6p/W8iWiH+SgIHS8qbZk=
+
+Name: assets/bn/ru/women/aelita.html
+SHA1-Digest: h0sZd1UxWGQPG0VrTz1FHGOutD8=
+
+Name: assets/bn/ru/men/rogden.html
+SHA1-Digest: 44UFwNkVQ40tcVMvUZArtIopfKQ=
+
+Name: assets/bn/ru/women/uidif_.html
+SHA1-Digest: PeEr5i3RVetObS47Fz0R0YDkUZQ=
+
+Name: assets/bn/ru/women/nadjmi.html
+SHA1-Digest: p7t+b+BbcAJtzF4YTPIHmVznOzE=
+
+Name: assets/bn/ru/men/adam.html
+SHA1-Digest: OmQvXz6c4e/TOEu1+QHEt9EGBpQ=
+
+Name: assets/bn/ru/women/olvia.html
+SHA1-Digest: B2M/WG1kNyAAS/7b4YuqfeT6VRw=
+
+Name: res/layout-large-v4/calendar_item.xml
+SHA1-Digest: 8Je1nSLp/p95xcLJS3QQsraMl5E=
+
+Name: assets/bn/ru/men/yan.html
+SHA1-Digest: y9/W8dsJVmNFmvssV5OIQXhtiB8=
+
+Name: assets/bn/ru/men/terenti.html
+SHA1-Digest: r5jBqd0zGQKAm9XUUumGd91/TZo=
+
+Name: assets/bn/ru/men/kornili.html
+SHA1-Digest: nz4eAvTo0szFLABHvvfgvkbndIY=
+
+Name: assets/bn/ru/women/medeia.html
+SHA1-Digest: 070+fWZt4ZI6Sy3nikLX1SRQ64g=
+
+Name: assets/bn/ru/women/susanna.html
+SHA1-Digest: 6vx9FTe2og956D4yrWWTyA3ylLI=
+
+Name: assets/w21.png
+SHA1-Digest: bcy7EIDVFBpBkbVTpYI5MEhHmAQ=
+
+Name: assets/bn/ru/women/kaleria.html
+SHA1-Digest: Lfb1MHj0mHCPVv3MJdF1S7iaSmo=
+
+Name: res/drawable/c1.png
+SHA1-Digest: aU+fmtaxJjsFyP49GerZEqpJDmI=
+
+Name: res/drawable-hdpi-v4/ic_action_profile.png
+SHA1-Digest: Zg/V/pOgMH/NJz5J+hRo+ocwjss=
+
+Name: res/drawable/babyname5.png
+SHA1-Digest: bjmfvBIY9QjAcPF++uZJ/zsvrfw=
+
+Name: res/drawable/tab_selected_holo.png
+SHA1-Digest: ngyYPaEywVLSZwXlz0dBtVpOk7M=
+
+Name: res/drawable/babyname.png
+SHA1-Digest: AiYpi3YUYLhwm0pDX5gkH30eGAc=
+
+Name: assets/bn/ru/women/julia.html
+SHA1-Digest: V8xGEO+smkWmK7DXAZWw+7boais=
+
+Name: assets/bn/ru/women/ilsia.html
+SHA1-Digest: jjN5rdl45YaSm5kxSeGBHYBGr9M=
+
+Name: assets/bn/ru/women/frederika.html
+SHA1-Digest: WcItwrG1o7k5yW6k94yziy3JUlI=
+
+Name: assets/bn/ru/women/firaia.html
+SHA1-Digest: C+dYzmPXQ0GzBnkvhbGOmFaTt6w=
+
+Name: assets/bn/ru/women/milica.html
+SHA1-Digest: qoS+Gde3TnqyinsA0Wc+ZuR4B8Q=
+
+Name: res/drawable-mdpi-v4/list_focused_blue.9.png
+SHA1-Digest: Wqbu3SlN2bFEEpWXXqhXa/8evtQ=
+
+Name: assets/bn/ru/women/amina.html
+SHA1-Digest: 4n0FUR/JfT8mVwzlWyYdAdD/q7E=
+
+Name: assets/bn/ru/men/almoch.html
+SHA1-Digest: Hoji+7/uoSFG74uVkf9yI/0rTOw=
+
+Name: assets/bn/ru/men/robert.html
+SHA1-Digest: DTNqDOOJ01ROU5XDmTF26iVTWH8=
+
+Name: assets/bn/ru/women/elena.html
+SHA1-Digest: ycR7kbAuZE+3V7UxmVyAcynYCNQ=
+
+Name: assets/bn/ru/women/regina.html
+SHA1-Digest: yOQlX81fbJMQNZxAuvkLHS4RnkA=
+
+Name: assets/bn/ru/women/nana.html
+SHA1-Digest: 5n0N9/0rkeg/YJUfMnYKeyvYNmw=
+
+Name: assets/bn/ru/women/hikmat.html
+SHA1-Digest: ffaR0wFf4pJG6pNvQSnGv3QpIOk=
+
+Name: assets/bn/ru/men/nifon.html
+SHA1-Digest: MWw7XT8glspB2wBe92PwjfBA9QA=
+
+Name: assets/bn/ru/gd.html
+SHA1-Digest: zqo22apeE4ZwjGk4ZicpJxQqndU=
+
+Name: assets/bn/ru/men/ulian.html
+SHA1-Digest: sbyJAzJ0tWfI7AwG6M29HsPFkIo=
+
+Name: res/layout/helpful.xml
+SHA1-Digest: Jaqx2l/nIzfP69pkhT+/GvzxFw8=
+
+Name: res/drawable-mdpi-v4/ic_action_names.png
+SHA1-Digest: oynPcydCkeVZ0lKs88WpiQOoSSM=
+
+Name: assets/bn/ru/men/naum.html
+SHA1-Digest: 2zwD/gArScUiMKtGYZa845vZu1c=
+
+Name: assets/bn/ru/women/boriana.html
+SHA1-Digest: KCyuYKFBpNwTI/KUEDQzoauHaN8=
+
+Name: assets/bn/ru/women/gracia.html
+SHA1-Digest: xEKrzFjnf0LWJ0yVkc9uBfK2Qzs=
+
+Name: assets/bn/ru/women/vasima.html
+SHA1-Digest: uNQ+WEgsedCbR6ruM6fIK8yWCGs=
+
+Name: res/drawable-hdpi-v4/progress_bg_blue.9.png
+SHA1-Digest: m0iPfo/tH+WvEjJm8X1mjR6rgAI=
+
+Name: assets/bn/ru/gya.html
+SHA1-Digest: 1UQPRf+n64FxCmrSHXjX7Fk1N+A=
+
+Name: res/drawable-mdpi-v4/ic_action_visit.png
+SHA1-Digest: ndiHuohbLhwW+TGmGvLTTOEjMwA=
+
+Name: assets/bn/ru/men/amin.html
+SHA1-Digest: ZtU9znkdEcegcXIdBh1IqIfy+cg=
+
+Name: assets/bn/ru/men/timur.html
+SHA1-Digest: f/bf4RkQNYdb6VhuHyiy6HLzCl4=
+
+Name: assets/bn/ru/women/stella.html
+SHA1-Digest: yxHna4p9opkFL5RVmwRGLZFKMJY=
+
+Name: res/drawable-xhdpi-v4/tab_unselected_pressed_blue.9.png
+SHA1-Digest: oaFmgu8twyasn4AnKvEvwVhper0=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: pt2sGm+R9IKa/yNYVOguoJ1i7qI=
+
+Name: assets/bn/ru/women/gabriela.html
+SHA1-Digest: bw0lIRnI4diPjczVDB2VxgtaZYo=
+
+Name: res/drawable-xxhdpi-v4/ic_mail.png
+SHA1-Digest: dsfDIJiLhLfM1sgQRa78EJqINeQ=
+
+Name: assets/w29.png
+SHA1-Digest: tzwrXZc66wgEwR/Ybi+ltjwjLKk=
+
+Name: assets/bn/ru/women/gulnur.html
+SHA1-Digest: ipE0BmQlr9x4g2zcX2UvFJo0Dbo=
+
+Name: res/drawable/preg.png
+SHA1-Digest: yGJoZcVYkCx/FQqVS9wTWFndagM=
+
+Name: assets/bn/ru/men/stiven.html
+SHA1-Digest: x7CSNtog56T6XDxy1Jd4lrX8Y6s=
+
+Name: assets/bn/ru/women/vitalina.html
+SHA1-Digest: UZ7iYXILGTQRb6MSzfU2mgWWvYQ=
+
+Name: assets/bn/ru/men/iziaslav.html
+SHA1-Digest: H12MVV1OKCXDU9fpi6rVcO3kxNg=
+
+Name: assets/bn/ru/men/bahir.html
+SHA1-Digest: XTDuA36PT2Scg5yASqFLYxF3tL0=
+
+Name: res/layout/calendar_item.xml
+SHA1-Digest: RNEBA2hjW1eYiu95IJYvJos+A1g=
+
+Name: assets/bn/ru/men/anton.html
+SHA1-Digest: GCj9bXG8sOQnCTrmib7mgthrmh8=
+
+Name: assets/bn/ru/women/landish.html
+SHA1-Digest: Sd5nk9s0/jIDkEJivcoNA6f7n4o=
+
+Name: res/drawable-xxhdpi-v4/tab_selected_pressed_blue.9.png
+SHA1-Digest: VwRQeaDJlrsZswApytmQjpZ/OhM=
+
+Name: assets/res/en_11.html
+SHA1-Digest: Q+Tbii+GBw10JB1biSfyThk/AZI=
+
+Name: res/drawable-xxhdpi-v4/list_focused_blue.9.png
+SHA1-Digest: YW87w31mMTrxr1/g+4tK8IhDNAY=
+
+Name: res/drawable-xxhdpi-v4/ab_solid_blue.9.png
+SHA1-Digest: 3dxBFdkiYOX+DwlJ9JRVZP20uI4=
+
+Name: assets/bn/ru/men/rifat.html
+SHA1-Digest: MmV0+kb1KFT1fuKTZBdAS3qql3o=
+
+Name: assets/bn/ru/women/raihana.html
+SHA1-Digest: p9YcB0+ucr0LQti1bEO8I4kJjkU=
+
+Name: assets/bn/ru/men/batu.html
+SHA1-Digest: pHAzw2MQx1PhYL8gP9O732ZmeOE=
+
+Name: res/layout-large-v4/opennames.xml
+SHA1-Digest: tmMoj4p3pEW7V+foukMg4TaQ6eA=
+
+Name: res/drawable-xhdpi-v4/ic_action_menu_app.png
+SHA1-Digest: bdZe6q++iidtwhf9WFi8A/Nn6u0=
+
+Name: assets/bn/ru/men/edvard.html
+SHA1-Digest: z8akE4Au5KjwpbK+E8O6vIgC0G8=
+
+Name: assets/bn/ru/women/gera.html
+SHA1-Digest: a0oukgQdp33+sszBYyAgJtqj8GY=
+
+Name: assets/bn/ru/women/raina.html
+SHA1-Digest: lAJh1kFVaKE7jiPWwV9MkbD/Qno=
+
+Name: assets/bn/ru/men/jdan.html
+SHA1-Digest: oE0YowPcssmPRawX4OGkOqsbyrM=
+
+Name: assets/bn/ru/women/lilia.html
+SHA1-Digest: P/cAHwSHSZ4ZjLjkMKJILwqYCJ4=
+
+Name: assets/bn/ru/men/akimfii.html
+SHA1-Digest: ZrUN7Vn/tOzP97mLZMW0dsbrCaw=
+
+Name: assets/bn/ru/men/akim.html
+SHA1-Digest: JkKor/+KyVy/zogtRC8uu198BPE=
+
+Name: assets/bn/ru/men/asad.html
+SHA1-Digest: 2qJjfsPGERcBfEITEnI/gxSzQx4=
+
+Name: assets/bn/ru/women/biruta.html
+SHA1-Digest: AmLtqW/Lb936JvP1/t9fkII/Qnc=
+
+Name: assets/bn/ru/men/michlov.html
+SHA1-Digest: 3Ztp8c4fvc2FuKkeUeO6vidPTIQ=
+
+Name: assets/bn/ru/women/feodosia.html
+SHA1-Digest: q670pXS/whNoD1OyG0swW7UMoaQ=
+
+Name: res/drawable-xhdpi-v4/ic_action_about.png
+SHA1-Digest: Ggh2SVCeogFhvm6DIromZ2I/N9c=
+
+Name: res/drawable/wweig.png
+SHA1-Digest: Y8NQ1Vkdod8htk4oEeybntv/e/4=
+
+Name: assets/bn/ru/men/gordei.html
+SHA1-Digest: lHR40K4sQIwWuawY1JbdGhKZoTw=
+
+Name: assets/bn/ru/women/ingeborga.html
+SHA1-Digest: BPfL5Kt0asdbph4UlbAjCVvPT04=
+
+Name: assets/bn/ru/women/ada.html
+SHA1-Digest: zrB15ta1qlcpSEBCEnNSe6bYU7s=
+
+Name: res/drawable/kick4.png
+SHA1-Digest: Hz+nsgkm8bW38jBqH6pqRnYnxug=
+
+Name: assets/bn/ru/women/mariam.html
+SHA1-Digest: 9S+MLvaWKioNZJe6dghR2xFCKJc=
+
+Name: res/layout-xlarge-v4/list_stat.xml
+SHA1-Digest: tUgBfqm5Aes0+l9U5GuJbPOzbVE=
+
+Name: assets/bn/ru/men/klim.html
+SHA1-Digest: yb9UqQEPvKfjLWFGe/vOfhRMS80=
+
+Name: assets/bn/ru/women/jamalia.html
+SHA1-Digest: BX8WEF5nn4Fwpr0+IC9BbgyTmHQ=
+
+Name: assets/bn/ru/men/aristkon.html
+SHA1-Digest: 9nG7H+0+1iVuK78U7PMfVNCAQjI=
+
+Name: res/drawable-xhdpi-v4/spinner_ab_disabled_blue.9.png
+SHA1-Digest: yVr6rlMezyKtGbhAiNnHsBmtj1I=
+
+Name: assets/bn/en/bd.html
+SHA1-Digest: AwSofEj2uOm1rAP6Q/AVLBg+erk=
+
+Name: assets/bn/ru/women/madlena.html
+SHA1-Digest: ri+u+BzLB4WXpBUgBklDM2+Iyls=
+
+Name: assets/bn/ru/women/kasima.html
+SHA1-Digest: RxM9ppmRMbdnoQh5eEjZ7kJajMA=
+
+Name: assets/bn/ru/men/pavel.html
+SHA1-Digest: 9fDUzgBy6o4iwlhyU0MIkvWcCmw=
+
+Name: assets/bn/ru/women/selestina.html
+SHA1-Digest: d7QUcLg6j5KpSOhKpS5T0vauw0c=
+
+Name: assets/bn/ru/women/odetta.html
+SHA1-Digest: uM7aHMzFaAkCK8wDbzQgT+i7zKc=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: FMoZxbKyy1t4RWJZNFgkkfl6R2I=
+
+Name: res/drawable/tab_selected_holo5.png
+SHA1-Digest: Wy+OpKDP+sRrHlHdkjHvIE+FGsk=
+
+Name: res/drawable-xhdpi-v4/cab_background_bottom_blue.9.png
+SHA1-Digest: kLpjh/WL2KtZfKEjlo+oN/GtbhA=
+
+Name: assets/bn/ru/men/kornei.html
+SHA1-Digest: EvOcGzF78XPehAuRoUvWSubJGnA=
+
+Name: assets/bn/ru/men/stoian.html
+SHA1-Digest: I41mjZNLAZmH2ZUiWgFHBEK8o64=
+
+Name: assets/bn/ru/bg.html
+SHA1-Digest: DAt63OR6jEE48nFuCxbQBdiSYIM=
+
+Name: assets/bn/ru/women/sabina.html
+SHA1-Digest: BqZPEnC+jyIG07ZH2NOzr68rswg=
+
+Name: assets/bn/ru/men/natan.html
+SHA1-Digest: 4+bVC10Y5t7mkCayMctjVgpoTXE=
+
+Name: assets/bn/ru/men/albin.html
+SHA1-Digest: 15DbrF6eQlhdRpqErEHSWD0IHj8=
+
+Name: assets/bn/en/bw.html
+SHA1-Digest: 0E4Km2SWlMUCHPnR7ZOKcNvoP0M=
+
+Name: assets/bn/ru/men/abrek.html
+SHA1-Digest: JLnkK7kTx3NLw7xtvXZJzCHYxds=
+
+Name: assets/bn/ru/men/janislav.html
+SHA1-Digest: A/Au/z8Ii1c4DLVmYuqDD46RIp8=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_light.9.pn
+ g
+SHA1-Digest: pCIvTjWlEd+72lf6cxDeEv/N0Pg=
+
+Name: assets/bn/en/bi.html
+SHA1-Digest: gJw74VLSwfOY6Ax1oJ4sNIaV1S4=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: r6Mdl54h2qEvVnqgfsgxU4CysiI=
+
+Name: assets/bn/ru/women/islamia.html
+SHA1-Digest: IuZ7HPE3iQrxro3vPX/qFMotLYk=
+
+Name: assets/bn/ru/women/bogdan.html
+SHA1-Digest: FLVWQF7MltA+t8ns0enxRrIx3Rk=
+
+Name: assets/bn/ru/men/asaf.html
+SHA1-Digest: VNW0pRPw6nP7J5Bva8C7ypPfcYQ=
+
+Name: assets/bn/ru/men/nikon.html
+SHA1-Digest: jdYfDuC2qQ65h7sxgMuIzcQT5ig=
+
+Name: assets/bn/ru/women/esfira.html
+SHA1-Digest: 9d59hs8PwhaZBbG+AcIU3tAQ+yc=
+
+Name: res/drawable/weihhttable.png
+SHA1-Digest: 2Q2f/vzU2qp/qypYhbafQAbYBc0=
+
+Name: res/layout/item_kicks_adapter.xml
+SHA1-Digest: R55Y76yN8W8xLB5KxEe9P+jHg1U=
+
+Name: res/drawable-xxhdpi-v4/ic_action_diary.png
+SHA1-Digest: v9VrYv4qDmFv9ac0fDoNjhvSYEo=
+
+Name: assets/bn/ru/women/raushania.html
+SHA1-Digest: tNHvdHLnxpSkQF64c1eOeg0absk=
+
+Name: assets/bn/ru/ga.html
+SHA1-Digest: V3zwxy+qY/6N6aOmI3MA/sJXYiQ=
+
+Name: res/drawable-mdpi-v4/ic_drawer.png
+SHA1-Digest: avlXkQp1YWAufGsapRQPu3uvDgs=
+
+Name: res/drawable-xxhdpi-v4/btn_cab_done_default_blue.9.png
+SHA1-Digest: Jb4a11cMQBxAwEcV16G//yMLiFs=
+
+Name: assets/bn/ru/women/gul.html
+SHA1-Digest: e1pgBXeOt06bBtJmxcCkT0/pT9I=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: vBwm0ihe3tJu932F0b7IvAec1Ho=
+
+Name: assets/bn/ru/women/lia.html
+SHA1-Digest: F2wvvNLPgrItBvHcerXwqRXc9ck=
+
+Name: assets/bn/ru/men/aviv.html
+SHA1-Digest: 0MWKf7w3A2/T1HZ/0K+y2lCVYQ0=
+
+Name: res/drawable-mdpi-v4/tab_unselected_pressed_blue.9.png
+SHA1-Digest: up4jM4ee4bb1RoMQVw4E9ouQc30=
+
+Name: assets/bn/ru/men/florentii.html
+SHA1-Digest: s3ioiMmhLNuYi36RXyadQgFRpsU=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: meTbFvJL0s3oA4sDj2GzpobVb3Q=
+
+Name: res/drawable/your_tab_selector_drawable4.xml
+SHA1-Digest: E0AOLMjV3fmqjqRaXI3IFjr+LGE=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: pt2sGm+R9IKa/yNYVOguoJ1i7qI=
+
+Name: assets/bn/ru/women/nekrasa.html
+SHA1-Digest: 00ecgr/frjM4kbyobru619BUfoM=
+
+Name: assets/bn/ru/women/vasilia.html
+SHA1-Digest: qpVt/sHFjmjXyPAxlAGleixn4IQ=
+
+Name: res/drawable-xxhdpi-v4/tab_unselected_pressed_blue.9.png
+SHA1-Digest: 6F5eVdm5xIF4LSsS4//0lL0PgnY=
+
+Name: assets/bn/ru/women/farida.html
+SHA1-Digest: ftmHPrQzNHJ4vSczND/CQk1ahyw=
+
+Name: res/drawable-hdpi-v4/common_ic_googleplayservices.png
+SHA1-Digest: VI4dX5B2Y48SEkB7kbHeKlBvZ4s=
+
+Name: res/drawable-xxhdpi-v4/tab_unselected_blue.9.png
+SHA1-Digest: 5dCngejL+qy5uogTsHRpolLNk6g=
+
+Name: assets/bn/ru/women/fransuaza.html
+SHA1-Digest: Ote1Z5VFf7ZZV0NHNEgQqkNyM54=
+
+Name: assets/bn/ru/women/naima.html
+SHA1-Digest: SqPJUJo8j8Vf1geP5jhNALyPKQ8=
+
+Name: assets/bn/ru/men/farid.html
+SHA1-Digest: n8OcZ4qQwBuSBT81Q1rKeH25GGc=
+
+Name: assets/bn/ru/men/nazarii.html
+SHA1-Digest: 0f3l5T1nmJOfmobIP5QkG9wnX5c=
+
+Name: res/drawable-xxhdpi-v4/btn_cab_done_pressed_blue.9.png
+SHA1-Digest: /Dtui8JYYDYCU7J9f2bW7a5ny58=
+
+Name: assets/bn/ru/women/reia.html
+SHA1-Digest: J99v0bF7yklqFql7VKqNztC1gEk=
+
+Name: assets/bn/en/gv.html
+SHA1-Digest: c7L2fDy9OiX4yXhEe9fCXpwDKvU=
+
+Name: assets/bn/ru/men/elizar.html
+SHA1-Digest: 5cb2mrjb/ZSZpxv+PolDm6+wrjE=
+
+Name: assets/bn/ru/women/vela.html
+SHA1-Digest: nD1wcqiJFj3vYr8FOL/u+Ri8+A0=
+
+Name: assets/bn/ru/men/akbar.html
+SHA1-Digest: czecoVS++qIyWQtF6abaO57qVPo=
+
+Name: assets/bn/ru/women/djina.html
+SHA1-Digest: fRdf77F3n+4WlHy4O69jmgycklw=
+
+Name: assets/bn/ru/men/anastasii.html
+SHA1-Digest: cUV716b8zlG+c68VHkSa56KIrs4=
+
+Name: assets/bn/ru/men/agap.html
+SHA1-Digest: cO1rDfay7fn/uu7j+maCUkk1sPk=
+
+Name: assets/bn/ru/women/karolina.html
+SHA1-Digest: FUcPGJ4Fzw30J3E/0CvKN+bsNkc=
+
+Name: res/drawable-hdpi-v4/spinner_ab_focused_blue.9.png
+SHA1-Digest: 5KDvBiyW8GQXyXp+wRxYkXlcZY0=
+
+Name: assets/bn/ru/men/vladlen.html
+SHA1-Digest: PekYxqyaJZKXUrLnCmDh1aQEo4E=
+
+Name: assets/bn/ru/men/burungul.html
+SHA1-Digest: iyToQsUS9YYUUE6D+2shyj9O0nM=
+
+Name: assets/bn/ru/men/vsevolod.html
+SHA1-Digest: sPuejPEyxd8/61U5wr+NllyyBs8=
+
+Name: assets/bn/ru/women/zia.html
+SHA1-Digest: vTIvvYcqUSYXnrerjO/2QeQ614M=
+
+Name: assets/bn/ru/women/amna.html
+SHA1-Digest: Dxl4GJIbnqIj7aFSOgvjed3QMCU=
+
+Name: assets/bn/ru/men/nikodim.html
+SHA1-Digest: yyKHUsdcJLQbQJ4Kw6S9YIf10bw=
+
+Name: assets/bn/ru/women/elmira.html
+SHA1-Digest: w7droZALCh+du/alWzJhKarNs84=
+
+Name: res/drawable/tab_unselected_holo2.png
+SHA1-Digest: D+nlzUOIXfE6Rb47197fbbkFsUg=
+
+Name: assets/bn/ru/bf.html
+SHA1-Digest: 0Q40zFpva8xFsXjmjFHo1ZoRFmg=
+
+Name: assets/bn/ru/women/cvetana.html
+SHA1-Digest: KsVKzi4G29ddElycdXKwNgypzMs=
+
+Name: assets/bn/ru/men/dmitri.html
+SHA1-Digest: 3wN3qhH3EQ3eJv5gnyzP+oyQpMc=
+
+Name: assets/bn/ru/women/saliha.html
+SHA1-Digest: IKfGPnHKNIxImIOKOmNIZpER9CQ=
+
+Name: res/drawable-xxhdpi-v4/spinner_ab_disabled_blue.9.png
+SHA1-Digest: qIUfTCfupknuTmmgQ33P1ikLuLY=
+
+Name: res/drawable-mdpi-v4/spinner_ab_disabled_blue.9.png
+SHA1-Digest: KG7Ro034AOuzsXWlpPO9eRjqcMc=
+
+Name: assets/bn/ru/men/kapiton.html
+SHA1-Digest: bVCihZ+XK+61n+973tD6N1SS2qU=
+
+Name: assets/bn/ru/men/yaroslav.html
+SHA1-Digest: 9nqUBCq+W47pZh4pleRXNJjej44=
+
+Name: assets/bn/ru/women/pamela.html
+SHA1-Digest: iXZ/c4P6X4TTjluYZ1xf+n4httI=
+
+Name: assets/bn/ru/women/gloria.html
+SHA1-Digest: 5w9FYg2x8jInnIf54tYP8KmZDG0=
+
+Name: assets/bn/ru/women/pulheria.html
+SHA1-Digest: xXthq09dBIgEQW36xqLCI9cGZiM=
+
+Name: assets/bn/ru/men/renold.html
+SHA1-Digest: ATwEAlKD5eso1Ywasu1Q/S6EZiE=
+
+Name: assets/bn/ru/women/nigara.html
+SHA1-Digest: nKSHEyXBiBnlt/KOt8ufGXOeMJw=
+
+Name: res/layout-large-v4/item_babynames.xml
+SHA1-Digest: Kaa/3fl62w0C9P4uUc+5M4FKfSU=
+
+Name: assets/bn/ru/men/akila.html
+SHA1-Digest: W2uu88u/eg442fAMteazMS6owhU=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: assets/bn/ru/men/francisk.html
+SHA1-Digest: 9ovCXVNK1xlfZOLZw1ouiEeTMYg=
+
+Name: assets/bn/ru/women/evlampia.html
+SHA1-Digest: dspSUdQ1cT5Fgz/KQuJShqHqrts=
+
+Name: assets/bn/ru/women/hrisanta.html
+SHA1-Digest: UZIWeh9uzNVIsZyVJYpL7omFCEs=
+
+Name: assets/bn/ru/women/ernestina.html
+SHA1-Digest: s1EM5lILHfMz9DelHQErGs7HIGc=
+
+Name: res/drawable-mdpi-v4/powered_by_google_light.png
+SHA1-Digest: ZTHLPZe63ATwVGAlXju4hnecsME=
+
+Name: assets/bn/ru/women/faiza.html
+SHA1-Digest: NQg5Ud9hgLNjZcwIhAJ5iaSTBSk=
+
+Name: assets/bn/ru/women/veta.html
+SHA1-Digest: 5LkP8i7OL/bTSu8kJ5TyWX2MIok=
+
+Name: assets/bn/ru/women/jiamina.html
+SHA1-Digest: D8FcAiaEVJJUIR3oVF/3xASCoqE=
+
+Name: assets/bn/ru/men/ivan.html
+SHA1-Digest: OpyBrMP5J8ExEDspp7jIyczzEjM=
+
+Name: assets/bn/ru/women/svetlana.html
+SHA1-Digest: 21/VRywJAkMs0MhbR5FTbfFmmNs=
+
+Name: assets/bn/ru/women/evpraksia.html
+SHA1-Digest: VOaeQMhudEfBFh4+pi2HW8mYn50=
+
+Name: assets/bn/ru/men/alfonso.html
+SHA1-Digest: 4X9OO6xWkROfcPk/9RmouBojR/g=
+
+Name: assets/w22.png
+SHA1-Digest: tXb0G23W5v5em88kmcrEit7EBLs=
+
+Name: assets/bn/ru/men/borimir.html
+SHA1-Digest: cYWE3gZjLFUAE4UJ5QaeKljpRu0=
+
+Name: assets/bn/ru/women/gafura.html
+SHA1-Digest: +rZAGaGVnGgf3f0NdMAYAXaaXpY=
+
+Name: assets/bn/ru/women/kallista.html
+SHA1-Digest: BLlum9N8fmmPCq4KEk2YruECLEc=
+
+Name: assets/bn/en/gr.html
+SHA1-Digest: VMrLkNoyORL8eL6Cm39JXs40I38=
+
+Name: assets/bn/ru/women/safi.html
+SHA1-Digest: sorQmfLdv4u4KlnuYHrqWXACLo4=
+
+Name: assets/bn/ru/men/bakir.html
+SHA1-Digest: hGy1e370M+Z5fv/ujtDKosUb+Xg=
+
+Name: assets/bn/ru/men/albert.html
+SHA1-Digest: 8F1KdwZI8aJMYlyO+j8yf9CrCOM=
+
+Name: assets/bn/ru/women/aliba.html
+SHA1-Digest: Ap8sn5EiZtdjQ+V9/DiA4fqP5lE=
+
+Name: res/drawable/medic4.png
+SHA1-Digest: W+epiDEz6MxQqsWYGvBywL8cXr8=
+
+Name: assets/bn/ru/women/anisa.html
+SHA1-Digest: hxU8lCS3ufgIW3/Pq72WWwJDBYU=
+
+Name: assets/bn/ru/women/salomeia.html
+SHA1-Digest: /6LQxEsr75I5BApMydMM6Sgkifg=
+
+Name: assets/bn/ru/women/sevilia.html
+SHA1-Digest: Xhefl/20E8eKAG5sFPtf8685Dg8=
+
+Name: res/drawable-hdpi-v4/ic_action_search.png
+SHA1-Digest: rOWnNxWCWKwkicf+FpYGMg1fX2Y=
+
+Name: assets/bn/ru/men/avgustin.html
+SHA1-Digest: cJ3V6RXXqa4fPMVblax9FyMtazI=
+
+Name: assets/bn/ru/men/vaclav.html
+SHA1-Digest: 5uP6oDRotqxkPmdhfqKFggoysow=
+
+Name: assets/bn/ru/men/arslan.html
+SHA1-Digest: V9bZTUwwgYHha5YGWciSASjGAYw=
+
+Name: res/drawable-xxxhdpi-v4/ic_light.png
+SHA1-Digest: RxqHIISXhw1h3IOw1tUsOsNk1yg=
+
+Name: res/menu-v11/main.xml
+SHA1-Digest: JhMGBewsXjoOZBV3ZMAyPOzVr3A=
+
+Name: assets/bn/ru/women/irma.html
+SHA1-Digest: XhUZ1e8EUXPifoc1wP19i46MUnE=
+
+Name: assets/bn/ru/women/fekla.html
+SHA1-Digest: C4RMWq5UZHYf0qmb1OZjYwXvUW4=
+
+Name: res/drawable/pregimg2.png
+SHA1-Digest: ij5dE53oCqgrAOKGwf2d3UMwnzU=
+
+Name: assets/bn/ru/men/shamil.html
+SHA1-Digest: iS/HCclLn2W6dAqZe/Kv0xQIC9I=
+
+Name: res/drawable-xxhdpi-v4/tab_unselected_focused_blue.9.png
+SHA1-Digest: Z0jE9ybjuoroVROw0r+pB11Po8E=
+
+Name: assets/bn/ru/women/dobromira.html
+SHA1-Digest: oU8DSECcUaWVaQlwBZwYb+YAITM=
+
+Name: assets/bn/ru/men/fedot.html
+SHA1-Digest: CP45Ig3qGNBtsZoSqbeeyijFdkc=
+
+Name: assets/bn/ru/men/samuil.html
+SHA1-Digest: bABs79+hDrDZYrp9L0bsNwDGgB0=
+
+Name: assets/bn/ru/gy.html
+SHA1-Digest: cMJnjxrskibirogDOByI3qCGjLo=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: 4LnPZ0EIh2yTqhOvCTdrDYEF9vg=
+
+Name: res/layout-large-v4/calendarview.xml
+SHA1-Digest: F27aXf8GYxJWCDNSuQd1VKgcy6s=
+
+Name: assets/bn/ru/men/baian.html
+SHA1-Digest: i1yL3k6Rl5l04xUbZ5bNx+zjX04=
+
+Name: assets/bn/ru/women/rasima.html
+SHA1-Digest: WWwJjq1ksdHUfW4mDsvN8d8yoeg=
+
+Name: res/drawable-xxhdpi-v4/progress_secondary_blue.9.png
+SHA1-Digest: Devy0ge0yrN2NmrUjlLExnnH1Fg=
+
+Name: assets/bn/ru/women/alsu.html
+SHA1-Digest: Rashs555xrIMz/zfFNPGqdOavzw=
+
+Name: assets/bn/ru/men/aidan.html
+SHA1-Digest: 3LCwBn+oSC2CCRtz/zCH1hwZ5cc=
+
+Name: res/drawable/symp4.png
+SHA1-Digest: nb8Si9iruf60zlqrhwDBsTeGzEk=
+
+Name: assets/res/en_10.html
+SHA1-Digest: yMLjK4vXl4R1NOLN11hwpqZw0c4=
+
+Name: assets/bn/ru/women/dilia.html
+SHA1-Digest: WFNYns+t1BhqPlqhXBTZ2TcTABA=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: bIAQSJr/EfWZjIQk19BSgzvxEPU=
+
+Name: assets/bn/en/gf.html
+SHA1-Digest: CfM6/R3D6D6pZbjHxzKEJD6wfwA=
+
+Name: assets/bn/en/ga.html
+SHA1-Digest: kxWGx9VlYHMN2qjw+c3Brw8Tbec=
+
+Name: assets/bn/ru/women/rostislava.html
+SHA1-Digest: X7w9uWIWdQcvEm8sI0cjVQfCKK0=
+
+Name: assets/bn/ru/women/valia.html
+SHA1-Digest: XJd4gMADvxgcgduy+zHQ5ROEvVw=
+
+Name: res/drawable-xxhdpi-v4/ic_baby.png
+SHA1-Digest: RXfzMyPX0dr7onKZXCDwvSptExw=
+
+Name: assets/bn/ru/women/delfuza.html
+SHA1-Digest: 8TsLQj6NQtxr2PhOMSYhGezVyu8=
+
+Name: res/drawable-hdpi-v4/tab_selected_pressed_blue.9.png
+SHA1-Digest: s/nPApD2DiZXpmppyF1vc1cbTcU=
+
+Name: assets/bn/ru/men/rafail.html
+SHA1-Digest: yQrKZ9NSryo7FQTKP/h64+/mfqA=
+
+Name: res/layout/setdate.xml
+SHA1-Digest: khW+9i+9QlB3foFCd4LBhAMHEMc=
+
+Name: res/drawable-xhdpi-v4/tab_unselected_focused_blue.9.png
+SHA1-Digest: nidugW5f7yn5Ki/fNXpzKAWDWIw=
+
+Name: res/drawable-xhdpi-v4/ic_mail.png
+SHA1-Digest: o+7sDBsW4Q5Cl3E7kGMaA1hAAwY=
+
+Name: assets/bn/ru/men/illarion.html
+SHA1-Digest: IHCD32hXlwvd3WCxFNM1sPOj9Ok=
+
+Name: assets/bn/ru/men/pamfil.html
+SHA1-Digest: 4HWOL3Rij/biYOmYWLlZ2eVi/BA=
+
+Name: assets/bn/ru/bo.html
+SHA1-Digest: rPysCVCVFbOfaDRyl70tLwDw7Jc=
+
+Name: assets/bn/ru/women/kadria.html
+SHA1-Digest: cYYJRvtRVNSeyXjBK253qcLXqA8=
+
+Name: assets/bn/ru/women/gaiane.html
+SHA1-Digest: EX6d6IneVmS3LHeFN6jtw/yxWL0=
+
+Name: res/drawable-mdpi-v4/ic_action_menu_app.png
+SHA1-Digest: FCwtYDxRM70sQ50ElQ2ffhzEaQY=
+
+Name: assets/res/en_5.html
+SHA1-Digest: jfeUMn9esrWNEaiLgv6HtZqnnb4=
+
+Name: assets/bn/ru/men/lubomir.html
+SHA1-Digest: Ba6EFGF4zzX9ABm5We7N24B8uRU=
+
+Name: assets/bn/ru/men/amandin.html
+SHA1-Digest: k3b1zOwx20U0a/Q1J0QT3BIpvtc=
+
+Name: assets/bn/ru/women/darina.html
+SHA1-Digest: K6FS8KoE/BNAzerR+Xo+UZb0kJg=
+
+Name: assets/bn/ru/women/geba.html
+SHA1-Digest: KPjEsyz/v/woyN4xlfd3UmT7CSs=
+
+Name: assets/res/ru_1.html
+SHA1-Digest: vL7/3mvIVxeBMLpvqUKoQtwV2oA=
+
+Name: assets/bn/ru/women/nina.html
+SHA1-Digest: BjyF5mL1NZ9jMO0hV4w7E2+5g2E=
+
+Name: assets/bn/ru/men/kiril.html
+SHA1-Digest: hfd1suuSG5dLX0wbcfhFg03j390=
+
+Name: assets/bn/ru/men/stepan.html
+SHA1-Digest: p5R6Qav5Lbh4Ao4CnO20Be/7SYk=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: WDwqcy6yDbnca5VTvWWktckJuL4=
+
+Name: assets/bn/ru/women/mahfuza.html
+SHA1-Digest: vlsZa/hxn4CYqQW2/9ZWXTTv75M=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_light.9.pn
+ g
+SHA1-Digest: ZKYQRM+6FnZ8NFfqxj2cRG8euKk=
+
+Name: assets/bn/ru/men/azam.html
+SHA1-Digest: 61cMnuhwhBht3V52svPktBF0LTU=
+
+Name: assets/bn/ru/men/angel.html
+SHA1-Digest: 2wvOfp08lVSDLrfCr9sLUG8xFuo=
+
+Name: assets/bn/ru/women/halia.html
+SHA1-Digest: QPLVVraNNRP3orHrya7U3cIVykc=
+
+Name: assets/bn/ru/women/madina.html
+SHA1-Digest: A5g2cRuTqNlCtGdK5vAFmxRnNaQ=
+
+Name: res/drawable-hdpi-v4/tab_selected_focused_blue.9.png
+SHA1-Digest: ESJQ7NYd35lVJyD08hfTmSzDcAo=
+
+Name: assets/bn/ru/men/gradimir.html
+SHA1-Digest: QVEBUBBldor6dkO96Y23Ni3Al9A=
+
+Name: assets/bn/ru/women/jalilia.html
+SHA1-Digest: RVDTbnk02Olox5nNbqWjX3TGXpk=
+
+Name: assets/bn/ru/men/ipati.html
+SHA1-Digest: YR4A3R8KXm4+K9OtPtCJbQkN5gw=
+
+Name: res/layout/addeditsymp.xml
+SHA1-Digest: ebaDrzX7N5an9aiEcXpaU3PyRHI=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: /5RFzsw1zwQJHkUKjDGzni0BQNE=
+
+Name: assets/bn/ru/men/amir.html
+SHA1-Digest: gtUx++PEVoxxc76kjKW6m57eIUw=
+
+Name: res/drawable-xxhdpi-v4/ic_light.png
+SHA1-Digest: MjXw3p4/ekTtO2RDx1o80VJLZZI=
+
+Name: assets/bn/ru/women/edda.html
+SHA1-Digest: 2SonKoYBBbMnmmjJWQnS9sxfkdE=
+
+Name: assets/bn/ru/women/jiulieta.html
+SHA1-Digest: vOv2Zy5/h/KQ532Vfs5K6UgJyQM=
+
+Name: res/layout/activity_firstperiodmenu.xml
+SHA1-Digest: y8/CRU68nEjqdHHJKZTjrcBm4Kk=
+
+Name: assets/bn/ru/men/pahom.html
+SHA1-Digest: aHZcui7zjGvBrY4YCHa2tgTq62o=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: FMoZxbKyy1t4RWJZNFgkkfl6R2I=
+
+Name: res/drawable/baby.png
+SHA1-Digest: 3z53r8+/qKXDK7dmuapuKrbVrYk=
+
+Name: assets/bn/ru/men/egor.html
+SHA1-Digest: Cmhtml7b8RTGgUBhaW3NFuKaV10=
+
+Name: res/drawable-xhdpi-v4/tab_selected_pressed_blue.9.png
+SHA1-Digest: CANZWoa26MtAs7weX5fJBdnMbjE=
+
+Name: assets/bn/ru/women/anita.html
+SHA1-Digest: bnWjOxfDw8UtK7LwEPc5M3FC1Rw=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: l4wPPYunAqUs5TQYb14SXXQJQ+I=
+
+Name: assets/bn/ru/men/zahar.html
+SHA1-Digest: DN12Y4MwOVG+t6orJ/FKla4znMc=
+
+Name: assets/bn/ru/men/efrem.html
+SHA1-Digest: z7qZJ9KCHTNREfxwaWROs8DVsLU=
+
+Name: res/drawable/round_b3.xml
+SHA1-Digest: JSU2vcVFdmVE9F4BTJM3w6pbv6k=
+
+Name: assets/bn/ru/women/elvira.html
+SHA1-Digest: naXDXulmYITAr6LNpRAFuaXxR7Y=
+
+Name: assets/bn/ru/women/roksana.html
+SHA1-Digest: WDypyLARyU0CKa4Spu8z0i6qKoo=
+
+Name: res/drawable-xhdpi-v4/ic_action_symp.png
+SHA1-Digest: 9sR1Bfgg6uZWbDjdyACS3TksDMQ=
+
+Name: assets/bn/ru/women/agafia.html
+SHA1-Digest: c4oBDmgUCyDiDdDqYR+JBWV0j+Y=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: oJkL4xtlN87pNrCzPgueqqvY2nU=
+
+Name: assets/bn/ru/women/zoia.html
+SHA1-Digest: 3PMGVyw6/tGfgsFrWOoTPPbMHE4=
+
+Name: assets/bn/ru/women/kalima.html
+SHA1-Digest: AjCEFX+T/9W29EOOOvZIgDweJ6w=
+
+Name: assets/bn/ru/women/rida.html
+SHA1-Digest: un5zMja9U84Go9P2SWauHG3NFu8=
+
+Name: res/drawable-mdpi-v4/spinner_ab_default_blue.9.png
+SHA1-Digest: wfXz5RQd0Ix+R9frKVKFYOVR+e8=
+
+Name: assets/bn/ru/women/andromeda.html
+SHA1-Digest: WQvjQNPRf9HxbFimTY+kKC715Gc=
+
+Name: assets/bn/ru/gz.html
+SHA1-Digest: P68r4yjAIxrrhQVUaevFXmlLYL8=
+
+Name: assets/bn/ru/women/jenevieva.html
+SHA1-Digest: tjcI4iqLZWbzIURKwi65hSzclsA=
+
+Name: assets/bn/ru/women/marlen.html
+SHA1-Digest: 7jHq61HQMki01rkyiKSYUiy7SKo=
+
+Name: assets/bn/ru/women/blanka.html
+SHA1-Digest: H+gvVQCqePYoFow7HGpQP8QOexA=
+
+Name: assets/bn/ru/men/dobrinia.html
+SHA1-Digest: ybw1hJyMu5u4rgUP+h9Tg8WdWxA=
+
+Name: assets/bn/ru/women/benedikta.html
+SHA1-Digest: qE4+TRooZ3qXfkKVwS6bql4qRbY=
+
+Name: res/drawable-xxhdpi-v4/ic_action_settings.png
+SHA1-Digest: xYCUJrT3yOxYD1DUacxDcOUlG2I=
+
+Name: assets/bn/ru/women/marina.html
+SHA1-Digest: TiVm6w35JlHZrbMD7byVNRb2grA=
+
+Name: assets/bn/ru/men/asfat.html
+SHA1-Digest: Pu4u+Rs44BlyBiAmBCxhW5Azykw=
+
+Name: assets/bn/ru/women/hamisa.html
+SHA1-Digest: KATXFR0O71jPhBE3mk8wXl/Lveg=
+
+Name: assets/bn/ru/women/izabella.html
+SHA1-Digest: dmAttEmG1xaENTT4T0+7fUx8tf4=
+
+Name: assets/bn/ru/women/ludmila.html
+SHA1-Digest: T1LEqpD0U1btgnRO9uX25fSZARI=
+
+Name: assets/bn/ru/men/milan.html
+SHA1-Digest: FOY5ZleE9OmSY3uI8CqzHa2AbZ4=
+
+Name: assets/bn/ru/women/patricia.html
+SHA1-Digest: vC4Qe2H9S8YIDAUiZV4o/9PyonA=
+
+Name: res/drawable/botton_selector2.xml
+SHA1-Digest: X/v7aE0R57nZ2ZHizLJhgVwNLbc=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: qdpVIcOeVOJG3xTaI3TbVDJS/j8=
+
+Name: assets/bn/ru/men/afinogen.html
+SHA1-Digest: wsc/BiO4XeDO16LLLXKuEOLAQ/Q=
+
+Name: assets/bn/ru/women/evridika.html
+SHA1-Digest: OELaq+1K8pRDb2dhfnL0VAW1sfI=
+
+Name: assets/bn/ru/women/gyzel.html
+SHA1-Digest: W/l5HZDiElYuISlLU+uUCywI+kw=
+
+Name: assets/bn/ru/women/kailia.html
+SHA1-Digest: yWb6lPQ6gbrt/RWpnaFsC9zQ7Hg=
+
+Name: assets/bn/ru/women/ksenia.html
+SHA1-Digest: W0bqDdVfCFTh3h+/DGjLQzvhN5o=
+
+Name: assets/bn/ru/women/vladislava.html
+SHA1-Digest: I9ix1GYaJSQF/+4pHzZDdnm5jY8=
+
+Name: assets/bn/ru/br.html
+SHA1-Digest: 7eBtrM+xlPVZPbzoi56f/lMroVA=
+
+Name: assets/bn/ru/men/roman.html
+SHA1-Digest: 9a8egRtRCrLyqgJAxB6wM4ezo8g=
+
+Name: assets/bn/en/bk.html
+SHA1-Digest: wdhh7I8V0m9pPLgSW/7MCOi+LMo=
+
+Name: res/layout-large-v4/calendar_item3.xml
+SHA1-Digest: Sr6r6lrryiV4agX1sKt3MWvFwbc=
+
+Name: assets/bn/ru/men/fridrih.html
+SHA1-Digest: UNpps04Mydgu9jScwr0o6Gl4D1I=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: r5BaJcm8YInShTypnaU/gf6UKTQ=
+
+Name: assets/bn/ru/men/banat.html
+SHA1-Digest: qMKodj67JslugE+ot3BJwZtxsys=
+
+Name: assets/bn/ru/women/gulnaz.html
+SHA1-Digest: wHd9vr3NM1j6gtv7/H1SNmZRwfU=
+
+Name: assets/bn/ru/men/tariel.html
+SHA1-Digest: txY0YDXnBt5V8mES3eXEQlGNPzQ=
+
+Name: assets/bn/ru/women/bella.html
+SHA1-Digest: koVGrsw5kdMyc2PuYR9g3pmxeVA=
+
+Name: assets/bn/ru/women/liailia.html
+SHA1-Digest: lHeDrJa5YVkVnuin/Korv7qtGkE=
+
+Name: assets/bn/ru/women/maria.html
+SHA1-Digest: EK2XvHBnudJkPqXjUCrjW93xZPg=
+
+Name: assets/bn/ru/women/veselina.html
+SHA1-Digest: tbAPFQZuRN+oStXUBFmCYy54QoQ=
+
+Name: res/drawable/line2.png
+SHA1-Digest: YRFTAFmSLI/e04Ml//EHTKbIxDs=
+
+Name: assets/bn/ru/women/sofiia.html
+SHA1-Digest: g7n/GHev4HNq02KNOg1O6m+2+SY=
+
+Name: assets/bn/ru/women/zaira.html
+SHA1-Digest: OpBlVaNJk34rphqxPANB8V0Gf1o=
+
+Name: res/drawable-mdpi-v4/ic_action_weight.png
+SHA1-Digest: ihFcJFZ9Cqt+cFf6DsRHro1hsJU=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 92pHkmawW9x95wDQw6uvTZBRXkQ=
+
+Name: res/layout/main.xml
+SHA1-Digest: Br5URzwy+w/OkkVosHxPNgKNX7Y=
+
+Name: assets/bn/ru/women/hadisa.html
+SHA1-Digest: tGoCJEv31wrptV6RI8JFs6SKIDg=
+
+Name: assets/bn/ru/men/dinasii.html
+SHA1-Digest: imxQRQH06Uo7mLWIoGgP9Q1Nzq0=
+
+Name: res/drawable-xxhdpi-v4/ic_action_kick.png
+SHA1-Digest: JPKIPuA/mTuJMs/R+86X/YPuVWw=
+
+Name: assets/bn/ru/women/viktoria.html
+SHA1-Digest: JGm5Rc7YHBZ4hjuIaNeWmDhzjyE=
+
+Name: assets/bn/ru/men/demian.html
+SHA1-Digest: Jxc/JnV++n8n9J5T1B3xPeQiE4o=
+
+Name: res/layout-large-v4/report.xml
+SHA1-Digest: uEipUC9WNdK4ScHnOU2CLBGYzeY=
+
+Name: res/drawable-xxxhdpi-v4/ic_action_menu_app.png
+SHA1-Digest: bDxMo7H2PU+IvupGOFHWMiCVHKU=
+
+Name: assets/bn/ru/men/baiaz.html
+SHA1-Digest: VRuYkz6Ie0fYvXo5Nwp9D4JOQKg=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: dYDfYdQeVCs4/1WeSohObo/Y42U=
+
+Name: assets/bn/ru/women/irshulia.html
+SHA1-Digest: DlZepGw+mBI/joAdD/QQ4rwE9x4=
+
+Name: res/layout-xlarge-v4/kick.xml
+SHA1-Digest: QFVyPRHfD4HktIbJ3wdEKLcd1Jg=
+
+Name: assets/bn/ru/men/andronik.html
+SHA1-Digest: 8ZP7L4EVB2DxKHqrx82LtQZkEmY=
+
+Name: assets/bn/ru/men/amirhan.html
+SHA1-Digest: sjO40ujjjL4rEWEGoH2m3jbyeGY=
+
+Name: assets/bn/ru/women/nadiria.html
+SHA1-Digest: aij+lzsI36BACA07oGklDJXNv+g=
+
+Name: assets/bn/ru/women/munisa.html
+SHA1-Digest: ZRba2w6hTSNWBnEuF4zET8DV9yQ=
+
+Name: assets/bn/ru/men/alois.html
+SHA1-Digest: hditmAQAZjTkl8KfLStr9BrnE8M=
+
+Name: res/drawable/abs__ab_solid_light_holo.9.png
+SHA1-Digest: iVAzmC25Uwto74jHtkTBV2YHVsw=
+
+Name: res/drawable-hdpi-v4/list_focused_blue.9.png
+SHA1-Digest: PdvFn9Gzz/dQipWZ+fV4ZTEaF1o=
+
+Name: assets/bn/ru/women/fakia.html
+SHA1-Digest: J1M3OTp3uFu1fmGosWUqPOxzvrU=
+
+Name: assets/bn/ru/women/teodora.html
+SHA1-Digest: gyRJS5GXMuIHw0eFnigmup7UqDI=
+
+Name: assets/bn/ru/women/kapitolina.html
+SHA1-Digest: HmxAho+6o2Ra9/jGAubSP5h69WM=
+
+Name: assets/bn/ru/women/vladlena.html
+SHA1-Digest: +21gpRVEdIH+aWmquCl6epOE1Bg=
+
+Name: res/drawable-xhdpi-v4/tab_selected_focused_blue.9.png
+SHA1-Digest: ID6gZEf1nKSOjMn1uA/jED5QIRE=
+
+Name: assets/bn/ru/men/tretiak.html
+SHA1-Digest: 5j9IA4lGdEXggwEFOajgm4lt+10=
+
+Name: res/drawable/note5.png
+SHA1-Digest: 4nEDpHc967CUg9KAN4XGcXj3oYg=
+
+Name: res/drawable-xxhdpi-v4/ab_stacked_solid_blue.9.png
+SHA1-Digest: iV9BJv4KwGSHGpTxvxyPWhaZcT4=
+
+Name: assets/bn/ru/women/marietta.html
+SHA1-Digest: YWMCcYfPY1gs4LjQLpdhqSSKmNQ=
+
+Name: assets/bn/ru/women/rakia.html
+SHA1-Digest: sf0K3Ny6PEj28/d23r3SAoAwUXE=
+
+Name: assets/bn/ru/women/rauza.html
+SHA1-Digest: isrL/d/uakzIaYmrkcK/AISsGAg=
+
+Name: assets/w6.png
+SHA1-Digest: NZwzTBA2tZzhetCjf5w1e0q1SWM=
+
+Name: res/drawable-hdpi-v4/tab_unselected_blue.9.png
+SHA1-Digest: gSWf9l6T+eGG91oYA1jjZwt79qA=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: D3OTzMV535uT6sXCK160AaIEUdI=
+
+Name: assets/bn/ru/men/ippolit.html
+SHA1-Digest: 8AtFdEre7xS+yOM7KMzN7BzSD/M=
+
+Name: res/drawable/btn_cab_done_blue.xml
+SHA1-Digest: r81Y+POWa7N06184zlgjMR8ZsII=
+
+Name: assets/w30.png
+SHA1-Digest: tds4D4gqN8PMFwC3l3WDL6pIIv8=
+
+Name: res/drawable-xhdpi-v4/powered_by_google_light.png
+SHA1-Digest: 1PCeD4X7eVLdr2+EB4poVTq1PZw=
+
+Name: assets/bn/ru/women/enje.html
+SHA1-Digest: yh0O/WgNvAmWQAtZwGyFV06haY8=
+
+Name: assets/bn/ru/women/zalika.html
+SHA1-Digest: 9rStC7bOe8+HB27RgN48pw2B178=
+
+Name: assets/bn/ru/men/gorislav.html
+SHA1-Digest: I3YnGbjmTuZl9iHHQeW0pNLq4SY=
+
+Name: assets/bn/ru/men/sokrat.html
+SHA1-Digest: FSZnbCe/drpbM2HZiPvQl6uoD/k=
+
+Name: assets/bn/ru/women/krasimira.html
+SHA1-Digest: ettZtXFEa2uTyOM59Y0JmZVN+kY=
+
+Name: assets/bn/ru/women/girl.jpg
+SHA1-Digest: kuK9Cn1G6NOTHab8jEKvEUm3gEo=
+
+Name: assets/bn/ru/women/zlatocveta.html
+SHA1-Digest: 0BsqWRhjjkSzpMqjdmoSC1ZdS3U=
+
+Name: assets/bn/ru/men/bars.html
+SHA1-Digest: sqnpmnslm2d+Kntp+NS0XqRcBbY=
+
+Name: assets/bn/ru/women/ilona.html
+SHA1-Digest: cp5JWf64LDmFuTg9dAvkbgWMX30=
+
+Name: assets/bn/ru/women/malania.html
+SHA1-Digest: fVn5Sw7DjnSWeX2nsf4jKIqNfIY=
+
+Name: assets/bn/ru/men/foma.html
+SHA1-Digest: cjTKMBvopr5sAq+B16CqJxBpZ+M=
+
+Name: assets/bn/ru/men/alim.html
+SHA1-Digest: upE/qw7UqTEXP1L6Mt8Y4c1H94o=
+
+Name: assets/bn/ru/women/agdalia.html
+SHA1-Digest: JEFSvlsxrSugT+NOwg712GQ4ItU=
+
+Name: assets/bn/en/bu.html
+SHA1-Digest: 1wDsdt3zt+eBCFlJFDWjtZJL/Wc=
+
+Name: res/drawable/weig5.png
+SHA1-Digest: VVG7kvke1M625QNPkL51sPcq89o=
+
+Name: assets/bn/ru/men/aziz.html
+SHA1-Digest: u/eiqiheDHkjdRLs/dLeUbeFPqc=
+
+Name: assets/bn/ru/women/ilgiza.html
+SHA1-Digest: CakcSVPnQ33mS8lp7GWfrK/hNrA=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: dYDfYdQeVCs4/1WeSohObo/Y42U=
+
+Name: assets/bn/ru/women/glikeria.html
+SHA1-Digest: 5OIl9l8kV3IbxcIBYHhi84lRlBk=
+
+Name: res/layout/item_babynames.xml
+SHA1-Digest: CVhXME0SCFbFwP4X0cMDUjlJ1HI=
+
+Name: assets/bn/ru/women/afanasia.html
+SHA1-Digest: UKT3BpWpHUYzkj1o0JtHFAnI1pM=
+
+Name: assets/bn/ru/women/harita.html
+SHA1-Digest: KuCaMkpMlrmBlR9ITRT/zoLX3pg=
+
+Name: assets/bn/ru/men/azat.html
+SHA1-Digest: DGjTEo33WfCAtTQQCah0eF+a8vM=
+
+Name: res/drawable-tvdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: assets/bn/en/bp.html
+SHA1-Digest: i9klcxbw4KxSh1BLQ3CAYEAGkWM=
+
+Name: assets/bn/ru/women/guzelia.html
+SHA1-Digest: daK9bihm7pyxoyo+LaS/0exFWHE=
+
+Name: res/drawable-xhdpi-v4/btn_cab_done_focused_blue.9.png
+SHA1-Digest: ik+vhqsEs547iEMFtWMbbKYc0TM=
+
+Name: assets/bn/ru/women/failia.html
+SHA1-Digest: bXHwlZLWxhG3r+mCKVdkEU8M5qQ=
+
+Name: assets/bn/ru/men/aaron.html
+SHA1-Digest: WLcHTjZ+XZF9KU+hVxNBjeyGfGQ=
+
+Name: assets/res/ru_0.html
+SHA1-Digest: yucRX1YrEpuHS5ytoMfFGVeEqZo=
+
+Name: assets/bn/ru/men/bahadir.html
+SHA1-Digest: LOzsntil2hrZyYAS6Py0E6IGd1Y=
+
+Name: assets/bn/ru/women/vesniana.html
+SHA1-Digest: dlY3X2Hmx/NvHWD6oQySNotE1Zw=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: VfF1Y+3CjDiM4dG+tUnOEInJ2T8=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: wv2dVvaU2YokwLE9rPy/vR71x8o=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: UXCDxpOg7UXbnFoDNGrU88J4zC4=
+
+Name: res/drawable-mdpi-v4/ic_action_bag.png
+SHA1-Digest: T2RiUrGMUgp6UuZBclu2TtrQ+Bc=
+
+Name: assets/w17.png
+SHA1-Digest: cwIeUz8F7fN92QMJMx8eWnybbdg=
+
+Name: assets/bn/ru/women/latifa.html
+SHA1-Digest: L/gBhPUQ3uy1kQjZNaEMtK9UlOQ=
+
+Name: assets/bn/ru/men/akop.html
+SHA1-Digest: pvzmJzhqZQA1LcVkm97EziBzOnk=
+
+Name: assets/bn/ru/women/iraida.html
+SHA1-Digest: KbtRl75Z/LtEfycZiwZz74OB5yQ=
+
+Name: assets/bn/ru/women/melan_a.html
+SHA1-Digest: hizdazc8A7+OccbsE9O1K3gMI/8=
+
+Name: res/drawable/weig3.png
+SHA1-Digest: kzE7YpIQ1CZxpMU1xXnqpLTe1+U=
+
+Name: assets/bn/ru/men/ahund.html
+SHA1-Digest: LOXZdDh8rpcJ8TxRfJADew92cTw=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: alk9qCjovoayqfBmhKb0OSABN44=
+
+Name: assets/bn/ru/women/leda.html
+SHA1-Digest: 35YUlqbgO63uHBByEFsjnpeM8r4=
+
+Name: assets/bn/ru/men/avdii.html
+SHA1-Digest: i8a7ApBxuxCpPfY9aeRNtvLHzP8=
+
+Name: assets/bn/ru/men/akram.html
+SHA1-Digest: +ManWOZIZMn58P1lomMFDnQYL0o=
+
+Name: assets/bn/ru/women/milena.html
+SHA1-Digest: Zy874RxPM2ygPy9VuxilNJwepk4=
+
+Name: res/drawable/note4.png
+SHA1-Digest: 02N6E+lejv9Ga0Ly0Y+5F85IEmI=
+
+Name: assets/bn/ru/women/vilada.html
+SHA1-Digest: mLbBek8VnkdsNa78W0OaYPBYaO8=
+
+Name: res/drawable/pill3.png
+SHA1-Digest: 8U5in7S/mAZt6owK0Ess9aZnlLU=
+
+Name: assets/bn/ru/women/zalia.html
+SHA1-Digest: kVvxBxOKI8sFrTfq6nbDwRoltmg=
+
+Name: assets/bn/ru/women/albina.html
+SHA1-Digest: owMjPrOG8cZc7vIBX6qrwqHWsQw=
+
+Name: assets/bn/ru/women/fania.html
+SHA1-Digest: VW44x2PvE3N2SI/c7YRGhuAlTXs=
+
+Name: assets/bn/ru/women/shafia.html
+SHA1-Digest: r1poc0fP8QwevcZKr65iMZJTT/w=
+
+Name: assets/bn/ru/women/ifigenia.html
+SHA1-Digest: /84VMJWs6e4j07w2cPz1QfxDkHk=
+
+Name: assets/bn/en/gm.html
+SHA1-Digest: qiasSXtmDDtBu8QnYJvEVhFe9Bw=
+
+Name: assets/bn/ru/women/feofania.html
+SHA1-Digest: 4p4CeRQk/zkfQOh+MONuq9aLTYw=
+
+Name: assets/bn/ru/gb.html
+SHA1-Digest: uZ3HSFWAwa6+yJawDHlfcaL/xtg=
+
+Name: assets/bn/ru/women/medina.html
+SHA1-Digest: 9FMklgpE5NuUxHqpI84kTTZBEBQ=
+
+Name: assets/bn/ru/women/margarita.html
+SHA1-Digest: hlWlFsgN1YAOc4iLMJxSmkUBHW0=
+
+Name: assets/bn/ru/women/bakira.html
+SHA1-Digest: RDz2hr5xXET6kYrngMe0INKTYEE=
+
+Name: assets/bn/ru/women/mihailina.html
+SHA1-Digest: ud308Do60flSOXrVpckcHDE65ko=
+
+Name: assets/bn/ru/women/novella.html
+SHA1-Digest: RW2Z2M80MQBg+dENTB9yLSrRxSg=
+
+Name: res/layout/layout_wei.xml
+SHA1-Digest: w1QfSXAVQVrVwo7EkDFVZlSO03M=
+
+Name: assets/bn/ru/women/felicia.html
+SHA1-Digest: k0waq9qt7cH4ZZ8YERDuw6fDo/k=
+
+Name: res/drawable-mdpi-v4/ab_transparent_blue.9.png
+SHA1-Digest: UUOp7BBy1DK8NMVxUr6KQ0QZs7U=
+
+Name: assets/bn/ru/women/poleta.html
+SHA1-Digest: rCQbTuXkX2qKa67WnkxGznBq69I=
+
+Name: assets/w25.png
+SHA1-Digest: j9SWmSQHXRCG8ya6QirR4jd7i4A=
+
+Name: assets/bn/ru/men/paramon.html
+SHA1-Digest: y9aJ0CYg4lvuAI3rcJnCUyoJBDA=
+
+Name: assets/bn/ru/men/atlas.html
+SHA1-Digest: 4ACDbZeS+VBEa2ODxSazk/A3tLI=
+
+Name: res/layout-xlarge-v4/calendar_item4.xml
+SHA1-Digest: cSUsktNHxEoYkWwK1tqJtKEyVgM=
+
+Name: assets/bn/ru/women/gulchechek.html
+SHA1-Digest: FJ4JbiV05U0TjYYSsaowx0PKa8E=
+
+Name: assets/bn/ru/women/lukrecia.html
+SHA1-Digest: ZgK358uR5GLWpTL1RBRgc7j8srI=
+
+Name: assets/bn/ru/women/milada.html
+SHA1-Digest: U/6z47xtmUrOxebZYv513DsljsE=
+
+Name: assets/bn/ru/women/reveka.html
+SHA1-Digest: 0SfSNBi9aHRrB2h6tuSUhhumsqc=
+
+Name: assets/bn/ru/women/natalia.html
+SHA1-Digest: rYHQn1WIWaMzM3qsr0eFyLzSEUs=
+
+Name: res/drawable-xxhdpi-v4/ab_transparent_blue.9.png
+SHA1-Digest: IBnL+0AeYsHqRatfp7ErVtTNaGk=
+
+Name: assets/bn/ru/women/taisia.html
+SHA1-Digest: cyKssenFlEPl382CkEKVixWYuAM=
+
+Name: assets/bn/ru/women/galima.html
+SHA1-Digest: bAtuaDbuAf98oW83+5NOpOIlCuE=
+
+Name: assets/bn/ru/men/prohor.html
+SHA1-Digest: 8J+MJsD/kOF/tsccIB5cS4pW2Cs=
+
+Name: res/layout/dialog.xml
+SHA1-Digest: UjEitpCaxrkiPKY8Sd/kHD3ybgA=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: 3P2Q/ZAE5zdB3clrfhpWK44ry8k=
+
+Name: assets/bn/ru/men/zaharia.html
+SHA1-Digest: 5eti/eaXWnqfAAKc28d5EIwuRqo=
+
+Name: assets/bn/en/gk.html
+SHA1-Digest: CD7ESDsxm5qThARbrwr6x1FpjYM=
+
+Name: assets/bn/ru/women/miloslava.html
+SHA1-Digest: +aOuu2jN4kryndL4qBOF9kFKmds=
+
+Name: assets/bn/en/gp.html
+SHA1-Digest: ax4yw51nxVMLKiJ+YDP7D7N/f2s=
+
+Name: assets/bn/ru/men/mai.html
+SHA1-Digest: FLpnGqiz39QVrX0LP8AOxntZtqM=
+
+Name: assets/bn/ru/women/valeria.html
+SHA1-Digest: AxIrs4Gjtgd/tAFm3fEb23QTtfk=
+
+Name: assets/bn/ru/women/preslava.html
+SHA1-Digest: InTjrir5XHEChouUvhYrtaxD17M=
+
+Name: res/layout-xlarge-v4/weight.xml
+SHA1-Digest: 3Jt8tG138h62LeuluNYDQeZF3cY=
+
+Name: res/drawable-xhdpi-v4/menu_dropdown_panel_blue.9.png
+SHA1-Digest: ajGkVf0TzFF+cfvSHLXaXUh4n+I=
+
+Name: res/drawable-xxhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ay7u9Xb5KPaybKcPoRzUvbBA+ac=
+
+Name: assets/bn/ru/women/cezaria.html
+SHA1-Digest: 9bf5xDnI+hs4sodSGuLnTMqVmC8=
+
+Name: res/drawable-hdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: zYEVoFXucmJpZuzXxsGneYWIlNU=
+
+Name: res/drawable-hdpi-v4/ic_action_bag.png
+SHA1-Digest: /pLOxl/pXFw5EDeYYhweVDFVu90=
+
+Name: assets/bn/ru/men/ovidi.html
+SHA1-Digest: k7lGGSa3GRy1uLak4qtQ8Czswbg=
+
+Name: assets/bn/ru/women/ivona.html
+SHA1-Digest: /UVWADxJzR2YX64baJgY4rMHgyA=
+
+Name: assets/bn/ru/women/gelena.html
+SHA1-Digest: xJhF7tv+4/JnJBMaByjT/2isFS4=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: CLs5FbiMwb7vIKZyvZ2iE6odMZs=
+
+Name: assets/bn/ru/men/anufrii.html
+SHA1-Digest: ZhLCbNDZRyg+XhWMMM8r3MmQgPI=
+
+Name: assets/bn/ru/men/averkii.html
+SHA1-Digest: /ebTcHd3rAyVoF+izbzT9IaqlZI=
+
+Name: assets/bn/ru/women/palmira.html
+SHA1-Digest: x0oX0i8KyX1kgA/C/bRpWENGOBQ=
+
+Name: assets/bn/ru/women/aisilu.html
+SHA1-Digest: x+55xPaRkAR2QJPpvnyEdOp7f+Q=
+
+Name: assets/bn/ru/women/zamfira.html
+SHA1-Digest: hzrQM7+Z15TutGNEeA6sWBcGHaU=
+
+Name: assets/bn/ru/men/armen.html
+SHA1-Digest: kjSpXDZo4oiLymZllrZcmTh1vDo=
+
+Name: assets/bn/ru/women/sima.html
+SHA1-Digest: 80wGKSLajVxKC61s0uXlm+PRNCE=
+
+Name: assets/bn/ru/women/ruzi.html
+SHA1-Digest: x1T0yLdpFfqeRU5F4QLNqdSHM24=
+
+Name: assets/bn/ru/women/solveig.html
+SHA1-Digest: htq77lJT6u9a+6WyInHZguDflAg=
+
+Name: res/drawable/menu_circle.xml
+SHA1-Digest: Vx+ZB9i9od7ejbKEq17JcaHzhO4=
+
+Name: assets/bn/ru/women/oksana.html
+SHA1-Digest: WdzxMMGdp76YrxxIIsyLd45/JWQ=
+
+Name: res/drawable/kick.png
+SHA1-Digest: tvfCgo/f9z4XUSa6PLN8qL5DSxA=
+
+Name: res/drawable/report3.png
+SHA1-Digest: lWth2HAa9e/TdeUZooxEPRd4n6Q=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: LewhoID0LjtBYVPp7OCVxcpi4Ls=
+
+Name: assets/bn/ru/women/dobroslava.html
+SHA1-Digest: ultwjiOp5TB/FAGqJFh4nQsgCfo=
+
+Name: assets/bn/ru/women/fidania.html
+SHA1-Digest: WXkilxGBXKVnX0DG5flzOl+g/js=
+
+Name: assets/bn/ru/women/grajina.html
+SHA1-Digest: zyYwPaDlC4pwo/KGYKZ79TuiKeA=
+
+Name: assets/bn/ru/men/edgar.html
+SHA1-Digest: o9p+uCuHP3hHG2nLawZQi3FWOlM=
+
+Name: assets/bn/ru/men/anvar.html
+SHA1-Digest: c7zvvkhYLNrrC/OuIwrA/6m54v0=
+
+Name: res/layout/count_preg.xml
+SHA1-Digest: sppYtuPvuuSoxEuUd3VwqiB/MSY=
+
+Name: assets/bn/ru/women/nadira.html
+SHA1-Digest: GcIYiO78M2U3er/Rs2LZj1eMUN4=
+
+Name: assets/bn/ru/men/irji.html
+SHA1-Digest: RVgE3OXZusb8cMETFFs22Nuft9g=
+
+Name: assets/bn/ru/men/bagman.html
+SHA1-Digest: OtEX966gFJr645vmWOKpE6dGPQw=
+
+Name: assets/bn/ru/men/moisei.html
+SHA1-Digest: CzBbYzizMMozF2akvd87RoVCIx0=
+
+Name: assets/bn/ru/women/taira.html
+SHA1-Digest: Je1PvJRQGmciR5XOFN1cMVMg6RM=
+
+Name: assets/bn/ru/women/juna.html
+SHA1-Digest: 8/6vIjspnhAFxWsB0TZcWoLoSGA=
+
+Name: assets/bn/ru/women/vega.html
+SHA1-Digest: LI/6D6fN8N56JQQ+iz13YcsmSj8=
+
+Name: assets/bn/en/bs.html
+SHA1-Digest: xThzLKr+vHAL5aEOmdlysT586ss=
+
+Name: assets/bn/ru/women/marta.html
+SHA1-Digest: Tx6Og+cNCiZ+BmpPPtS4350snvg=
+
+Name: assets/bn/en/bh.html
+SHA1-Digest: VO8vsfnCl411eCSQnhTXKV5pVSk=
+
+Name: assets/bn/ru/men/ainur.html
+SHA1-Digest: M5VuzwFp2+qUI7TzPSyZby1cL30=
+
+Name: assets/bn/ru/women/jamilia.html
+SHA1-Digest: D9piC6Qi9RkjfXd2LF48G7Diing=
+
+Name: assets/bn/ru/men/donatos.html
+SHA1-Digest: xzMzPe7dDobMSOAtcPymYWJr6Is=
+
+Name: assets/bn/ru/women/mihaela.html
+SHA1-Digest: juej3gxvQv/WTnhLTtZTnU1Ftco=
+
+Name: assets/bn/ru/men/aiaz.html
+SHA1-Digest: i8CzINX0uSTudX+hwKOQRvSnzak=
+
+Name: assets/bn/ru/women/gulzar.html
+SHA1-Digest: 1oee7583JGe/PZPLtyB6wpBQvAg=
+
+Name: assets/w24.png
+SHA1-Digest: uPt2c6ZId1m+cZmullYgOHwyUo8=
+
+Name: assets/bn/ru/men/osip.html
+SHA1-Digest: OEGVDsJet5UGKMkAqdViqUzmzx8=
+
+Name: assets/bn/ru/men/bagen.html
+SHA1-Digest: 5w1JwTlIlblsqA58fxQgV2YaioA=
+
+Name: assets/bn/ru/men/gamlet.html
+SHA1-Digest: 19kS1mRXkvcq8KXrBwpirgYYWBw=
+
+Name: assets/bn/ru/men/gevor.html
+SHA1-Digest: qyp+/j8ry55go7jpEVlqbjLhv0o=
+
+Name: assets/bn/ru/men/akinfii.html
+SHA1-Digest: PQky+VSsM4HT96V06Lt2Z5uqgr8=
+
+Name: res/drawable-xxxhdpi-v4/ic_action_diary.png
+SHA1-Digest: GsxpPfaXCHTIF+WO/D5tC2BEIz4=
+
+Name: assets/bn/ru/women/vilora.html
+SHA1-Digest: FMG1LJJpj2ntZpB5xOef5PLPBwg=
+
+Name: res/drawable/botton_selector4.xml
+SHA1-Digest: z+P6DoaUX/DFWEGmusS13Rinaqo=
+
+Name: assets/bn/ru/women/klara.html
+SHA1-Digest: MjJr4yPZQZ5S7O/UzV/nBByzi9I=
+
+Name: assets/bn/ru/men/aram.html
+SHA1-Digest: Oy7RpuhOzpMds8+lwnQPA7xh9Fk=
+
+Name: assets/bn/ru/women/lenora.html
+SHA1-Digest: OGQFN3roEKtduS5JFilGz5jLYvw=
+
+Name: assets/bn/ru/men/leonard.html
+SHA1-Digest: Dezer1UVo5kVQj97fQ0JjhmSHi0=
+
+Name: assets/bn/ru/women/urania.html
+SHA1-Digest: YU+BHrkFKtbnfLRGpxDWxNuPxt4=
+
+Name: res/drawable/tab_pressed.xml
+SHA1-Digest: SXVDw9ZgLrPHABsvgvRFNGjb9s8=
+
+Name: assets/bn/ru/women/ekaterina.html
+SHA1-Digest: 2qI5jWC0nspFt4vkrZSy1KKjp9A=
+
+Name: assets/bn/ru/men/alexandr.html
+SHA1-Digest: BvCukM4GWn1MBWUkZmdKqDY3Do4=
+
+Name: assets/bn/ru/men/blud.html
+SHA1-Digest: xzeaEEsSXQi17pqeev9IVeFq7Bs=
+
+Name: assets/bn/ru/women/aliko.html
+SHA1-Digest: eleHBiHGGISLjPoamhs6Jjy7AsU=
+
+Name: assets/bn/ru/bd.html
+SHA1-Digest: Ci56FdULAA+wROMYI7zejHLzBJc=
+
+Name: assets/bn/ru/men/arno.html
+SHA1-Digest: d9/76AVIf4mZMullFWis3elcPKg=
+
+Name: assets/bn/ru/women/dana.html
+SHA1-Digest: ngTdWmGjU29Ltq2/gGIDoKRyPV8=
+
+Name: assets/bn/ru/women/hafiza.html
+SHA1-Digest: dRAfpmBKdCbujDGl2dyOePW1M5Y=
+
+Name: res/layout-v11/new_info.xml
+SHA1-Digest: 9o349kIzf8ie4HBpHzAt5MOSAyQ=
+
+Name: assets/bn/en/gu.html
+SHA1-Digest: Rx3OdUpYWGadGO14qvJw7E3Orsc=
+
+Name: assets/bn/ru/women/maulida.html
+SHA1-Digest: sdc2sL1Bsk0b1choPrMVOyzWy8s=
+
+Name: res/drawable-xxhdpi-v4/spinner_ab_pressed_blue.9.png
+SHA1-Digest: 0tTSyH4lseAu/DKz9mrFV6a8MLA=
+
+Name: assets/bn/ru/men/zaur.html
+SHA1-Digest: /sVHvl9qqV3FUMwbYxBALJj4b6g=
+
+Name: assets/bn/ru/women/beatrisa.html
+SHA1-Digest: PjLW+6xMxcBqyA0dUlXgCiI8vfs=
+
+Name: res/drawable-mdpi-v4/btn_cab_done_focused_blue.9.png
+SHA1-Digest: kJe/pXGjRClZDMNEVV5qbh0FkOE=
+
+Name: assets/bn/ru/men/kondrat.html
+SHA1-Digest: mfb9bRS0HD2qxinqtsTzy6tTdmU=
+
+Name: assets/bn/ru/men/klod.html
+SHA1-Digest: S1YnM9WS8RKPJQqGJsMp00x8/FA=
+
+Name: res/drawable-mdpi-v4/ab_solid_blue.9.png
+SHA1-Digest: uaTWJH9W+9RSxZWHoRmOEKgQExs=
+
+Name: assets/bn/ru/women/aleksandra.html
+SHA1-Digest: +6vpxqoYlAKdWB4DQsM7TFaMe/Y=
+
+Name: assets/bn/ru/women/rolanda.html
+SHA1-Digest: NF+5zJdcVOxhmg/TVPo3HLL5G/Y=
+
+Name: assets/bn/ru/women/vitalia.html
+SHA1-Digest: gM4Yd0l0G5zpoQ1jnGhPqYqVmy8=
+
+Name: res/drawable-xxhdpi-v4/ic_babycare.png
+SHA1-Digest: VQ3cJpHJ7xZioTfT/Gl2b8ElhwQ=
+
+Name: assets/bn/ru/women/ofelia.html
+SHA1-Digest: TQeWX+M6YQ+bZkH+j56Ll0JWhkE=
+
+Name: assets/bn/ru/women/rahilia.html
+SHA1-Digest: bocnVuzqjPC9Fv58IgX0oiZNu7E=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: +qORW9oS7s5/oY5Z1R4KkQ+aJ1g=
+
+Name: assets/bn/ru/men/agzam.html
+SHA1-Digest: 1LXhBMpYOfz8yci/nzbK3whLYzk=
+
+Name: assets/bn/ru/men/volodar.html
+SHA1-Digest: z0eGVl6U5Wm6L+Vls2qy6HY78x4=
+
+Name: assets/bn/ru/women/aibanu.html
+SHA1-Digest: 8jOvVCKyV+5YHkBN6Ooxh7dq5Ak=
+
+Name: assets/bn/ru/women/svetoslava.html
+SHA1-Digest: UNG+2a18Xs3iURhtctIz0O+m7/A=
+
+Name: assets/bn/ru/men/afzal.html
+SHA1-Digest: ZkjTcQyYumLhQygVueRqxoYcNqU=
+
+Name: res/drawable-hdpi-v4/ic_babycare.png
+SHA1-Digest: yj/ywTLlGKDJoNINw5DmdiJ/JfE=
+
+Name: org/jsoup/nodes/entities-full.properties
+SHA1-Digest: AFSgQ5iKN+T46TMZbysEx2T32t8=
+
+Name: assets/bn/ru/men/blagoslav.html
+SHA1-Digest: A7WmL+kR7jbx4VO7JkNJqz746tg=
+
+Name: assets/bn/ru/women/gamilia.html
+SHA1-Digest: mNAMRVnK1lgi//6yF/B7iqcbRdk=
+
+Name: res/drawable/report5.png
+SHA1-Digest: Fm6vauBC9hNIT8sYdcG7e4w9sVg=
+
+Name: assets/bn/ru/women/magda.html
+SHA1-Digest: URdXxM9Tg2yRD9MRhVusKZhw2IU=
+
+Name: res/drawable-xhdpi-v4/ic_action_weight.png
+SHA1-Digest: KO6egPWh2bQynoTc23NT1yyK1zI=
+
+Name: assets/w3.png
+SHA1-Digest: GAyQYswqCJSdTfl1h2FHLWGhK3A=
+
+Name: assets/bn/ru/women/hamida.html
+SHA1-Digest: zBfSiFSAzyylIE2DikyekWd7YjY=
+
+Name: assets/bn/ru/women/alisa.html
+SHA1-Digest: Hs0opg0CKmjv7tc95mZcAhMoqjI=
+
+Name: assets/bn/ru/women/zahira.html
+SHA1-Digest: 60866DZtros3m3WHfxdjfv3znlg=
+
+Name: assets/bn/ru/men/arkadi.html
+SHA1-Digest: AEVjv8x/5uYXGdSPpbRkxImzVac=
+
+Name: assets/bn/ru/men/hristofor.html
+SHA1-Digest: GZnYxsA9HC9XfYiGzQaPa0WaUQU=
+
+Name: assets/bn/ru/men/gleb.html
+SHA1-Digest: jbZ/kKKtisWE9xWmSYHxpvxMhGc=
+
+Name: res/drawable-hdpi-v4/ic_light.png
+SHA1-Digest: us6of0PWqDNDW7Y2uvYq+Z2mWm8=
+
+Name: assets/bn/ru/men/borislav.html
+SHA1-Digest: nVpUF98vnCgsjcLnPy5THFKRIYY=
+
+Name: assets/bn/ru/women/dinara.html
+SHA1-Digest: ktUCgyUq8y3LCBFLc3YxXYagqWc=
+
+Name: res/drawable/rad.xml
+SHA1-Digest: ryyHmUPhb/lJyHlsskHCtSRMsPk=
+
+Name: assets/w37.png
+SHA1-Digest: McBQeKydUNHMK2rQb6k8wesrAS0=
+
+Name: assets/bn/ru/men/zigmund.html
+SHA1-Digest: qKF2/TAMKmX5jEYQdCIIrNvJJuM=
+
+Name: assets/bn/ru/men/luka.html
+SHA1-Digest: E2mBGPHgOgWa0uEagCO3DoiPRLc=
+
+Name: assets/bn/ru/women/arefa.html
+SHA1-Digest: zvr3v7d1WaLt20FWt72jeNs4mXU=
+
+Name: assets/bn/ru/women/zaid.html
+SHA1-Digest: j245SkutuUo4Hpt1+zV6opOauaI=
+
+Name: res/drawable/ram5.xml
+SHA1-Digest: qQkpILIGQKuxPivuDb15+u3rxUg=
+
+Name: assets/bn/ru/women/ia.html
+SHA1-Digest: qtQg9GRMjETJHGVbWh8b39Hs6Eg=
+
+Name: assets/bn/ru/women/francuaza.html
+SHA1-Digest: pbO6zMH4kzY4W8ELBH8GqpXmId0=
+
+Name: assets/w0.png
+SHA1-Digest: EWS/40Dz71wOuNXAIpYVBpvQZpI=
+
+Name: res/drawable-xxhdpi-v4/ic_action_timer.png
+SHA1-Digest: lSNawv0vVFp470ijVxB9qdyvIBk=
+
+Name: assets/res/en_8.html
+SHA1-Digest: 6HcyDia/BnYbhNhemADBxbnjsq0=
+
+Name: assets/bn/ru/women/zabava.html
+SHA1-Digest: OWWhlcV2eMAmXRptimWCyteNUno=
+
+Name: res/drawable/your_tab_selector_drawable2.xml
+SHA1-Digest: jTylKEqA51rnLozNX2n4pGWt0KI=
+
+Name: assets/bn/ru/women/daria.html
+SHA1-Digest: wnCdu7+2NnDmIfsu7Jf1HR+nlFY=
+
+Name: assets/bn/ru/men/ahmer.html
+SHA1-Digest: PCmbKN56CembrcixIVdtbXlFvAo=
+
+Name: assets/bn/ru/men/adolf.html
+SHA1-Digest: +bNIwwbzuDs+td3z5UhMbEePGTE=
+
+Name: assets/w41.png
+SHA1-Digest: 6TtdxqUSECxKD4d9yr12UCi5Kuk=
+
+Name: assets/bn/ru/men/amal.html
+SHA1-Digest: D81pBUcYHuFfEYfQIW8M4qm5+34=
+
+Name: assets/bn/ru/men/nestor.html
+SHA1-Digest: m19eTieutE+2hngWnrKAqycgcSA=
+
+Name: assets/bn/ru/men/bashar.html
+SHA1-Digest: c/LH33iHfWti16LGbudQwQxVf/s=
+
+Name: res/color/common_signin_btn_text_light.xml
+SHA1-Digest: Mp/Yt7LjH8QxTi0m7NU73Iy1C34=
+
+Name: assets/bn/ru/men/borhan.html
+SHA1-Digest: n/40s4zcm1jBSQQeTC6c5hUUqAc=
+
+Name: assets/bn/ru/women/gerda.html
+SHA1-Digest: /fa4B7jUKJLT9hhPtiWv2TR4Uo0=
+
+Name: res/layout/boygirl.xml
+SHA1-Digest: fIHKg6D5ReYk1JjTRHhGovDm8m0=
+
+Name: res/drawable-hdpi-v4/list_pressed_blue.9.png
+SHA1-Digest: oTdCsHGJz57P9RPAOLCb9c+wwAc=
+
+Name: assets/bn/ru/women/amanda.html
+SHA1-Digest: NfoCT69IDWY3O/VD7T/cyScTQaE=
+
+Name: assets/bn/ru/women/konsuella.html
+SHA1-Digest: islrvbV5eTr6m97COCSjg1GpbaM=
+
+Name: assets/bn/ru/women/selma.html
+SHA1-Digest: 9pnzdoF0eYwzVSSvQ00lkYZHO/M=
+
+Name: assets/bn/ru/women/iveta.html
+SHA1-Digest: sNBOaUZ+/EfWJo/83emdkfT1U3I=
+
+Name: res/drawable-xxhdpi-v4/ic_action_about.png
+SHA1-Digest: Z85dUnxWL/igYHcw1CT3n2shALo=
+
+Name: assets/bn/ru/women/ruhia.html
+SHA1-Digest: F4q8j/VP3RPzqkfr9wjk3bOJmsY=
+
+Name: assets/bn/ru/men/almaz.html
+SHA1-Digest: gP6M2GkHlvsFzBJVAKH4U+eygKw=
+
+Name: assets/w20.png
+SHA1-Digest: fS4AVbBlobUGyJzoZ/rIN6+s41M=
+
+Name: classes.dex
+SHA1-Digest: V9pF/HlVkG6rlRWt/HYJT7NN4wM=
+
+Name: assets/bn/ru/women/ida.html
+SHA1-Digest: f8vXv7V3ckU6NkH1f1SeWci4NcI=
+
+Name: assets/bn/ru/women/daina.html
+SHA1-Digest: 36eIcArlVbtP6EnFUPYurasIxvs=
+
+Name: res/drawable-xxhdpi-v4/powered_by_google_light.png
+SHA1-Digest: i1ZTqep+pgKdIhB18Xwu3c7KrFI=
+
+Name: res/drawable/round_button3.xml
+SHA1-Digest: 1EC7NRmKNW2+a6ll2VrqTvjZwkk=
+
+Name: res/drawable/botton_shape_pressed2.xml
+SHA1-Digest: sTXMCgQ92R4hAGYy5geDOvdbKi8=
+
+Name: assets/bn/ru/men/vadim.html
+SHA1-Digest: 2e1yrL0lt7v6b+BZOjxjmoNEQ8g=
+
+Name: assets/bn/ru/men/rinat.html
+SHA1-Digest: 0XzwKXXpBKwY1Y/EaW/iLgk1asU=
+
+Name: assets/bn/ru/women/evfrosiniia.html
+SHA1-Digest: M1Citr+sDCAb9d8ob2TN5+i5oPI=
+
+Name: assets/bn/ru/women/vladimira.html
+SHA1-Digest: 7D2p0Fzwg6xP5dJpaAuzoggHLOA=
+
+Name: assets/bn/ru/men/feodosii.html
+SHA1-Digest: jQF9BkOMh4yn5Ov87KKwbPTMbz4=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 8t8fYpBPxPeFuWeBGdYiV/u6+vM=
+
+Name: assets/bn/ru/women/lialia.html
+SHA1-Digest: y8pXDpXs8QrVMs8zG0/egnLJ1LA=
+
+Name: res/drawable-mdpi-v4/spinner_ab_focused_blue.9.png
+SHA1-Digest: v7qK8fVXwUrvbiggGvqr2QHkt18=
+
+Name: assets/bn/ru/men/attila.html
+SHA1-Digest: 6P/cdCJs/k3bInhZxaHwtb+mjKE=
+
+Name: assets/bn/ru/women/valida.html
+SHA1-Digest: xRv+Tu1LRTrsEd6+p1ivOwt/bLs=
+
+Name: assets/bn/ru/women/zahra.html
+SHA1-Digest: L5CR0wX+/enoHA4SIUQOc1w6BgU=
+
+Name: assets/bn/ru/women/dania.html
+SHA1-Digest: obYPBlDylE9B06yllJePTN+Yn9A=
+
+Name: assets/bn/ru/women/troiana.html
+SHA1-Digest: LKjQ4Slcq9Hji33PAROU8dRBMhI=
+
+Name: assets/bn/ru/men/inokenti.html
+SHA1-Digest: t4qmS0I4I3bxI4tQL0fM/hXvhuY=
+
+Name: assets/bn/ru/women/radislava.html
+SHA1-Digest: KSUFlzNgfs4ZUfCO+YskupuZwu0=
+
+Name: res/drawable/tab_selected_holo2.png
+SHA1-Digest: hqlNpIU4NqvZLF7cYqefU8X7qFE=
+
+Name: assets/bn/ru/men/nikita.html
+SHA1-Digest: gr/sAnAPaIU00+OplMG8h8bvypk=
+
+Name: assets/bn/ru/women/dolores.html
+SHA1-Digest: oGhhigmEcF2wDk4vTatfHdAif/8=
+
+Name: assets/bn/en/br.html
+SHA1-Digest: JdosCAxSkOr/Faqyeux/TZ+pq+8=
+
+Name: res/drawable/symp5.png
+SHA1-Digest: CMQVyn34NVNe/xbvZT5VAuVuoJ8=
+
+Name: assets/bn/ru/men/mechislav.html
+SHA1-Digest: v8bEviUCfUCs+ajRlJqOQTLNrco=
+
+Name: assets/bn/ru/women/zainulla.html
+SHA1-Digest: 1TM7J1SZWQNztYq2IE5YiBWCeRQ=
+
+Name: assets/bn/ru/women/shamsia.html
+SHA1-Digest: G/IFqf6T5AUP2XW1GEEffCBJF0o=
+
+Name: assets/bn/ru/men/ilarion.html
+SHA1-Digest: BO2iKzmqyJb7hrrcIxpVLXxzNpw=
+
+Name: assets/bn/ru/women/katiba.html
+SHA1-Digest: rURy++4xX7u/+UnsZbrcYkGuoXs=
+
+Name: assets/bn/ru/men/asterii.html
+SHA1-Digest: q+ys6KsFZOsrSEaGI9li8DNc/dw=
+
+Name: assets/bn/ru/women/dariia.html
+SHA1-Digest: OsMlD2vw6vq+u/sZh8qHhkIx5d8=
+
+Name: assets/bn/ru/women/afrodita.html
+SHA1-Digest: 6aE+JK48IvZp6a6tbzKRbXTIdxc=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: Wl0x3/PQYrRDwagaXHH4f7mABgs=
+
+Name: assets/bn/ru/women/zarima.html
+SHA1-Digest: puvIZsLqE/pEzrysnyVuvatlsSk=
+
+Name: assets/bn/ru/men/agafon.html
+SHA1-Digest: 40AnjwNau/BwPc0wExuJ3mNGUlw=
+
+Name: assets/bn/ru/men/boian.html
+SHA1-Digest: v+OZPTZjxIoxS1paRLKt1jdwd5Q=
+
+Name: assets/bn/ru/women/adelina.html
+SHA1-Digest: CL2tgJTMW1oEttBxQQDn4FdeDlc=
+
+Name: assets/bn/ru/women/mirra.html
+SHA1-Digest: 2ARMm4j7AYPvs/OwdUPvVBX9nfs=
+
+Name: assets/bn/ru/women/monika.html
+SHA1-Digest: ecEUqsi+LfEVUvQ3BJLPt4E5304=
+
+Name: res/drawable/bmi.png
+SHA1-Digest: aZr+KoGhGg604hf5KAiti3OS2I8=
+
+Name: assets/bn/ru/men/konstantin.html
+SHA1-Digest: ScERVwTVLKoyE/N9ojiY1Y4LkS8=
+
+Name: assets/bn/ru/women/klimentina.html
+SHA1-Digest: rPi/FqWHGmwSUuYmYC7IJPc12RA=
+
+Name: res/drawable/shadow.xml
+SHA1-Digest: TGwqHyPW7UagMqq2gRszlx0a75U=
+
+Name: assets/w12.png
+SHA1-Digest: FGgkRvl4Ik+Y0hRQeEF5XOKM4oU=
+
+Name: assets/bn/ru/women/izolda.html
+SHA1-Digest: S9Q/qyhVOjgmANyKTPEwZSK2tmc=
+
+Name: res/layout/loading.xml
+SHA1-Digest: ICN0WU9wSGUZIYrIWMgYoLZmXOA=
+
+Name: assets/bn/ru/women/anisia.html
+SHA1-Digest: 6JTCsZlp3N2QtQbX9PwSe8bq6kY=
+
+Name: assets/bn/ru/men/bilal.html
+SHA1-Digest: CUdkE4nqS4t49/l4AgpNBdKKKrg=
+
+Name: res/drawable/bag4.png
+SHA1-Digest: ZuBQLsXkZhl41ORqKFhqxZDJa0M=
+
+Name: assets/bn/ru/men/avgust.html
+SHA1-Digest: ikoHsrhJjsu2Ul1S4qYA2WmUMm4=
+
+Name: assets/bn/ru/gk.html
+SHA1-Digest: OLyAo3BOTqNVF0EaNXeXFjimjq4=
+
+Name: assets/bn/ru/women/edita.html
+SHA1-Digest: q5xA9p+qurZK7X24EM8z+U1rUMk=
+
+Name: assets/bn/ru/men/marat.html
+SHA1-Digest: e31VvXcxWHbsO1hzZOBTcvZGag8=
+
+Name: assets/bn/ru/men/efimii.html
+SHA1-Digest: LPE+rvAHzPo45bQAHjjpOp6ebBc=
+
+Name: assets/bn/ru/women/asma.html
+SHA1-Digest: Ya64OpcJBjMSyj3VMqUqfSbp310=
+
+Name: assets/bn/ru/women/dorofeia.html
+SHA1-Digest: MpvdAnArckFZY4uPaCwuOrN37WY=
+
+Name: assets/bn/ru/gg.html
+SHA1-Digest: oWn9YuOX5ZgskMZziw+gbhx14IA=
+
+Name: assets/bn/ru/women/sagira.html
+SHA1-Digest: VRrc5U1wTSdOFZvZ5moK4pLw/TA=
+
+Name: assets/bn/ru/women/ilnara.html
+SHA1-Digest: rwsc43WRX2nH3U+OwFrcVC2uF78=
+
+Name: assets/bn/ru/women/anelia.html
+SHA1-Digest: 0Aq1JJzPK66JbubV6YvKdnusAv0=
+
+Name: assets/bn/ru/men/vilgelm.html
+SHA1-Digest: PCw0lw7aToK1S6N+qKlVcrJkf1Y=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: /7bw14nZmssFy3hqySiiFfoRLtE=
+
+Name: assets/res/en_2.html
+SHA1-Digest: gRaWL0X5MqUu4PEbVteKsQQzcsM=
+
+Name: res/drawable/tab_unselected_holo5.png
+SHA1-Digest: 3K1qRwlDNSsjbw17LaxyvWlJd3o=
+
+Name: assets/bn/ru/men/bruno.html
+SHA1-Digest: yFhcuN2mLDg8D2j0PN5p4Ox69jE=
+
+Name: assets/bn/ru/women/lenara.html
+SHA1-Digest: ZIv9SzDdkHz0Y5M+xyABQr4PwCU=
+
+Name: res/layout-xlarge-v4/main.xml
+SHA1-Digest: nd5MFv55UHAh9rdqT1G5IdW42Jw=
+
+Name: assets/bn/ru/men/timofei.html
+SHA1-Digest: nkTs64VmxJ4hOTPGRJafQzvL/vg=
+
+Name: assets/bn/ru/men/batist.html
+SHA1-Digest: Ea8jq+FipxjM/e5a04wuJ7Na6Co=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: 0sCo4kwonCjyXdol2LjGSe4b7T8=
+
+Name: assets/bn/ru/women/anfisa.html
+SHA1-Digest: hP+ua3+u6MidPt8vzyOZlnShngw=
+
+Name: res/layout-xlarge-v4/calendar_item5.xml
+SHA1-Digest: dW6YSrgMJ9IKM4nbJfRNSaVjtHk=
+
+Name: res/drawable/medic5.png
+SHA1-Digest: 0eJfDXNhB+BfTA4/4CQ1BeDwIAM=
+
+Name: assets/bn/ru/men/adonis.html
+SHA1-Digest: k9tppM8504JhYL/7v/qfBOLeLsE=
+
+Name: assets/bn/ru/women/lina.html
+SHA1-Digest: viqikVS04bIoPc7pVTQVplpovI0=
+
+Name: assets/bn/ru/women/shaida.html
+SHA1-Digest: ctwYmtIEqohATIKe0/e/6ncdPT4=
+
+Name: assets/bn/ru/women/antuanetta.html
+SHA1-Digest: Gb9jtsc6k9MT08s8MFMkcjwPWhw=
+
+Name: assets/bn/ru/men/nison.html
+SHA1-Digest: vQTCFdeHR5QRwXXJvt/4ffu467g=
+
+Name: res/drawable-hdpi-v4/tab_unselected_pressed_blue.9.png
+SHA1-Digest: +V0HZec3vUNdDcXb1yiSXjyB430=
+
+Name: res/drawable-hdpi-v4/cab_background_bottom_blue.9.png
+SHA1-Digest: jMfCiUlqpuZZt7x1mI44qfK9XFo=
+
+Name: assets/bn/ru/men/leonid.html
+SHA1-Digest: qcYUIT1FZX3wOs7azUk0F88yeRI=
+
+Name: assets/bn/ru/men/badreddin.html
+SHA1-Digest: SdrX0LFFg1ujpYQZgmf3EJvwUAk=
+
+Name: assets/bn/ru/women/ariel.html
+SHA1-Digest: Trs0j342CpCj5aQwoPty46ku3V4=
+
+Name: assets/bn/ru/women/bahar.html
+SHA1-Digest: firVo+7SL9bEnZ4+zn1pGvzwgnA=
+
+Name: res/drawable-mdpi-v4/ic_action_pill.png
+SHA1-Digest: CK1fEE72tOBs4/Nuv7ezkYbm9SQ=
+
+Name: assets/bn/ru/bx.html
+SHA1-Digest: de9CE0UjG7Ogj4RgFBP0iXh/Q04=
+
+Name: assets/bn/ru/women/zarema.html
+SHA1-Digest: SB0+YT4gfgbCo5MUIl9565k3AyI=
+
+Name: res/drawable-xxhdpi-v4/ic_action_menu_app.png
+SHA1-Digest: l8ttmlIDayn+nF+42FGtcQdVzhk=
+
+Name: assets/bn/ru/women/murtaza.html
+SHA1-Digest: ZdbqP53lTPBfT+KMyHWP/Y/gAEI=
+
+Name: assets/bn/ru/women/shahada.html
+SHA1-Digest: n4TqjBuNL9LRXqHb/xIao2NEuRo=
+
+Name: assets/bn/ru/women/arina.html
+SHA1-Digest: QerGQkAH9sdzZvtwyz0B7ght71g=
+
+Name: assets/bn/ru/women/bruna.html
+SHA1-Digest: +RJIlcIa3mOF+qXuBZqZ+yjQp34=
+
+Name: assets/bn/ru/women/saniia.html
+SHA1-Digest: Li27EKLB8FGJosy/YI9xZLvxCNU=
+
+Name: assets/bn/ru/women/astrid.html
+SHA1-Digest: t4kTWzAPLR6vEK1/CgsLJOL+bz4=
+
+Name: res/drawable-mdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: 3ocjamXiDDzZQ9Er9Iv+AG/CvIc=
+
+Name: assets/bn/ru/women/dora.html
+SHA1-Digest: meP6heCKkgykggkxrjm7jlSlpCs=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: xa+o97ZNQDyD6tCp4L4gmqdoPrs=
+
+Name: res/drawable-xxxhdpi-v4/ic_action_profile.png
+SHA1-Digest: S8o0DFMuuPY46L1EHBjJepqI+V8=
+
+Name: assets/bn/ru/women/jiansilu.html
+SHA1-Digest: VqClDdHHer60B8giNK3Msc5NJyI=
+
+Name: assets/bn/ru/women/anna.html
+SHA1-Digest: VTaQ94wrIuRG+fMx3dkH7C6GebM=
+
+Name: assets/bn/ru/men/aglaii.html
+SHA1-Digest: WhBaPfxk1dY1ouFnZcj2d8VDWw0=
+
+Name: assets/bn/ru/men/berek.html
+SHA1-Digest: kLIEUcxL9kHW1veIydFHpB8BtQE=
+
+Name: res/drawable-xhdpi-v4/list_pressed_blue.9.png
+SHA1-Digest: O917WiC2rJAXhqZyTi8XP7zfi4Y=
+
+Name: assets/bn/ru/women/vita.html
+SHA1-Digest: WW1YAY4eVaDeKMlgbb1DEK6BYpQ=
+
+Name: assets/bn/ru/men/blagomir.html
+SHA1-Digest: AJcuKC2PKelhdtd4lhs6P61elTM=
+
+Name: assets/bn/ru/men/valentin.html
+SHA1-Digest: 6QNHLJuwVzAButsCHQhnSuf7vKA=
+
+Name: assets/bn/ru/men/bogdan.html
+SHA1-Digest: PEVIkqRMLETC7OaAQsEeU51xgCw=
+
+Name: assets/bn/ru/women/munira.html
+SHA1-Digest: kltdOYP8frLbROPNTLtSu+4yU8k=
+
+Name: res/layout-large-v4/main.xml
+SHA1-Digest: cZeDbEGijVXk5+kFhZxuIWJDJJE=
+
+Name: assets/bn/ru/men/sevastian.html
+SHA1-Digest: lIFyQ+5Of9y20+/gdeK13YgJSTE=
+
+Name: res/drawable-xhdpi-v4/btn_cab_done_default_blue.9.png
+SHA1-Digest: Qq0r4xPsdYklhrjUQWUKUdFb84o=
+
+Name: assets/bn/ru/women/greta.html
+SHA1-Digest: 0KL0n6m4OQQ0kNV89nurdJ+Ppnk=
+
+Name: assets/bn/ru/women/emilia.html
+SHA1-Digest: 2TaLGpaauU80Dwg344JpUVidwVg=
+
+Name: assets/bn/ru/women/shadida.html
+SHA1-Digest: RTWmsYuiyzG9XIzs26FW0l1cce0=
+
+Name: res/drawable/botton_shape_released3.xml
+SHA1-Digest: uYrArd7XX2QZ2Y685RIW1sRUfSw=
+
+Name: res/layout/healthy.xml
+SHA1-Digest: BQukrE6Qv1GkfUtpPG0ppsTzFQU=
+
+Name: assets/bn/ru/men/denis.html
+SHA1-Digest: fXBUVuX+5ByPi5qukEStggmF3+0=
+
+Name: assets/bn/ru/women/alda.html
+SHA1-Digest: 0iMc2TMAl2uovt4grxiemohU/74=
+
+Name: assets/bn/ru/men/vladimir.html
+SHA1-Digest: UYmTPe9xqAdt5G/Yz3Ly0VzOwng=
+
+Name: assets/bn/ru/women/agafiia.html
+SHA1-Digest: /bSjpT1x+lYa+67SowHpyOvIja8=
+
+Name: assets/bn/ru/women/banu.html
+SHA1-Digest: 00TeWOwX4E/lw07cBEI6Z14+Rrg=
+
+Name: assets/bn/ru/women/astra.html
+SHA1-Digest: cK0CWADN8dhFY18XLABBfYtH41E=
+
+Name: assets/bn/ru/women/avdotia.html
+SHA1-Digest: V4Aa1q0vfwJJ4YYPj7n//iVixsA=
+
+Name: assets/bn/ru/women/laziza.html
+SHA1-Digest: Wq3fwZQTwPMR62KwYCC0BKSTEuM=
+
+Name: res/drawable-hdpi-v4/ic_action_report.png
+SHA1-Digest: +qMCTQrYTkMzTA+Q+gCjSvqUjdo=
+
+Name: res/drawable-xxhdpi-v4/ic_action_names.png
+SHA1-Digest: Z02OjRvBUS7RZ6YNs4jttcsj+as=
+
+Name: assets/bn/ru/women/asilia.html
+SHA1-Digest: tRnCRXYhs6oIftyFXH82k8uxvfs=
+
+Name: assets/bn/ru/women/mina.html
+SHA1-Digest: q52603O0gjo7DGnN4dWDweLNtJ4=
+
+Name: res/layout-large-v4/body.xml
+SHA1-Digest: XkLe9FyKoH+hLWrh2/d6I5MUYjs=
+
+Name: res/drawable-mdpi-v4/ic_baby.png
+SHA1-Digest: 8xfRmLSaBOAPX1V+nV1waADZ5WA=
+
+Name: assets/bn/ru/women/melissa.html
+SHA1-Digest: 270419IBmHC5hbdrDsdlhQExW1o=
+
+Name: assets/bn/ru/men/izot.html
+SHA1-Digest: cADVEkWKxWfQf/BfHHVoYG/QUS4=
+
+Name: assets/bn/ru/women/safura.html
+SHA1-Digest: DDn6tscXYJPkicMRcDT6Dhg0pLs=
+
+Name: res/drawable/tab_focused.xml
+SHA1-Digest: i0MblujeD45xGFMA+iZQj1yJ0Rc=
+
+Name: assets/bn/ru/men/fedul.html
+SHA1-Digest: dzXtOMJ0zjhMOt3TKiDHXhvLEz4=
+
+Name: assets/bn/ru/women/smaragda.html
+SHA1-Digest: pUGKF6SbKLVgFQPNoxOLnkBIHic=
+
+Name: res/drawable-mdpi-v4/tab_selected_focused_blue.9.png
+SHA1-Digest: Zbx+XRCfJySAGYQZE8jgSLs0Nzw=
+
+Name: assets/bn/ru/men/parfen.html
+SHA1-Digest: aKl5P97uMU9dFrM7xbxNAq/4Y3w=
+
+Name: assets/bn/ru/women/evgenia.html
+SHA1-Digest: 2HRQENbMpfkAegJKA8jbPTo+SnU=
+
+Name: assets/bn/ru/women/darisa.html
+SHA1-Digest: XcycNWeOCMphGByqLre+URqMn/0=
+
+Name: res/drawable-hdpi-v4/ic_action_about.png
+SHA1-Digest: FMTjpeuKu0exdVnRkKF/2pcuRdw=
+
+Name: assets/bn/ru/women/virjinia.html
+SHA1-Digest: 30KyRuoGvSoS2f3cxAixqMyP8lE=
+
+Name: res/drawable/cicle2.xml
+SHA1-Digest: yIl1XjGEYAvZ483Ko8ZFNRvcgp8=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: qUes7E1WY2JY7Fd6HKCYNy966/o=
+
+Name: assets/bn/ru/men/avundii.html
+SHA1-Digest: L65ytz7dF2Sd1D9yZ/jONQ2fR40=
+
+Name: res/layout/kick.xml
+SHA1-Digest: lz27l4ZgrcIEsDs31JwT4dd+REY=
+
+Name: assets/bn/ru/men/abaii.html
+SHA1-Digest: amkuWoLa5nvtFxKT3mE+Jw7h2S0=
+
+Name: assets/bn/ru/women/lutfulla.html
+SHA1-Digest: AHRlsI2k4v8F5+yj8PmRNQEVAD0=
+
+Name: assets/bn/ru/women/guzel.html
+SHA1-Digest: JhpMQk05VTf4rC5K4R+i4vGGMTc=
+
+Name: assets/bn/ru/men/abdula.html
+SHA1-Digest: OnZru4h+ERmz4Ga/uSDDVv5n3AQ=
+
+Name: assets/bn/ru/women/irada.html
+SHA1-Digest: IesO80PZPUvUIC8Ck7cEQK5VigA=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 92pHkmawW9x95wDQw6uvTZBRXkQ=
+
+Name: assets/bn/ru/women/kirama.html
+SHA1-Digest: nZgTH4cS183glPbPAgc/tZDnreI=
+
+Name: assets/bn/ru/women/kaima.html
+SHA1-Digest: 5zePJ2dqFKjdprjC9wMu6/AdQSU=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: VfF1Y+3CjDiM4dG+tUnOEInJ2T8=
+
+Name: assets/bn/ru/women/zulfia.html
+SHA1-Digest: fcwJnuVMxVmRhwTmfWW3kTn2US4=
+
+Name: assets/bn/ru/women/djannat.html
+SHA1-Digest: 8nwXc70W9coNywvXvSOM+38q2Ik=
+
+Name: res/drawable-xhdpi-v4/ic_action_search.png
+SHA1-Digest: WzSVDDIHZpn0cFeuxgKRJete4TU=
+
+Name: assets/bn/ru/men/aitugan.html
+SHA1-Digest: c3BZZvTrYqgcYZMgpau+PafeDPM=
+
+Name: assets/bn/en/gn.html
+SHA1-Digest: vz7iZj9Pvde1fECUqcT01Gn6wR0=
+
+Name: assets/bn/ru/women/zalina.html
+SHA1-Digest: Y9XM784aD8SqCxEdyRa3cu8Nnyc=
+
+Name: assets/bn/ru/men/filimon.html
+SHA1-Digest: vvcVXdcxThhn7Oy+vGgqEHYM0Tg=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: bCfalDf3dtwVG4mH7KjMYlR/m8c=
+
+Name: assets/bn/ru/women/gulfia.html
+SHA1-Digest: t6lruucnpoME9UCqitUJSJ6k+9w=
+
+Name: assets/bn/ru/men/aidar.html
+SHA1-Digest: zAwCxMDKH9PyoZS591cLr07iOmU=
+
+Name: assets/bn/ru/women/index.html
+SHA1-Digest: 0jG9mW5UxrWQZrDntVIxC1yDamY=
+
+Name: assets/bn/ru/women/janita.html
+SHA1-Digest: G+ocXHP+RuIx/L4q/B2TLaI1O4Y=
+
+Name: assets/bn/ru/women/alma.html
+SHA1-Digest: ntMOe3TgfNOXeziQhJp4UVqfsGg=
+
+Name: res/drawable/custom_ratingbar_filled_small.xml
+SHA1-Digest: 0brR75eFwf6bdbBSZg3N3dp0rts=
+
+Name: assets/bn/ru/women/adelia.html
+SHA1-Digest: v3gFy0Zsg/cdcZS1DEY95Nbd7ps=
+
+Name: assets/bn/en/bg.html
+SHA1-Digest: odgqjXgR2kbUtFFvnQV1CjUkY9A=
+
+Name: assets/bn/ru/bzj.html
+SHA1-Digest: mq789KaaX9WPyFXU/a7b3+mO/SE=
+
+Name: assets/bn/ru/women/nafisa.html
+SHA1-Digest: 7LxMBTSlnIfG3fooGDaCSKWYUhc=
+
+Name: assets/bn/ru/women/tukai.html
+SHA1-Digest: 0A93dOQjgFfTnLR4pJ4WWVEdqbo=
+
+Name: res/layout-xlarge-v4/calendarview.xml
+SHA1-Digest: F27aXf8GYxJWCDNSuQd1VKgcy6s=
+
+Name: res/drawable/test.jpg
+SHA1-Digest: qPAzvphMoYvjLlJCLXA+nwwwMq0=
+
+Name: res/drawable/myshape.xml
+SHA1-Digest: Og52RkAUw4vsB3iFbi9jg3poe2k=
+
+Name: assets/bn/ru/men/alen.html
+SHA1-Digest: kU4NxNk5qMH4JraUxEjnbYe0zxU=
+
+Name: assets/bn/ru/men/porfiri.html
+SHA1-Digest: omgPVUmV4t43RI6GFLp1kU5PVo4=
+
+Name: assets/bn/ru/women/jadida.html
+SHA1-Digest: 0Ryf1uMYopnuXh9vr4X6eK3eO3M=
+
+Name: res/drawable/shadow23.xml
+SHA1-Digest: TZ0Bc7ZRA7j7s+jCV2C49fzlTdo=
+
+Name: res/drawable-mdpi-v4/tab_selected_blue.9.png
+SHA1-Digest: QWKPRXB08+pH8D6yMscu0mjHR0U=
+
+Name: assets/bn/ru/men/semen.html
+SHA1-Digest: LJZUEwu0WHIJtbRuSPsFyBtmvrY=
+
+Name: assets/bn/ru/women/bogena.html
+SHA1-Digest: qDnHjbOe/j/QCq4lyT0ULqziM2o=
+
+Name: assets/bn/ru/women/mavra.html
+SHA1-Digest: ey6B+7edJXBmm4Nw3xVqNTevbzM=
+
+Name: assets/bn/ru/women/magsuma.html
+SHA1-Digest: 2/AgXNhKJ8bhOgUnnqPfJcsVpkU=
+
+Name: res/drawable/shadow2.xml
+SHA1-Digest: b/VRfh4M+gauDjH9g6a9uDdNAuU=
+
+Name: assets/bn/ru/men/bronislav.html
+SHA1-Digest: qtNfByeamhGp33MhsO1idq/dX7Y=
+
+Name: assets/bn/ru/women/jilit.html
+SHA1-Digest: B0ENInMJNZu9uG4/mfI+MUsWu2c=
+
+Name: assets/w28.png
+SHA1-Digest: P3a4Ks/vEkYeidZ/Oa3hPiV/NUc=
+
+Name: assets/bn/ru/women/vesta.html
+SHA1-Digest: z5WsarwVnwvLZVcYCAQQ3kUeIf8=
+
+Name: assets/bn/ru/men/venedikt.html
+SHA1-Digest: F1nAAgeJVXe4jJAE1VeVelOm2/c=
+
+Name: assets/bn/ru/women/ravia.html
+SHA1-Digest: 1S69PzEEL01Rh3wtKfoRzu5WWFU=
+
+Name: assets/bn/ru/men/platon.html
+SHA1-Digest: VyDxrOEIdVJKM9q3K0K3mSEt078=
+
+Name: assets/bn/ru/women/arabella.html
+SHA1-Digest: L34Z11zbd3doFt3TBttWegyD8Wk=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_dark
+ .9.png
+SHA1-Digest: R0rCQap54Xf4ElOYS7zj9TUQB6s=
+
+Name: assets/bn/ru/men/guri.html
+SHA1-Digest: R8PfBzE8U4I3jnDny2Jaf2YtL6g=
+
+Name: res/drawable-hdpi-v4/ic_action_calendar.png
+SHA1-Digest: WG67OZMzNlWSM9/KRvvHc0DE8vE=
+
+Name: assets/bn/ru/men/gerasim.html
+SHA1-Digest: ZlD+iCUWYwTYJ6dRG5kUF73/KNw=
+
+Name: assets/bn/ru/men/elisei.html
+SHA1-Digest: 5wQIYk3nj1aTURXmYWLLgQ5/cNE=
+
+Name: assets/bn/ru/women/fevronia.html
+SHA1-Digest: eV4vSUW+rN0vgF8EHeHC9y3k9g8=
+
+Name: assets/bn/ru/women/velislava.html
+SHA1-Digest: EUN83hzOJMlJJY/6L7nY/7EbmS0=
+
+Name: res/drawable/pregnancy_week_35.jpg
+SHA1-Digest: RAw4vvWBdjbtHS2l33+Xpe8sUes=
+
+Name: assets/bn/ru/men/akbars.html
+SHA1-Digest: 7wPyx4HjfrNyot8ZsYTwz1rpkk4=
+
+Name: res/drawable/cicle.xml
+SHA1-Digest: w5QahXPsGH1Yo4AA0EBuKqUY5xk=
+
+Name: res/drawable-hdpi-v4/powered_by_google_light.png
+SHA1-Digest: 1p8HkYSQc6asTjUOCQeAiFfr8oU=
+
+Name: assets/bn/ru/men/valter.html
+SHA1-Digest: lU+u/9wWPcRjXJw2yU90tY9AXUw=
+
+Name: assets/bn/ru/women/laura.html
+SHA1-Digest: LoHgakqc9PLMB8Bgd+MQlGS6+KE=
+
+Name: assets/bn/ru/men/spartak.html
+SHA1-Digest: nW52Q+M1ssq9WRRZsEbONf3Xrw4=
+
+Name: assets/bn/ru/women/gortenzia.html
+SHA1-Digest: hlomb0kn/wvg4gq2RB7mOYSz2S8=
+
+Name: assets/bn/ru/men/karen.html
+SHA1-Digest: JvMZ3r33OPrriMqy6zA+WJ+79+A=
+
+Name: assets/bn/ru/men/bolgar.html
+SHA1-Digest: xeN2nNyh2HF4S30/TT5vrVSCs3s=
+
+Name: res/drawable-hdpi-v4/btn_cab_done_focused_blue.9.png
+SHA1-Digest: ko32Vbu7rDEMIAUMbQuASd8FjyA=
+
+Name: assets/bn/ru/women/berta.html
+SHA1-Digest: gOsldmdBM6jboeCKJSpqa4tnFdo=
+
+Name: assets/bn/ru/women/dragomira.html
+SHA1-Digest: LQAzdzBP9ttFj2ZJuPKqJVmv1rg=
+
+Name: res/drawable/loading.png
+SHA1-Digest: CWifw5ZAyDnleoYEtTUOXilnxF0=
+
+Name: assets/bn/ru/women/borislava.html
+SHA1-Digest: kTUgWs1eOIXxmfG8ROzMV3VQzDs=
+
+Name: assets/res/ru_10.html
+SHA1-Digest: niZszSPKnnOBMt0HwC9yBY4FvIc=
+
+Name: res/layout/opennames.xml
+SHA1-Digest: cJPajyoztY27zivtEFIt8h7PVaE=
+
+Name: assets/bn/ru/women/talha.html
+SHA1-Digest: /Ox2HmFVGVI99G63YosRfNBJ1x8=
+
+Name: assets/bn/ru/women/zvenislava.html
+SHA1-Digest: gFJj4X58RgxeJFeh21h7HNty5hs=
+
+Name: assets/bn/ru/women/aglaida.html
+SHA1-Digest: 7J6gzK7Excbq9Wy3R5ema5ESctE=
+
+Name: assets/bn/ru/women/dolia.html
+SHA1-Digest: Kz+zU2fQQbOSDWKZGOl/5wPEztk=
+
+Name: res/drawable/dott.png
+SHA1-Digest: HR0ZJG1IxliusRODP1H1M0z5rQo=
+
+Name: assets/bn/ru/men/villi.html
+SHA1-Digest: gZ6eA+4QE/CjGJPxnLGtfL++Heg=
+
+Name: assets/bn/ru/women/luibomira.html
+SHA1-Digest: bPcI5kdlUdU/jSi3JgWfscj0KNY=
+
+Name: res/drawable-hdpi-v4/ic_drawer.png
+SHA1-Digest: N1cYKhdG4FxyffOSW19K1zGrDoc=
+
+Name: res/drawable-hdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: SfY+3G0ROn26yscNfyqLheYZY3o=
+
+Name: assets/bn/ru/men/valerian.html
+SHA1-Digest: tIKKtPCYdyy2XvrDejfwG2LcmzU=
+
+Name: assets/w15.png
+SHA1-Digest: khsWOvGEiGbnXNMVVyn/pUXrIJ0=
+
+Name: assets/bn/ru/women/azalia.html
+SHA1-Digest: sxVmWSCooRTtDr7JOfn9RtaTPaI=
+
+Name: assets/bn/ru/women/galina.html
+SHA1-Digest: JAtAULQOhyqdbkzY9wKb2G0vEAY=
+
+Name: assets/bn/ru/women/tadjia.html
+SHA1-Digest: 6ZCvuUIp5bzgUruYNDxpRyN7SfA=
+
+Name: assets/bn/ru/men/azhar.html
+SHA1-Digest: B13womcFk4g8oDIBvyrHh0yuJRE=
+
+Name: assets/bn/ru/women/erika.html
+SHA1-Digest: RlkI83Nn5erpLRsX3G386kgjJtc=
+
+Name: assets/bn/ru/women/eliza.html
+SHA1-Digest: e2+mvbTkqg+9WNQhxRwIc2jFHvU=
+
+Name: assets/bn/ru/women/saiida.html
+SHA1-Digest: VOe0zONSXuE94CbITXLXk4YuydU=
+
+Name: assets/res/ru_5.html
+SHA1-Digest: HfTbua7mBvPRaB0P6UV3MtY+kZY=
+
+Name: assets/bn/ru/women/violeta.html
+SHA1-Digest: U5rVeA6szQznFWca2+LwX7v/McA=
+
+Name: res/drawable-mdpi-v4/spinner_ab_pressed_blue.9.png
+SHA1-Digest: DOvqtWNiIw0eu0pAe0geC6wxnOo=
+
+Name: res/drawable/ram3.xml
+SHA1-Digest: idw2jyYCtLr8p/rAuePnrnDLKIo=
+
+Name: assets/bn/ru/men/ksanfii.html
+SHA1-Digest: L+8u2k65GgeNTUUtpznVc3yzetE=
+
+Name: assets/bn/ru/women/ilana.html
+SHA1-Digest: zRtRM3/WwV0VrlkcvzZ9FXYYoLo=
+
+Name: res/drawable/tab_selected.xml
+SHA1-Digest: sWhJwsK0LQ3UZzvSUxR813VuqR4=
+
+Name: res/drawable/helpful.png
+SHA1-Digest: 6K431kvBBFiMWGOBF2fqdTNFzcM=
+
+Name: assets/bn/ru/women/luidviga.html
+SHA1-Digest: GFBwM0TABF5iGy9mFT+ZsyPi9f4=
+
+Name: assets/bn/ru/men/lavrentii.html
+SHA1-Digest: JN5owWbqUsA+WnTEHJqKmz+Ggng=
+
+Name: res/layout/symptoms.xml
+SHA1-Digest: BhjbPmy5KZ7agSrRqit28GZ89l8=
+
+Name: assets/bn/ru/women/alfia.html
+SHA1-Digest: 46zWx8cmJjcsBLvUP7ubi6UjbNM=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: zeUJW+N1oH+oj9U7hL70+0TC4pk=
+
+Name: assets/bn/ru/gzj.html
+SHA1-Digest: B4mXnj0SenskmuOwtVMWCefhol8=
+
+Name: res/drawable/ab_background_textured_blue.xml
+SHA1-Digest: Dz0E4m2C+gcDIEmiOFKkUC1KqGY=
+
+Name: res/drawable-xxhdpi-v4/ic_action_profile.png
+SHA1-Digest: yvoRISL5oJD4Dly5PwFfbW90TKs=
+
+Name: assets/bn/ru/women/melania.html
+SHA1-Digest: JxTxc6bmxdZXGPRvQwSmnXxOCjM=
+
+Name: assets/bn/ru/women/fauzia.html
+SHA1-Digest: J7txXpdPImQGhiyke6HEo8FzzhE=
+
+Name: assets/bn/ru/men/muslim.html
+SHA1-Digest: PKJHb8AN8S6LGK28jGvodFBO0tI=
+
+Name: assets/bn/ru/men/trofim.html
+SHA1-Digest: 70K4t9MiyA7co6CB4RxqQ9/QPn8=
+
+Name: assets/bn/ru/women/amelia.html
+SHA1-Digest: QYmhJKY7eZLuDO/559KZwqYiV1k=
+
+Name: assets/bn/ru/women/matilda.html
+SHA1-Digest: d7mLJf62fIO5vJqyKjHZBWfWtAc=
+
+Name: assets/bn/ru/men/amadeus.html
+SHA1-Digest: 9iaV8h8R4eR0efRLlEqh1pRvd/k=
+
+Name: res/drawable/round.xml
+SHA1-Digest: M/Zl5VP4r2C/kpryQmuBWLHEg1U=
+
+Name: assets/bn/ru/men/kasian.html
+SHA1-Digest: DK6aG7uJbR5g1bFr6jMFuDEmViM=
+
+Name: res/drawable-mdpi-v4/powered_by_google_dark.png
+SHA1-Digest: SYwxuihJgUaoyjHCQQvZHUzSvgw=
+
+Name: assets/bn/ru/men/ulii.html
+SHA1-Digest: IJ8lJ8IfYcs7MXAIpzLzwdn0Qt4=
+
+Name: assets/bn/ru/men/dorofei.html
+SHA1-Digest: IyzXh+DjspPkezQTbiCel6yIbj4=
+
+Name: assets/bn/ru/women/livia.html
+SHA1-Digest: cPInq1vMI1PyswyCDXjg7DPkvvg=
+
+Name: assets/bn/ru/women/karmen.html
+SHA1-Digest: kEiEQS7lbpznqi3fogh79rhmfUg=
+
+Name: assets/bn/ru/women/rahima.html
+SHA1-Digest: Xx5q9RUwKRa7ZnMKaWV2d14tWts=
+
+Name: res/drawable/shadow24.xml
+SHA1-Digest: WPfv6WUa2WnKKwBc8kH/KP2O56M=
+
+Name: assets/bn/ru/men/buranbai.html
+SHA1-Digest: Djxx00oLiBoWLGBgFEviJsl3+y8=
+
+Name: assets/bn/ru/gu.html
+SHA1-Digest: F9MvgPfP3Fs76MFddzx1lM1sIqw=
+
+Name: assets/bn/ru/women/shahina.html
+SHA1-Digest: ULdiVQfdhTJm9c98ceqA7MVg2lA=
+
+Name: assets/bn/ru/women/ziia.html
+SHA1-Digest: TFnGs9p7cCvbsSvH+xO86zc/i5c=
+
+Name: res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: 5DJcJTVQZ/5EfOcHn52XOrGisZk=
+
+Name: res/layout/listpreg.xml
+SHA1-Digest: jIfTc138x5RFmZLcBNnsmrp4wEk=
+
+Name: assets/bn/ru/men/alan.html
+SHA1-Digest: HbdW8NZ0hkgXXjbjNcIMw7pRSJg=
+
+Name: assets/bn/ru/men/ahad.html
+SHA1-Digest: 5BTyxazGT2r/KEURgEH2dusl2Bs=
+
+Name: assets/bn/ru/men/rudolf.html
+SHA1-Digest: TJfPfaWNeL00srrb/FH02Ya2XI4=
+
+Name: assets/bn/ru/men/paulin.html
+SHA1-Digest: uI50b6yKyRveWvON2fGxs+a8IQg=
+
+Name: res/layout/list_stat.xml
+SHA1-Digest: lCoBF/jP/gAQ26dNIheiUkEYPEY=
+
+Name: assets/bn/ru/women/kamalia.html
+SHA1-Digest: iRFGdNefUJdfqEExvVAKz9N/QBE=
+
+Name: res/drawable-xhdpi-v4/ic_babycare.png
+SHA1-Digest: 2GzCCaiK7xJdN3kFxQ+10seuQJg=
+
+Name: assets/bn/ru/women/kristina.html
+SHA1-Digest: 8ZduRBFq/l5eGoJ52qw+2djjSYs=
+
+Name: assets/bn/ru/men/leonti.html
+SHA1-Digest: /+4kTfxJgGqIP9/6ic6gBJcz0Yw=
+
+Name: res/drawable-mdpi-v4/ab_bottom_solid_blue.9.png
+SHA1-Digest: jmM7j7AcE8ftFlIsnmkBeKAIOPc=
+
+Name: assets/bn/ru/women/jizel.html
+SHA1-Digest: RZrZCKs8qz4KBz/PkDxAv/z66s0=
+
+Name: res/drawable/botton_selector3.xml
+SHA1-Digest: Oy32+EO/dX+f8S6PIcy8rYl9Ees=
+
+Name: res/layout-xlarge-v4/sprsymp.xml
+SHA1-Digest: 0Smbt+qu8f+mnr9Qgp00z4sDnyo=
+
+Name: assets/bn/ru/women/zabira.html
+SHA1-Digest: Lz1KLrQ6GMT29dnlcxJhadzv1n0=
+
+Name: res/drawable-mdpi-v4/ic_action_about.png
+SHA1-Digest: kPn8pD5ge9PhrASosrf2KvOrPlI=
+
+Name: assets/bn/ru/women/dorotea.html
+SHA1-Digest: F8NVtEQ1xYZydJGMWrY5nP74cZA=
+
+Name: assets/bn/ru/women/svetlozara.html
+SHA1-Digest: +FNpb1NJ0phzHecJF05X/1C8KA8=
+
+Name: resources.arsc
+SHA1-Digest: luT0puRf3NJz88301MqTSNmeUdY=
+
+Name: assets/bn/en/gg.html
+SHA1-Digest: FJk4GX0RK0tPG7rVaA7R3C+m3i4=
+
+Name: assets/bn/ru/men/demid.html
+SHA1-Digest: 4JnYL5e0wMM3+vtq7QTJlZjzSxU=
+
+Name: assets/res/ru_8.html
+SHA1-Digest: Tv42Ma4P4o+ftvBDRBf+240LcM8=
+
+Name: assets/bn/ru/men/mstislav.html
+SHA1-Digest: rCdK8WQuZyFANEG2r9D052Tp6D8=
+
+Name: assets/bn/ru/women/fedosia.html
+SHA1-Digest: Qs8yUIs8KsFrVJbQjcHeAsGzars=
+
+Name: assets/bn/ru/men/gaias.html
+SHA1-Digest: EAqz11CFGM6ZRGkbK5fsMbgF9bs=
+
+Name: assets/bn/ru/women/ella.html
+SHA1-Digest: no4cEpsqOaOvRODF9EK5n1yzsrM=
+
+Name: assets/bn/ru/men/avsei.html
+SHA1-Digest: drmolPcJJRBJ4V22lssWTJDhxho=
+
+Name: res/layout/kicks.xml
+SHA1-Digest: JjVy2IiNnBrgVBvlUMT7Rfis/wQ=
+
+Name: assets/bn/ru/men/bekhan.html
+SHA1-Digest: HYV0GuLAMIBwkf4CbFr3Ar2sZOM=
+
+Name: assets/bn/ru/men/klement.html
+SHA1-Digest: c3/VEzGNxGfgf20/4U5DrQu5bqA=
+
+Name: assets/bn/ru/women/alevtina.html
+SHA1-Digest: JFS8Dsv9lGALjpSv/525gg9OUiQ=
+
+Name: assets/bn/ru/men/bojidar.html
+SHA1-Digest: 4Hzzh5szgdJlbNEYS4foFIdptsE=
+
+Name: assets/bn/ru/men/vlas.html
+SHA1-Digest: 0CKMpbmcjVhvBjElscPqI7iFdwg=
+
+Name: assets/bn/ru/women/gradislava.html
+SHA1-Digest: EdOOouP9f7mCyMZjBmaC1M+4ZxQ=
+
+Name: assets/bn/ru/men/ilian.html
+SHA1-Digest: wM7Zq7otCTUsd6nigwSM+BkJmOk=
+
+Name: assets/bn/ru/women/rezeda.html
+SHA1-Digest: G3V5Cl+E8plfyqo7gVM4J04j8kk=
+
+Name: assets/bn/ru/women/tauxidia.html
+SHA1-Digest: FjnOF/WuiURy4PhWraVftk8tRTc=
+
+Name: assets/bn/ru/women/gafiat.html
+SHA1-Digest: W95pQqwMYVPEgx/zc2NjiTcz13g=
+
+Name: assets/bn/ru/men/aksentii.html
+SHA1-Digest: vfB6vbipK4d7+r/0laM4LUiKVxM=
+
+Name: res/layout/new_info.xml
+SHA1-Digest: Cg7pPdUHThUN6v7I3T7n3nefEy4=
+
+Name: assets/bn/ru/men/kazimir.html
+SHA1-Digest: kYb9FA8LgLv2PU/w2+pQvJSp5GQ=
+
+Name: assets/bn/ru/women/kadima.html
+SHA1-Digest: vdDHV85FVaZtaOxa+QBzwZqs+aE=
+
+Name: assets/bn/ru/men/bulat.html
+SHA1-Digest: 8DvAO5x9AzSQlYRRVlbtIePfaZI=
+
+Name: assets/bn/ru/women/chulpan.html
+SHA1-Digest: Z+X6ALh+yMP4l1FJLmuIu2hqaXY=
+
+Name: res/drawable-mdpi-v4/ic_action_report.png
+SHA1-Digest: R8nUWVsdSLUwfqXaM/O1Hk/sbAs=
+
+Name: res/drawable-xxhdpi-v4/spinner_ab_default_blue.9.png
+SHA1-Digest: FMtNd4SqBRXYJwFKD9gjndUJrZg=
+
+Name: assets/bn/ru/men/ibragim.html
+SHA1-Digest: s6EMhzMPMQtjdf/9gWE+v2lU6KM=
+
+Name: assets/bn/ru/men/galaktion.html
+SHA1-Digest: +ee4qXJ3+s48TB3DxwXv9wZ/bHI=
+
+Name: res/drawable/common_signin_btn_text_dark.xml
+SHA1-Digest: tfdTilDEMS+V67VvffuTKpcjjYA=
+
+Name: assets/bn/ru/men/agafonik.html
+SHA1-Digest: 49ypBelgV5SS5TVjdP/0PKSZBnM=
+
+Name: assets/bn/ru/men/askold.html
+SHA1-Digest: U4+nSWmfmtMG3j6osCZ8Bd3UPeY=
+
+Name: assets/bn/ru/women/hasiba.html
+SHA1-Digest: 4dtKoR2OH3KWIEEYimjpZ+ljVl4=
+
+Name: assets/bn/ru/ge.html
+SHA1-Digest: FwdFrZTHfSCAbLDEeo/EcaFCzyI=
+
+Name: assets/bn/ru/men/andrei.html
+SHA1-Digest: CNE0MADClfn99LIr6GhCd0l5Woc=
+
+Name: assets/bn/ru/women/babetta.html
+SHA1-Digest: TICW0bcY/AjZiCkG7UMalPnLjTg=
+
+Name: assets/bn/ru/women/razia.html
+SHA1-Digest: Raj609NwuCpubPu1EGjdfjl4WRY=
+
+Name: assets/bn/ru/men/rodion.html
+SHA1-Digest: yihczrW50Yw9pjdVYIkx4ZDcBME=
+
+Name: res/layout/repset.xml
+SHA1-Digest: AnEeTukH7W/97P/+D7t5pWahOeE=
+
+Name: res/layout/footer.xml
+SHA1-Digest: cEwSjGC6nfWQKR7aYmqTDKawChg=
+
+Name: res/layout-xlarge-v4/setdate.xml
+SHA1-Digest: ANhi2TDqYF4xq99MIVHbQKpAACk=
+
+Name: assets/bn/ru/women/celestina.html
+SHA1-Digest: bap7+cXndgOIS1P4jnRgwMkNuSA=
+
+Name: res/drawable/button.xml
+SHA1-Digest: uWRzpuY6ItkJjO3ewnbnZYCYKyY=
+
+Name: assets/bn/ru/men/gerald.html
+SHA1-Digest: 2LYVn2jDwUzVc7fnwBw6VP/Dgv4=
+
+Name: assets/bn/ru/women/oigul.html
+SHA1-Digest: WMdTJQ1ljKpE5Ij0k2RPIsOIftw=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: m3YAtUmXDcAGXG5Zyr9q08Mbs2Q=
+
+Name: assets/bn/ru/women/laisa.html
+SHA1-Digest: +e4ktUuLcN/NnY0vWYPPbFGFRD0=
+
+Name: res/drawable/babyname3.png
+SHA1-Digest: jKTCnDwbApTXfjEZ4hhjCIwdw/M=
+
+Name: assets/bn/ru/women/zinnat.html
+SHA1-Digest: jYvXxGcdl51dJlnG88n724k7cFE=
+
+Name: assets/bn/ru/women/ellada.html
+SHA1-Digest: fa/h0nCpWFCOwJku8munpYrqqDA=
+
+Name: assets/bn/ru/women/zlata.html
+SHA1-Digest: 8fkN7T4eNwHk81ZN22ZGBXAZ+Bc=
+
+Name: res/layout-large-v4/activity_firstperiodmenu.xml
+SHA1-Digest: RZ/FU4JL+qomqbxbvaLPNHyUfJ8=
+
+Name: assets/bn/ru/women/una.html
+SHA1-Digest: jO1lK3TjGgzAj9JUnaHLNvgQlpk=
+
+Name: assets/bn/ru/women/hairia.html
+SHA1-Digest: cjwjsPLAm+XMzEtVTBxUd9hUe+Y=
+
+Name: res/layout/babybirth.xml
+SHA1-Digest: aMkN4j3MKTvBHq4plQJcnYBg03M=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: TwWXY0poQcBhLXrZXIM9dyV+eP4=
+
+Name: assets/bn/ru/men/rafik.html
+SHA1-Digest: K1EbgAv45FRLBX8Z8u692Wej8mw=
+
+Name: res/layout/readres.xml
+SHA1-Digest: wMihWuQ+UKaEHMVid+9Gql6ywao=
+
+Name: assets/bn/ru/men/beksolt.html
+SHA1-Digest: pZWwDlYaSn+NVlz28brkvqvqE7c=
+
+Name: assets/bn/ru/women/radmila.html
+SHA1-Digest: 3+DJSxrbvqRYQVVWDG9MEJ2VjgA=
+
+Name: assets/bn/ru/men/tais.html
+SHA1-Digest: fXuslSmChxda3+LPQ1CN7o2U8Hc=
+
+Name: assets/bn/ru/men/grigori.html
+SHA1-Digest: AnjeJRJUetYOnoDAgaL6DYDnZf8=
+
+Name: res/drawable-xxxhdpi-v4/ic_action_symp.png
+SHA1-Digest: ru2IR0X/13utRmGiD4N4tU884g0=
+
+Name: assets/bn/en/bf.html
+SHA1-Digest: ifu8zOjcBRogCj5YxpdL7n5sgY4=
+
+Name: assets/bn/ru/women/djamilia.html
+SHA1-Digest: 9XlsuWzZNReh+BnZrppZ1+efJuo=
+
+Name: assets/bn/ru/women/badira.html
+SHA1-Digest: 10wlRuRQoic9AsmIZQFukQhINNs=
+
+Name: assets/bn/ru/women/nurania.html
+SHA1-Digest: /0HKv5QCvkTgRRdXOGGNBSF5e54=
+
+Name: assets/bn/ru/men/raimond.html
+SHA1-Digest: QX7tu9FM+tpfK40qt2MwgnuuzQo=
+
+Name: res/drawable/note2.png
+SHA1-Digest: MxmpR0Zi/Dbep4s7scoKKpdpzDQ=
+
+Name: res/drawable-hdpi-v4/ic_action_symp.png
+SHA1-Digest: lmpwSejvE2Pb1zLgc7/8HX2XXYE=
+
+Name: assets/bn/ru/men/avdievs.html
+SHA1-Digest: S0ZXeNxVvloyS7jblDZAQa/zMJM=
+
+Name: res/drawable/pill5.png
+SHA1-Digest: lMe6qXTNX2P+rRTAQzCGPjpQZH8=
+
+Name: assets/bn/ru/men/bal_tazar.html
+SHA1-Digest: LVYr7lMc+fl6S5fMxoF43S0yJ/g=
+
+Name: assets/bn/ru/men/batii.html
+SHA1-Digest: 4qJdCtqB0swsUBOKloY14oMM4Ns=
+
+Name: assets/bn/ru/women/flusa.html
+SHA1-Digest: ucOt3d+ebkR2Cm7P7MFKGo1uoKU=
+
+Name: assets/bn/ru/gv.html
+SHA1-Digest: cKZlQDk3GNUyVemqB1TolEKSs7o=
+
+Name: assets/bn/ru/men/aron.html
+SHA1-Digest: QnoAl0IHM/DwwrQFEIAOjpmDA9I=
+
+Name: res/drawable/program_shap.xml
+SHA1-Digest: EE8HM6AbCg/C8KFdbZzGm3cRTWM=
+
+Name: res/drawable-xxhdpi-v4/ic_action_bag.png
+SHA1-Digest: n36EbzIs4vH8mZrRziaL/LDJyWI=
+
+Name: assets/bn/ru/women/vireneia.html
+SHA1-Digest: T3ZFPwp2h7GMkaU8+1uzg2C4IJU=
+
+Name: assets/bn/ru/men/ulmanas.html
+SHA1-Digest: S6S1eB7CXGA6B/1xZPK5aeiJ5Mo=
+
+Name: res/drawable/settings2.png
+SHA1-Digest: N3NK3ieSm09UdeOPG0ay1eTxme4=
+
+Name: assets/bn/ru/women/dgema.html
+SHA1-Digest: 4QsNeEo53mmuAmy4E1vbrrfjjv0=
+
+Name: assets/bn/ru/women/irena.html
+SHA1-Digest: kobhfkBhO79n+bEsvI3Uw7UdBZA=
+
+Name: res/drawable-xhdpi-v4/powered_by_google_dark.png
+SHA1-Digest: psVwTFCoE8L/YbYPXiTtAelEWs8=
+
+Name: assets/bn/ru/women/tatiana.html
+SHA1-Digest: hu4XDs2wR9ti31UkgbAJ42CcV/M=
+
+Name: assets/bn/ru/women/alia.html
+SHA1-Digest: V6Rqql/G5QntCfOtU4HrRnq8/Ik=
+
+Name: res/layout/item_pregnancy.xml
+SHA1-Digest: K3ms8HEItoEVwe5IwdV6mAPxOQ4=
+
+Name: assets/bn/ru/women/liliana.html
+SHA1-Digest: jn4btvFY2ZAClvt95kC7KrWeaoc=
+
+Name: assets/bn/ru/men/ananii.html
+SHA1-Digest: E5YikDdvKdU8nlvxZo5NpmXVkW8=
+
+Name: assets/w11.png
+SHA1-Digest: XYawc4g6214U5f0B2RpsC1aI01E=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: 3Cm8nhJcFA+BRyvYi9o9mdskUFM=
+
+Name: assets/bn/ru/women/olesia.html
+SHA1-Digest: EYiN+tprVxh06aqQFImAvcs6t0Q=
+
+Name: res/drawable/dotted.xml
+SHA1-Digest: 8RTV+JmqVx5WviTch4TVr/bTwfc=
+
+Name: assets/bn/ru/men/abram.html
+SHA1-Digest: EYzcd+Lv9Zk54W5FaDJeGfhJCDw=
+
+Name: assets/bn/ru/women/daniela.html
+SHA1-Digest: qagQ8Tb/tqrP5N7aIn7bVOjrX/M=
+
+Name: assets/res/ru_11.html
+SHA1-Digest: tSiEYCv/1UQkCKs9m7a0QhduKho=
+
+Name: assets/bn/ru/women/serafima.html
+SHA1-Digest: 9gtdaybUzQZsQZJC8zNziRL3chY=
+
+Name: assets/bn/ru/men/avtonom.html
+SHA1-Digest: 0+1a0PSqTMiIdvb2C5Dtj5mObZU=
+
+Name: assets/bn/ru/men/adip.html
+SHA1-Digest: GEmUH/qgk9i2yhJsYPkUhBIccjc=
+
+Name: assets/bn/ru/women/taxmira.html
+SHA1-Digest: s7IpYuHJ5DW7L/6swLq3dTGuuuo=
+
+Name: assets/bn/ru/women/raufa.html
+SHA1-Digest: LebMguBbk6hZiFL+c8vJcne2eNw=
+
+Name: assets/bn/ru/women/antonina.html
+SHA1-Digest: P/xmyHkl0pnNSx+QlisOsRTNGuY=
+
+Name: res/color/wallet_primary_text_holo_light.xml
+SHA1-Digest: tlV28f8PQAioaODQETV5R+WJhL4=
+
+Name: assets/bn/ru/women/karina.html
+SHA1-Digest: gZd8G3nEeSNIZnLYv9kh7MHDx+c=
+

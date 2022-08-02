@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textview_margin_left">10.0sp</dimen>
+    <dimen name="ml45">45.0dip</dimen>
+    <dimen name="mt17">17.0dip</dimen>
+    <dimen name="t20">20.0sp</dimen>
+    <dimen name="mt5">5.0dip</dimen>
+    <dimen name="mlr30">30.0dip</dimen>
+    <dimen name="ml23">23.0dip</dimen>
+    <dimen name="ml15">15.0dip</dimen>
+    <dimen name="t15">15.0sp</dimen>
+    <dimen name="mr25">25.0dip</dimen>
+    <dimen name="t12">12.0sp</dimen>
+    <dimen name="t30">30.0sp</dimen>
+    <dimen name="ml5">5.0dip</dimen>
+    <dimen name="mr10">10.0dip</dimen>
+    <dimen name="t80">40.0dip</dimen>
+</resources>

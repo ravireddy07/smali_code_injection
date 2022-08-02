@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffececec" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="left" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?colorTitle">
+        <TextView android:textSize="20.0sp" android:textStyle="bold" android:textColor="@color/white" android:id="@id/iddiary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="7.0dip" android:text="@string/kickcounter" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:gravity="right" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip">
+        <TextView android:textSize="20.0sp" android:textColor="@android:color/background_dark" android:gravity="right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="3.0dip" android:text="@string/dur" />
+        <Chronometer android:textSize="20.0sp" android:textColor="@android:color/background_dark" android:gravity="right" android:id="@id/chrom" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <Button android:textSize="100.0dip" android:textColor="@color/red" android:gravity="center" android:id="@id/start_c" android:background="@drawable/round_button" android:layout_width="240.0dip" android:layout_height="240.0dip" android:text="0" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="5.0dip">
+        <Button android:textColor="@color/white" android:layout_gravity="center" android:id="@id/ok" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="2.0dip" android:text="@string/btn_save" android:singleLine="true" android:layout_weight="1.0" style="?colorTitle2" />
+        <Button android:textColor="@color/white" android:layout_gravity="center" android:id="@id/list" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="2.0dip" android:text="@string/Lists" android:singleLine="true" android:layout_weight="1.0" style="?colorTitle2" />
+        <Button android:textColor="@color/white" android:layout_gravity="center" android:id="@id/close" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="2.0dip" android:text="@string/btn_close" android:singleLine="true" android:layout_weight="1.0" style="?colorTitle2" />
+    </LinearLayout>
+</LinearLayout>

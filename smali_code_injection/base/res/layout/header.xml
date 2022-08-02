@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/photo" android:layout_width="fill_parent" android:layout_height="200.0dip">
+        <ImageView android:layout_width="fill_parent" android:layout_height="200.0dip" android:src="@drawable/test" android:scaleType="fitXY" />
+        <LinearLayout android:orientation="vertical" android:background="#80000000" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <TextView android:textSize="16.0sp" android:textColor="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Tatiana Kolesnik" />
+            <TextView android:textSize="12.0sp" android:textColor="#ffffffff" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="3 trimestr, 36 weeks" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.IAPTheme" parent="@android:style/Theme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/wallet_secondary_text_holo_dark</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_dark</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_dark</item>
+        <item name="android:textColorLink">@color/wallet_holo_blue_light</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsHeaderTextAppearance" parent="@style/WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="WalletFragmentDefaultButtonTextAppearance">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/wallet_primary_text_holo_light</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_light</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_light</item>
+        <item name="android:textColorLink">@color/wallet_link_text_light</item>
+    </style>
+    <style name="WalletFragmentDefaultStyle">
+        <item name="buyButtonHeight">48.0dip</item>
+        <item name="buyButtonWidth">match_parent</item>
+        <item name="buyButtonText">buy_with_google</item>
+        <item name="buyButtonAppearance">classic</item>
+        <item name="maskedWalletDetailsTextAppearance">@style/WalletFragmentDefaultDetailsTextAppearance</item>
+        <item name="maskedWalletDetailsHeaderTextAppearance">@style/WalletFragmentDefaultDetailsHeaderTextAppearance</item>
+        <item name="maskedWalletDetailsBackground">@color/wallet_bright_foreground_holo_light</item>
+        <item name="maskedWalletDetailsButtonTextAppearance">@style/WalletFragmentDefaultButtonTextAppearance</item>
+        <item name="maskedWalletDetailsButtonBackground">@android:drawable/btn_default</item>
+        <item name="maskedWalletDetailsLogoTextColor">@color/wallet_bright_foreground_holo_dark</item>
+        <item name="maskedWalletDetailsLogoImageType">classic</item>
+    </style>
+    <style name="Theme.Blue" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Blue</item>
+    </style>
+    <style name="ActionBar.Solid.Blue" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:progressBarStyle">@style/ProgressBar.Blue</item>
+        <item name="android:background">@drawable/ab_solid_blue</item>
+    </style>
+    <style name="ActionBar.Transparent.Blue" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:progressBarStyle">@style/ProgressBar.Blue</item>
+        <item name="android:background">@drawable/ab_transparent_blue</item>
+    </style>
+    <style name="PopupMenu.Blue" parent="@android:style/Widget.Holo.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_blue</item>
+    </style>
+    <style name="DropDownListView.Blue" parent="@android:style/Widget.Holo.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background_blue</item>
+    </style>
+    <style name="ActionBarTabStyle.Blue" parent="@android:style/Widget.Holo.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_blue</item>
+    </style>
+    <style name="DropDownNav.Blue" parent="@android:style/Widget.Holo.Spinner">
+        <item name="android:background">@drawable/spinner_background_ab_blue</item>
+        <item name="android:dropDownSelector">@drawable/selectable_background_blue</item>
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_blue</item>
+    </style>
+    <style name="ProgressBar.Blue" parent="@android:style/Widget.Holo.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal_blue</item>
+    </style>
+    <style name="ActionButton.CloseMode.Blue" parent="@android:style/Widget.Holo.ActionButton.CloseMode">
+        <item name="android:background">@drawable/btn_cab_done_blue</item>
+    </style>
+    <style name="Theme.Blue.Widget" parent="@android:style/Theme.Holo">
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Blue</item>
+    </style>
+    <style name="CustomRatingBar" parent="@android:style/Widget.RatingBar">
+        <item name="android:maxHeight">32.0dip</item>
+        <item name="android:progressDrawable">@drawable/custom_ratingbar</item>
+        <item name="android:minHeight">32.0dip</item>
+    </style>
+    <style name="CustomRatingBarSmall" parent="@android:style/Widget.RatingBar">
+        <item name="android:maxHeight">13.0dip</item>
+        <item name="android:progressDrawable">@drawable/custom_ratingbar_small</item>
+        <item name="android:minHeight">13.0dip</item>
+        <item name="android:isIndicator">true</item>
+    </style>
+    <style name="AppTheme" parent="@android:style/Theme.Light">
+        <item name="colorTitle">@style/backgrp2</item>
+        <item name="colorTitle2">@style/bat2</item>
+        <item name="mtextc">@style/textc2</item>
+    </style>
+    <style name="AppTheme2" parent="@android:style/Theme.Light">
+        <item name="colorTitle">@style/backgrp</item>
+        <item name="colorTitle2">@style/bat</item>
+        <item name="mtextc">@style/textc</item>
+    </style>
+    <style name="AppTheme3" parent="@android:style/Theme.Light">
+        <item name="colorTitle">@style/backgrp3</item>
+        <item name="colorTitle2">@style/bat3</item>
+        <item name="mtextc">@style/textc3</item>
+    </style>
+    <style name="AppTheme4" parent="@android:style/Theme.Light">
+        <item name="colorTitle">@style/backgrp4</item>
+        <item name="colorTitle2">@style/bat4</item>
+        <item name="mtextc">@style/textc4</item>
+    </style>
+    <style name="AppTheme5" parent="@android:style/Theme.Light">
+        <item name="colorTitle">@style/backgrp5</item>
+        <item name="colorTitle2">@style/bat5</item>
+        <item name="mtextc">@style/textc5</item>
+    </style>
+    <style name="backgrp">
+        <item name="android:background">@color/c1_1</item>
+    </style>
+    <style name="textc">
+        <item name="android:textColor">@color/c1_2</item>
+    </style>
+    <style name="bat">
+        <item name="android:background">@drawable/botton_selector</item>
+    </style>
+    <style name="backgrp2">
+        <item name="android:background">@color/c2_1</item>
+    </style>
+    <style name="textc2">
+        <item name="android:textColor">@color/c2_2</item>
+    </style>
+    <style name="bat2">
+        <item name="android:background">@drawable/botton_selector2</item>
+    </style>
+    <style name="backgrp3">
+        <item name="android:background">@color/c3_1</item>
+    </style>
+    <style name="textc3">
+        <item name="android:textColor">@color/c3_2</item>
+    </style>
+    <style name="bat3">
+        <item name="android:background">@drawable/botton_selector3</item>
+    </style>
+    <style name="backgrp4">
+        <item name="android:background">@color/c4_1</item>
+    </style>
+    <style name="textc4">
+        <item name="android:textColor">@color/c4_2</item>
+    </style>
+    <style name="bat4">
+        <item name="android:background">@drawable/botton_selector4</item>
+    </style>
+    <style name="backgrp5">
+        <item name="android:background">@color/c5_1</item>
+    </style>
+    <style name="textc5">
+        <item name="android:textColor">@color/c5_2</item>
+    </style>
+    <style name="bat5">
+        <item name="android:background">@drawable/botton_selector5</item>
+    </style>
+</resources>

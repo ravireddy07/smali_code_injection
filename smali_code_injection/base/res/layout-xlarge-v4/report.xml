@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffececec" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="left" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?colorTitle">
+        <TextView android:textSize="40.0sp" android:textStyle="bold" android:textColor="@android:color/background_light" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="7.0dip" android:text="@string/report" android:layout_weight="1.0" />
+        <ImageView android:layout_gravity="center" android:id="@id/export" android:layout_width="60.0dip" android:layout_height="60.0dip" android:src="@drawable/ic_mail" />
+        <ImageView android:layout_gravity="center" android:id="@id/idlist" android:layout_width="60.0dip" android:layout_height="60.0dip" android:src="@drawable/ic_left_settings_down" />
+    </LinearLayout>
+    <GridView android:id="@id/Grid" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="5.0dip" android:horizontalSpacing="5.0dip" android:verticalSpacing="5.0dip" android:numColumns="1" android:dividerHeight="1.0dip" android:layout_weight="1.0" android:layout_below="@id/header" />
+</LinearLayout>

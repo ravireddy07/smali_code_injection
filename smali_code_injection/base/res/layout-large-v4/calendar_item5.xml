@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/main" android:padding="3.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:id="@id/body" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="100.0dip">
+        <RelativeLayout android:id="@id/iwkick" android:visibility="invisible" android:layout_width="20.0dip" android:layout_height="20.0dip" android:layout_margin="3.0dip" android:layout_alignParentLeft="true">
+            <ImageView android:id="@id/iwki" android:layout_width="20.0dip" android:layout_height="20.0dip" android:src="@drawable/round_b5" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+            <TextView android:textSize="13.0sp" android:typeface="serif" android:gravity="center" android:id="@id/digi3" android:layout_width="20.0dip" android:layout_height="20.0dip" android:text="1" android:layout_centerHorizontal="true" android:layout_centerVertical="true" style="?mtextc" />
+        </RelativeLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/l1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="13.0sp" android:textStyle="bold" android:gravity="right" android:id="@id/date" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="2" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/l2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_below="@id/l1">
+            <ImageView android:id="@id/medic" android:visibility="gone" android:layout_width="25.0dip" android:layout_height="25.0dip" android:src="@drawable/medic5" />
+            <ImageView android:id="@id/note" android:visibility="gone" android:layout_width="25.0dip" android:layout_height="25.0dip" android:layout_marginLeft="5.0dip" android:src="@drawable/note5" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/l3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_below="@id/l2">
+            <ImageView android:id="@id/pill" android:visibility="gone" android:layout_width="25.0dip" android:layout_height="25.0dip" android:src="@drawable/pill5" />
+            <ImageView android:id="@id/symp" android:visibility="gone" android:layout_width="25.0dip" android:layout_height="25.0dip" android:layout_marginLeft="5.0dip" android:src="@drawable/symp5" />
+        </LinearLayout>
+        <ImageView android:id="@id/baby" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/ic_baby" />
+    </RelativeLayout>
+</LinearLayout>

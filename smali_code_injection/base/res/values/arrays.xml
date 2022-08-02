@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icon">
+        <item>@drawable/ic_action_weight</item>
+        <item>@drawable/ic_action_report</item>
+        <item>@drawable/ic_action_names</item>
+        <item>@drawable/ic_action_bag</item>
+        <item>@drawable/ic_action_kick</item>
+    </array>
+    <string-array name="menu">
+        <item>Weight</item>
+        <item>Report</item>
+        <item>Baby names</item>
+        <item>Hospital bag</item>
+        <item>@string/kickcounter</item>
+        <item>Settings</item>
+    </string-array>
+    <string-array name="arraymenu">
+        <item>Weight</item>
+        <item>Report</item>
+        <item>Baby names</item>
+        <item>Hospital bag</item>
+        <item>@string/kickcounter</item>
+    </string-array>
+    <string-array name="Lit">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="Lit2">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>i</item>
+        <item>j</item>
+        <item>k</item>
+        <item>l</item>
+        <item>m</item>
+        <item>n</item>
+        <item>o</item>
+        <item>p</item>
+        <item>q</item>
+        <item>r</item>
+        <item>s</item>
+        <item>t</item>
+        <item>u</item>
+        <item>v</item>
+        <item>w</item>
+        <item>y</item>
+        <item>z</item>
+    </string-array>
+    <string-array name="Event">
+        <item>"Doctor's visit"</item>
+        <item>AFP Screen</item>
+        <item>Blood Test</item>
+        <item>CVS Screen</item>
+        <item>Glucose Test</item>
+        <item>Intercourse</item>
+        <item>Miscarriage</item>
+        <item>NST</item>
+        <item>Quad Screen</item>
+        <item>Ultrasound</item>
+        <item>HPT</item>
+    </string-array>
+    <string-array name="Symp">
+        <item>Abdominal pain</item>
+        <item>Acne</item>
+        <item>Appetite</item>
+        <item>Backaches</item>
+        <item>Bloating</item>
+        <item>Body aches</item>
+        <item>Breast pain</item>
+        <item>Breast Sensitivity</item>
+        <item>Chills</item>
+        <item>Constipation</item>
+        <item>Cramps</item>
+        <item>Diarrhea</item>
+        <item>Dizziness</item>
+        <item>Fatigue</item>
+        <item>Fever</item>
+        <item>Frequency of urination</item>
+        <item>Headaches</item>
+        <item>Indigestion</item>
+        <item>Insomnia</item>
+        <item>Itchy</item>
+        <item>Leg inflammation</item>
+        <item>Migraine</item>
+        <item>Muscle/Joint pain</item>
+        <item>Nausea/Vomiting</item>
+        <item>Neck aches</item>
+        <item>Night sweat</item>
+        <item>Pain in the groin</item>
+        <item>Shoulder ache</item>
+        <item>Sleepiness</item>
+        <item>Spotting/Bleeding</item>
+    </string-array>
+    <string-array name="ArrayRes">
+        <item>Introduction</item>
+        <item>The Placenta - carries life to your baby:</item>
+        <item>Healthy diet - what does it mean?</item>
+        <item>Food Groups</item>
+        <item>What about multivitamin supplements?</item>
+        <item>What about fluids?</item>
+        <item>Some substances may harm your baby</item>
+        <item>How much weight do you gain during pregnancy?</item>
+        <item>How to cope with the food-related problems during pregnancy</item>
+        <item>Guidelines for successful breastfeeding</item>
+        <item>Healthy eating for women who are breastfeeding</item>
+        <item>Tips on food safety and preparation</item>
+    </string-array>
+    <string-array name="Pill">
+        <item>Folic acid</item>
+        <item>Prenatal vitamins</item>
+        <item>Progesterone</item>
+        <item>Antacids</item>
+        <item>Aspirin</item>
+        <item>Vitamin C</item>
+        <item>Vitamin B6</item>
+    </string-array>
+    <string-array name="ArrayList">
+        <item>Shampoo/conditioner/shower gel</item>
+        <item>Shower puff</item>
+        <item>Towels</item>
+        <item>Clothes</item>
+        <item>A book to read (maybe a breastfeeding book)</item>
+        <item>A pen/notebook</item>
+        <item>Your own pillow</item>
+        <item>Nice clothes to wear home/wear in photos</item>
+        <item>Moisturiser</item>
+        <item>Posh toilet paper/flushable wipes (hospital toilet paper can be rough, post-birth)</item>
+        <item>Maternity pads</item>
+        <item>Cheap pack of black undies/mens undies</item>
+        <item>Pyjamas/nighties - ones with easy access for breastfeeding</item>
+        <item>Ural - will help take the sting out of your pee</item>
+        <item>Ear plugs</item>
+        <item>Hairbrush</item>
+        <item>Maternity bra</item>
+        <item>Snacks/lollies/chocolate/fruit drink (poppers), muesli bars</item>
+        <item>Dressing gown</item>
+        <item>Slippers</item>
+        <item>Nursing pads</item>
+        <item>Spare change</item>
+        <item>"Nice clothes that make you feel good, don't dig around your waist and are easy to breastfeed in"</item>
+        <item>Toothbrush</item>
+        <item>Toothpaste</item>
+        <item>Makeup</item>
+        <item>Slippers</item>
+        <item>Deodorant</item>
+        <item>Plastic bags for dirty clothes (for you and bub)</item>
+        <item>Maternity shirts (you wont shrink back down to your old size overnight!)</item>
+        <item>Nappies</item>
+        <item>Singlets x 3</item>
+        <item>Grosuits x 3 (at least) - in at least two sizes!! take some 0000 clothes and some 000 even a 00000 if you like, that way whatever size bub is they will have something to wear</item>
+        <item>Beanies</item>
+        <item>Mittens</item>
+        <item>Blankets/bunny rugs</item>
+        <item>Nice going-home outfit for bub</item>
+        <item>Muslin wrap</item>
+        <item>Socks</item>
+        <item>A dummy (just in case, washed and sterilised)</item>
+        <item>Big tub of wipes</item>
+    </string-array>
+    <string-array name="ArrayBaby">
+        <item>While this is technically considered the first week of your pregnancy, baby is still only an egg in your ovary. Your baby is still about two weeks shy of her conception date, but your body knows to prepare for her.</item>
+        <item>"Fertilization of your egg by the sperm will only take place near the end of this week. 
+ Your baby's gender will be determined at the moment of fertilization. Out of the 46 chromosomes that make up a baby's genetic material, only two \u0097 one from the sperm and one from the egg \u0097 determine the baby's sex. These are known as the sex chromosomes. Every egg has an X sex chromosome; a sperm can have either an X or a Y sex chromosome. If the sperm that fertilizes your egg has an X chromosome, you'll have a girl; if it has a Y chromosome, your baby will be a boy."</item>
+        <item>This week starts with what is probably one of the most momentous events in your pregnancy: implantation. Once safely implanted, the little ball of cells will split in two. One part will become the embryo and the other part will form the placenta. The embryo and your uterine lining will start working together to create an intricate network of blood vessels to supply oxygen and food to the newly forming placenta and the embryo itself.</item>
+        <item>By the end of your fourth week your baby is an embryo. This group of embryonic cells is growing at a very rapid pace, each cell dividing daily. By the fourth week of pregnancy your developing baby is about 1mm in length and looks like a tiny tadpole, safely attached to your uterine wall and sending hormones to your body. The placenta is beginning to form and many wonderful and exciting changes are about to take place.</item>
+        <item>"Baby's still just an embryo, but it's growing more furiously and changing more rapidly than it will at any other time in its life! Your baby's forming a C shape, sort of like elbow macaroni. This tiny tube-shaped being already has a head, back, front, and... tail. The baby's tiny heart has already formed, and will have started to beat (though these heart contractions won't become regular for a few more weeks). Your baby's neural tube has formed. The baby's spinal cord and brain are beginning to form, as are key organs - including the lungs, liver, and pancreas - and the placenta, which that will supply your baby with oxygen and nourishment."</item>
+        <item>"Baby's crown to rump length is 4-6 mm (about the size of a sweet pea). Baby weighs about 0.4 grams. Baby's eyes, ears, lips, tongue, and mouth are forming now. Your baby's brain and cranial nerves are forming. Your baby's heart is beating now. You may be able to see this on an ultrasound now."</item>
+        <item>"This week your baby is undergoing some extraordinary changes and developments. Early in week 7, the embryo still looks like a tadpole, but by the end of the week it will have transformed into a tiny being that's distinctly human-like. Its body is continuing to lengthen, the arms begin to bend at the elbows and curve around the heart, which is beating even more rhythmically now. By the end of this week the embryo's whole skeleton\u0097made of bendable cartilage, like a shark\u0097will be fully formed. (To be replaced by bone soon enough.) The baby has a digestive system now, as well as kidneys, liver, heart, spleen, and even an appendix. Your placenta has sprouted hundreds of minute hair-like projections (called villi), making it look like a fuzzy ball. The villi have the important job of carrying nutrients and oxygen from your bloodstream to your growing baby. Your baby is about 7 - 9 mm or 0.27 - 0.35 inches in length, (approximately the size of a grain of rice), and weighs about 1/30 of an ounce. In your womb, your baby has already become active swimming around inside the amniotic sac and kicking. However, as he's much too small and well-cushioned by the uterus and the new amniotic fluid you won't be able to feel him yet. But don't worry. In a few months you'll be able to feel him constantly."</item>
+        <item>"Your baby has a face! Your baby's features are becoming more obvious, as his lips, tongue and nostrils, as well as the buds for 20 baby teeth are already present. The back muscles are growing along the spinal column, and his or her reproductive organs have started to form and soon will become either testes or ovaries. The arms and legs are growing and elbows and knees appear as well. The fingers and toes are starting to show but are still webbed. Your baby is about 8 - 11 mm or 0.31 - 0.43 inches in length. Your baby is starting to show signs of reflex activity - an automatic response to certain types of stimuli."</item>
+        <item>"Your baby looks like a human now - albeit a tiny human - approximately 13 - 17 mm or about 0.51 - 0.66 inches in length (about the size of a raspberry). At this point, he weighs approximately 1 - 1.5 grams (about the weight of a paperclip). During your 9th week of pregnancy, your baby is busy growing. Her face looks more baby-like each day\u0097her eyes are developed but concealed, and her nose, lips, and ears are becoming more defined. She's also starting to exercise her expanding muscles. Her fingers and toes are looking less like stubs. The skeleton has begun to form as cartilage and bones take shape. The baby's intestine has begun to move out of the umbilical cord into the baby's abdomen and your baby is now taking his first few drinks - he's drinking amniotic fluid. Reflex muscle movements continue and now your baby will move away if touched through the uterine wall. Other changes in your baby are the heart valve formation, the retina formation, and the tip of the nose becoming visible."</item>
+        <item>"Week 10 marks a milestone for your baby-to-be. All of your baby's organ systems are present now. Your baby's facial features are formed now. Your baby's eyes are open most of the time but the eyelids are beginning to fuse - they will stay that way until you reach approximately 25 to 27 weeks. The external genitalia are beginning to show your baby's gender and both the external ears and upper lip are completely formed now. Your baby's biggest accomplishment this week is the disappearance of the tail! His heart is beating approximately 160-170 beats per minute. Baby's crown to rump length is 2.5-3.0 cm. (about the size of a prune). Your baby weighs about 3-5 grams. Your baby will become much more active than before, but unfortunately, his movements are still too small for you to notice."</item>
+        <item>"From this week until week 20, your baby will be growing rapidly. Baby's crown to rump length is 3-5 cm. Your baby weighs about 8 grams. To accommodate all this growth, the blood vessels in the placenta are increasing in both size and number to provide the baby with more nutrients. Your baby is beginning to grow soft nails on her fingers and toes. Your baby's bladder sac is formed and her intestines are forming now. Facial development continues as the ears move toward their final position on the sides of the head. Although your baby's reproductive organs are developing rapidly, the external genitals of boys and girls appear somewhat similar until the end of week 11. They will be clearly differentiated by week 14."</item>
+        <item>"Your baby's brain continues to develop. Vocal cords are formed this week, which is the last of your first trimester. Your baby's kidneys are functioning! After swallowing amniotic fluid, your baby will now be able to pass it out of the body as urine. And the intestines will make their way into the abdomen, since there is room for them now. Baby's crown to rump length is 5-6 cm. (about the size of a plum). Your baby weighs about 14 grams."</item>
+        <item>"Week 13 marks a milestone for your baby-to-be. Developmentally speaking she's no longer an embryo, but a fetus. The liver begins to secrete bile and the pancreas is even secreting insulin! All twenty teeth have formed and are waiting under the gums, while your baby has begun to practice swallowing by taking in the surrounding amniotic fluid and passing it back in his urine. Your baby can smile and his vocal cords are quickly developing, too. He looks more and more human as his eyes move closer together and the ears are beginning to move to what will be their normal positions. Baby's crown to rump length is around 7-9 cm. (about the size of a peach). Your baby weighs about 35 grams. Your baby's intestines which were forming outside your baby's body have now moved into the abdomen."</item>
+        <item>"Your baby's body systems are starting to work on their own. Your baby has tiny, soft nails on his fingers and toes, is growing hair and may even suck his thumb. Your baby now has fingerprints! The hands are becoming functional and reflex movements often occur. The joints and muscles allow your baby full body movement so your baby is able to move around. Your baby is beginning to breathe and swallow amniotic fluid now. This helps to support the development of your baby's lungs and digestive system. Your baby has meconium in her intestines now. Meconium is your baby's first stool. It is made up of amniotic fluid, bile, and shed skin cells. The baby's neck is getting longer and his chin is no longer resting on his chest. Baby's crown to rump length is 9-10 cm. (about the size of a lemon). Your baby weighs about 50 grams."</item>
+        <item>"Rapid growth of your baby continues at this point. His eyes and ears finally look like real baby features now. Although baby's eyes are sealed shut, he's now able to sense light. As your baby practices sucking and swallowing actions, he may actually hiccup. Your baby is also beginning to grow lanugo, a very fine hair. It will keep growing until around the 26th gestational week of pregnancy Baby's crown to rump length is around 10-11 cm. Your baby weighs about 100 grams. Your baby's sex organs are distinguishable now."</item>
+        <item>"By week 16, your baby-to-be's body is doing more to support itself. Her kidneys function and produce urine that then passes through the umbilical cord. Within her stomach, bile is secreted, although she relies on you for all of her nutrients. Your baby's circulatory system is functional now. Her sweat glands are forming now. Your baby also has toe nails and finger nails now. Her developing facial muscles make it possible for her to open and close her mouth, maybe even give you a smile or two. This week, your little one is around 4.5 inches long (crown to rump). Baby is about the size of an avocado. Your baby weighs about 100-150 grams."</item>
+        <item>"Your baby is forming enamel on her teeth now. Your baby is beginning to develop fat underneath her skin now. Around this time your baby's ears pop from his head and Baby-to-be can now sense sounds. He's accustomed to the strong beating of your heart, blood rushing through your veins, and your stomach grumbling. He can also discern sounds outside the uterus, like your voice and music. Baby's crown to rump length is around 13.5 cm. (about the size of an onion). Your baby weighs about 150-200 grams."</item>
+        <item>"The pads of your baby's finger tips and toes are forming. Your baby may become more active for certain sounds, and you'll feel her movements. At this point in her development she's still small enough that she has plenty of room to wiggle. Your baby can kick, swallow, and sleep. If the baby is a boy, the prostate will begin to develop this week as well. The skin is still a bit pink and transparent and his ears still stick out from his head. Baby's crown to rump length is around 15 cm. Your baby weighs about 250 grams."</item>
+        <item>"This is an impressive week for growth! Your baby's skin is becoming less transparent looking. Your baby's permanent teeth buds are forming now. Lanugo (a covering of fine soft hair) appears all over the baby's body. This fine hair will remain until birth draws nearer. Also apparent is vernix, a milky white covering that protects your baby's skin from its aquatic environment. If you are having a girl, her ovaries now contain primitive egg cells Baby's crown to rump length is around 16 cm. (about the size of a mango). Your baby weighs about 300 grams."</item>
+        <item>"Over the last four weeks, your baby has grown an incredible amount, and has just about quadrupled his weight. He's big enough that you should be feeling fluttering or quickening quite regularly now. In fact, from his movements you may be able to tell if your baby is awake or asleep. All the organs and structures of your baby's body are formed and your baby is now entering a period of simple growth. Lanugo (the fine hair) covers your baby's whole body, and hair on his scalp is beginning to grow. Baby's crown to rump length is around 18 cm. (about the size of a pomegranate). Your baby weighs about 300-350 grams."</item>
+        <item>"Until now your baby's liver and spleen have been responsible for the production of blood cells. But now the bone marrow spaces are developed enough to contribute to blood cell formation as well, and bone marrow will become the major site of blood cell production in the third trimester and after birth. Your baby's eye lashes and eye brows are growing now. You may notice your baby kicks more often during certain times of day. When you don't feel her moving around she may be napping. Baby's crown to rump length is around 19 cm. (about the size of a banana). Your baby weighs about 350-425 grams."</item>
+        <item>"Taste buds have started to form on the tongue, and the brain and nerve endings are formed enough so that the fetus can feel touch. Your baby may experiment with this newfound sense of touch by stroking his or her face or sucking on a thumb, as well as feeling other body parts and seeing how they move. In boys, the testes have begun to descend from the abdomen, and in girls, the uterus and ovaries are in place and the vagina is developed. Baby's crown to rump length is around 20 cm. (about the size of a papaya)."</item>
+        <item>"Even if your bowels aren't quite regular these days, your baby may be settling into a regular routine\u0097 more active at night, for instance, while quieter during the day. All of her internal systems are in place, even if they do need more time to mature. Her vestibular system\u0097the area in the brain responsible for sensing movement\u0097is one of the first parts of the brain to mature and it is already actively sensing all your movements. Your baby's lungs are developing. Alveoli are forming inside of your baby's lungs. Even though fat is beginning to accumulate on your baby's body, the skin still hangs loosely, giving your baby a wrinkled appearance. Your baby has also developed a hand grip reflex and startle reflex now. Baby's crown to rump length is around 21 cm. (about the size of a grapefruit). Your baby weighs about 500-600 grams. If preterm labor and delivery were to occur this week, a baby could survive with expert medical care."</item>
+        <item>In your 24th week of pregnancy, your baby is filling out. His face has formed, ears are in place, and eyes are complete (although his lids are still closed). He has eyelashes, fingernails, and may be growing hair Babies born this early can survive but they need a lot of intensive care.</item>
+        <item>"Most of your baby's vital organs are formed and in place. Your baby-to-be's lungs are developing rapidly, although she'd probably need a little help breathing if she were born at this point. Her respiratory system continues to develop, her nostrils are open, and she can breathe. Your baby's skin is gradually becoming less transparent. Your baby is becoming more aware of how she can move—she's wiggling her fingers and toes! Your baby is growing by leaps and bounds, reaching nine inches in length and passing the pound and a half mark."</item>
+        <item>"During your 26th week of pregnancy, your baby-to-be opens her eyes for the first time. She'll open and shut her eyes as she gets used to her new ability. Your little one is still on the small side. Her body may look fully formed on the outside, but inside there's fine-tuning taking place, including her lungs and her brain. Her brain is more developed and sophisticated. She now weighs a full two pounds and measures nine-plus inches. Your growing baby now measures around 14.02 inches (35.6cm) and weighs about 1.68 pounds (760g)."</item>
+        <item>"This week is the beginning of your third trimester. Your baby's lungs are developed but immature. To prepare them for life on the outside, your baby breathes in amniotic fluid. This is thought to bring on hiccups - you'll feel them as rhythmic taps in your tummy. Added layers of fat are continuing to form. These layers will help your baby regulate his temperature once outside the womb and help keep him warm. Every fetus has its most active times. During his active periods, your baby should move 10 times an hour. Choose an hour, and mark each movement on a piece of paper. Your baby now weighs 1.93 pounds (875g) and measures from head to toe at around 14.41 inches (36.6cm)."</item>
+        <item>"Your baby's eyes are now open and its skin is taking on a flesh colour. Your baby's bones will be hardening too and the lanugo will be starting to disappear. Your baby will be weighing in at around 2.22 pounds (1.005kg) and measuring 14.80 inches (37.6cm). Just to think, about 11 weeks ago your baby only weighed in at around 5.35 ounces (100g)!"</item>
+        <item>Muscle tone is gradually improving. The lungs are capable of breathing air but if the baby is born now, it would struggle to properly breathe. Eyebrows and eyelashes are now present, and the hair on the head is growing. The eyelids open, and the eyes are completely formed. Your baby will be weighing in at around 2.54 pounds (1.153kg) and measuring 15.2 inches (38.6cm).</item>
+        <item>With more and more fat layers being laid down, your baby is looking a little plumper every day, bless. The early lanugo is disappearing, the eyelids open and close, and the toenails are growing. The bone marrow is now responsible for red blood cell production. Your baby is usually quite active already at this stage. Your baby will be weighing in at around 2.91 pounds (1.319kg) and measuring 15.71 inches (39.9cm).</item>
+        <item>"From this week on, your baby will continue to gain. Due to increasing space constraints, your baby's arms and legs stay drawn up close to the body now, known as the fetal position. Plus, your baby can now process information from all five senses. By now, your baby's lungs are the only system not fully mature. Your baby will be weighing in at around 3.31 pounds (1.502kg) and measuring 16.18 inches (41.1cm)."</item>
+        <item>"A baby born now has an excellent chance of survival, but will still need help with breathing and feeding. If you're feeling sudden, jerking movements, then your baby probably has the hiccups. As more and more fat accumulates under your baby's skin, she's becoming less transparent and more opaque. About this time your baby will settle into the head-down position in preparation for birth. Your baby will be weighing in at around 3.75 pounds (1.702kg) and measuring 16.69 inches (42.4cm)."</item>
+        <item>"From this time onward, it's more likely that your baby will settle in a particular position. Most babies are cephalic (head down) about now, but if yours isn't, don't worry, there's still time. The big news this week is lung development—baby's respiratory system is almost completely mature. Rapid brain growth has increased the baby's head size approximately 3/8 of an inch this week. Fat continues to accumulate which turns the baby's skin color from red to pink. If you talk to your baby, she can hear you. In fact, her world is full of sounds. In addition to your voice, she can hear your stomach growling and your lungs taking in air, along with the reassuring vibrations of your heart beating. The bones in your baby's skull are soft and are not yet fused together. The confined space restricts the babies movements somewhat so movement may not feel as intense but should be as frequent. Your baby will be weighing in at around 4.23 pounds (1.918kg) and measuring 17.20 inches (43.7cm)."</item>
+        <item>"Your baby's eyes are now open when awake, and closed when sleeping. Most of the lanugo is gone and replaced with a thick coat of vernix. Your unborn baby's muscles are maturing along with the rest of his body. He can hold his head up and turn it from side to side. He'll practice his newfound muscle tone by stretching out his arms and kicking his legs. The soft fur, lanugo, that covered your baby's body for much of her stay in the womb is now almost completely gone. Your baby begins to develop her own immune system, instead of relying solely on antibodies received through the placenta. Your baby will be weighing in at around 4.73 pounds (2.146kg) and measuring 17.72 inches (45cm)."</item>
+        <item>"At 35 weeks, your baby is considered full-term and she looks developed. The soft, fuzzy hairs that once covered her body begin to disappear. Your baby's fat stores and greasy skin coating - called vernix - are providing the insulation now. It's nice and snug in your womb now, so you may notice that your baby isn't moving around so much. You'll probably feel more of a squirm than a definite kick. If you are having a boy, then the testes should have completed their descent into the scrotum this week. Your baby will be weighing in at around 2.383kg (5.25 pounds) and measuring 46.2cm (18.19 inches). Should your baby be born this week, he/she will lose weight faster than a full term baby as the digestive tract is not yet completely developed to be self sufficient."</item>
+        <item>"Typically, your baby will enjoy resting with his head down and his rump toward your ribs—the ideal placement for delivery. Your baby's movements will become less frequent as he has less wiggle room. From now Baby's growth will be slow and steady as he continues to put on weight and fill out. Your baby is continuing to gain weight and will soon take up most of the space in your womb. Babies born at week 36 are usually small, but generally healthy. Your baby will be weighing in at around 2.622kg (5.78 pounds) and measuring 47.4cm (18.66 inches)."</item>
+        <item>"Congratulations! By the end of this week your pregnancy will be full term. Your baby may have snuggled down and become engaged in your pelvis by now - especially if it's your first baby. At this stage not all your baby's bones have ossified and this is an advantage to both you and your baby as it means that he/she will be more flexible during birth. Your baby will be weighing in at around 6.30 pounds (2.859kg) and measuring 19.13 inches (48.6cm). From the end of this week, your baby's growth rate will slow right down."</item>
+        <item>"Your baby is ready to greet the outside world, and you could give birth any day! Babies are considered term if they're born between weeks 38 and 40. Your baby is looking chubbier every day - this is because layers of fat are being stored to help your baby regulate its temperature when it finally enters the world. At this stage of your pregnancy your baby is gathering a lot of meconium in his/her intestines. This will then pass through the system as the first stool. Your baby will be weighing in at around 3.083kg (6.80 pounds) and measuring 49.8cm (19.61 inches)."</item>
+        <item>"In theory, this is your last week of pregnancy. But in reality, your pregnancy could take a little longer, as first babies tend to be later than 40 weeks. Movements from your baby are probably slowing right down now - there's just not enough space in there. The bones in your baby's skull are ready for birth. They can slide over each other and overlap, allowing the head to pass through the cervix. Your baby will continue to gain weight although it has slowed down. All the organ systems are now in place and capable of functioning on their own. Your baby will be weighing in at around 3.288kg (7.25 pounds) and measuring 50.7cm (19.96 inches)."</item>
+        <item>Your baby is now fully grown and ready for the world. Your baby has a thick layer of subcutaneous fat to draw on for its first few days of life after birth.</item>
+    </string-array>
+    <string-array name="ArrayBody">
+        <item>"This is the first week of your pregnancy,but you're not even pregnant yet! Yes, you heard that right. When your doctor calculates your due date, she will count 40 weeks from the first day of your last period. Your pregnancy begins about two weeks before the actual conception. Your body is working hard to gear up for the event that paves the way for the baby. The lining of your uterus is thickening, preparing for the arrival of a fertilized egg, while your ovarian follicles are maturing. After an egg leaves the ovary and travels through the fallopian tube, it's primed for fertilization. And your body readies itself for that possible pregnancy. If the egg is unfertilized, the uterus lining will shed (this is menstruation) so that the body can prepare for the next egg\u0097and the next potential pregnancy."</item>
+        <item>You may not have conceived yet, but your body is still preparing for a potential pregnancy. Every time you ovulate, the lining of the uterus thickens. Your uterine lining, which will nourish the baby, is developing, and your body secretes follicle-stimulating hormone (FSH), which stimulates an egg to mature. About 14 days after the first day of your last period, your body will ovulate. If you have sexual intercourse without protection around the time that you ovulate, you can become pregnant. After your partner ejaculates, millions of sperm travel through the vagina, and hundreds make it to the fallopian tube, where your egg is waiting. One sperm generally succeeds in penetrating the egg, and fertilization takes place. When that happens, you will be pregnant \u0097 although you will not be feeling any body changes just yet.</item>
+        <item>When your baby implants in your cushy uterine lining later in this week, you might notice a little bit of spotting. Some early pregnancy signs like bloating, cramps, breast tenderness, mood swings may feel more like those of your period. You may even experience the first twinges of morning sickness this week. Still, even with all these things going on inside of your body, you may be unaware of your pregnancy at 3 weeks.</item>
+        <item>Your next period is due around the end of your fourth week of pregnancy. This occurrence, or lack thereof, is many times the first symptom of pregnancy. Once implanted, your baby starts to produce a hormone called human chorionic gonadotropin (hCG), which helps to maintain the lining of the uterus. Some women experience slight cramping and spotting of blood during this week while implantation is taking place, and they may mistake this for a period, as it often occurs around the time their monthly period was due. This week a pregnancy test will probably be able to detect your pregnancy! hCG also causes the symptoms of pregnancy, which can appear this week.</item>
+        <item>"Although you've been pregnant for four weeks now, you probably just found out. Congrats! Your body's had all the early pregnancy signs \u0097 the missed period, nausea, tender breasts, frequent urination and fatigue. Morning sickness is very common during the first few weeks of pregnancy."</item>
+        <item>"You may be feeling super-tired or nauseous (or super-tired and nauseous\u0097lucky you!) and your boobs are most likely killing you. This is due to the myriad of hormones raging through your body at levels rivaling a teenage boy's. If you're feeling like you're living in a pregnancy-induced fog, try natural remedies for fatigue. Even though it's the last thing you want to hear right now, moderate exercise is a great way to help tackle exhaustion. Try short walks, gentle stretching or a prenatal yoga class to help boost your energy."</item>
+        <item>"You are seven weeks pregnant. You are half way through you first trimester. You probably haven't started showing yet but your clothes may be getting a little less comfortable. Pregnancy causes many changes in your cervix. By this week you'll have developed a mucous plug, which forms in the opening of the cervical canal and seals off the uterus for protection. You may be feeling tired still. Take naps during the day if you can. Some women notice changes in their hair and skin. If you have been vomiting three or more times a day or are losing weight rapidly (1 pound a week or more) you should call your doctor."</item>
+        <item>"You are eight weeks pregnant. Your clothes may be getting tight now. While your raspberry-sized babe isn't exactly causing you to show yet, chances are your clothes are feeling a little tight around the tummy and you might need a bigger bra. You may also be feeling perpetually queasy. You may be having problems with indigestion or heartburn. Try eating smaller meals or drinking a small glass of milk to help."</item>
+        <item>Your body is going through a multitude of changes. You could find yourself even more tired now than before. Your breasts may feel fuller or heavier now and may even be a bit sensitive. Morning sickness grabs all the attention, but fatigue is the real first sign of pregnancy.</item>
+        <item>"Here's what's happening with your body. Nausea. Morning sickness is common in pregnancy. Fatigue. Several factors contribute to fatigue in pregnancy. Your body's blood volume increases to deliver nutrients to your developing baby. That means your heart is working harder to pump blood. Relaxing ligaments. Your body prepares itself for delivering your baby from the beginning. A hormone called relaxin is released into your body to help loosen and stretch your ligaments. Over the next week you may notice your belly start to show. Your breasts may be looking fuller, your areolas may be darker. As your blood volume increases by 40-50 percent, you will begin to notice veins on your breasts, legs and tummy more easily. Don't worry. These usually subside shortly after delivery. You only have a couple weeks left and you will be out of the first trimester."</item>
+        <item>"You're almost done with your first trimester! Your uterus is around the size of a grapefruit now. You may be having less morning sickness now. You may still be having problems with headaches and fatigue. Your blood supply has increased to bring oxygen and nutrients throughout your body and especially to your unborn baby. Along with an increasing belly, you may have noticed the numbers on the scaling inching upwards."</item>
+        <item>This week is your last week in the first trimester. You may be feeling hungry all the time or if you are still having problems with morning sickness you may not be hungry at all. You may be finding yourself losing track of things or having difficulty concentrating. Pregnancy hormones and stress can cause you to be more easily distracted. If you are not getting enough sleep this may make things worse and also make you even more irritable.</item>
+        <item>"Welcome to your second trimester! This is the time when you will begin to feel pregnant. This is usually the most enjoyable and comfortable part of pregnancy as the feelings of sickness are ending (or soon will be) and your tummy is still small enough that it is not getting in the way or making you feel uncomfortable. Your morning sickness should be starting to subside, and miscarriage is less of a risk. Some of your aches and pains may finally be disappearing. You may notice that in place of nausea you're feeling hungry\u0097notorious pregnancy cravings often begin now. As your uterus continues to expand, chances are you're having some troubles with heartburn, indigestion, and flatulence, as well. You'll still need to take plenty of trips to the bathroom as your growing baby-to-be puts pressure on your bladder. You're also going to continue to feel tired\u0097unfortunately that's a constant during pregnancy."</item>
+        <item>"This week you may still be tired and fatigued, although your nausea is probably gone. As your stomach loses space, you'll likely have more heartburn, indigestion, and flatulence. Other changes may include the appearance of a dark line down the middle of your abdomen. Also, the areola may have gotten darker and larger. You may be experiencing some growing pains as your baby belly pushes your internal organs acide. You may be having difficulty sleeping. Sometimes women have problems with leg cramps when they are pregnant. Levels of hormones are becoming steady and the mood swings of the first trimester will slow. Your uterus is approximately the size of a grapefruit."</item>
+        <item>"Your belly grows day by day as your unborn baby gets bigger. Your regular clothes may begin to feel a little snug now so don't try to force your body into them. In your 15th week of pregnancy, your uterus is halfway between your pubic bone and belly button. As your bump grows, your internal organs are shifting positions to make room for your baby-to-be. As your belly grows outward, your whole center of gravity is thrown. You may start to notice your baby moving this week or it could be another three or four weeks."</item>
+        <item>In the coming weeks you should start to feel your baby move. However, if you have a thick or anterior uterus, are overweight, or this is your first pregnancy, you may not feel these first movements yet. As pregnancy hormones continue to pulse through your system to direct your body in baby production, you may experience headaches, dizziness, and even mood changes. As your blood volume increases it affects your estrogen level, and that leads to swelling of the nasal membranes, resulting in the stuffy nose or nosebleeds. You may be starting to notice more aches and pains from being pregnant. Your heart continues to increase the blood volume output to supply the baby with oxygen. Your enlarged heart is pumping about 20 percent more blood than it did before you were pregnant.</item>
+        <item>"Daily, your body's changing inside and out to accommodate your baby-to-be. Your body undergoes many changes to give your baby-to-be enough room to grow. You may be having more aches and pains now. You may be experiencing pain on the sides of your abdomen called round ligament pain. This is caused by your expanding uterus and your ligaments stretching. Your blood volume has increased dramatically to provide nutrients to your baby-to-be. This increase, along with swelling caused by pregnancy hormones, might make your gums bleed. As your abdominal muscles stretch to make room for your growing uterus, you may notice a dark line extending from your belly button to your vaginal area."</item>
+        <item>"You may notice your gums bleeding when you brush your teeth. This is a common complaint for pregnant moms. You may be getting light-headed, dizzy or even feel faint from time to time. This is normal and is only cause for concern if it happens frequently or severely. Thankfully, nausea is mostly likely a distant memory. If you don't start feeling your baby's flutter kick right away at 18 weeks, don't worry. Quickening happens at different times for different people."</item>
+        <item>"Your belly is getting rounder by the day. Your back and abdomen may be achy with the added weight. Pregnancy mask, dry itchy skin, and flaky skin are common in pregnancy and are due to hormonal changes. Don't worry, because after pregnancy your skin will return to whatever is normal for you. Your constant concern for your baby's health may give way to reassurance if you feel your baby's first movements, which often happens between weeks 18 and 20."</item>
+        <item>"You're halfway there! At night you may have difficulty sleeping or be troubled by nightmares. You may have shortness of breath when sleeping in certain positions. Your baby is pressing against your lungs and other organs, which may cause you to feel short of breath. By now you're feeling your unborn baby wiggle and kick\u0097which may be caused by your baby experiencing hiccups. Along with your progressing pregnancy, you may also notice more aches and pains. Your lower back and abdomen may be sore from your growing belly."</item>
+        <item>You are twenty-one weeks pregnant now. You may be wanting to get more prepared for your new baby. You have probably gained about ten or fifteen pounds by now and most people can probably tell that you are pregnant now. Exercise can be a great way to stay in shape during pregnancy and can even keep some symptoms \u0097 such as varicose veins, excessive weight gain, and backache \u0097 to a minimum.</item>
+        <item>"As your baby continues to grow and fill out, so will you. You're belly will become more prominent. You will probably continue to gain weight steadily now, but the majority of it is your baby, not you. If you haven't felt them already, you may soon notice your uterus practicing for delivery with irregular, painless contractions called Braxton Hicks contractions. You may feel a squeezing sensation in your abdomen. Your stomach will have less space to expand, meaning you may suffer heartburn and indigestion, especially at night. Slight swelling may make your shoes uncomfortable. Your back may also ache with the added weight of your baby bump."</item>
+        <item>"You may find yourself having (or starting) mood swings. Don't worry; these are normal and will subside either late in your third trimester or shortly after the birth of your baby. These mood swings are from the rising hormone levels as your body readies itself for delivery. Your regular doctor appointments will continue and he/she may palpate your abdomen. This palpation is the doctor's way of feeling the position of the baby. Your doctor will also continue the use of a tape measure to measure your fundal height (cm measured from the top of the pubic bone to the top of the uterus). Your fundus (top of your uterus) will be approximately one to one-and-a-half inches above your navel at this point."</item>
+        <item>"You may find tying your shoes and bending over are more difficult as your baby bump grows bigger. Your unborn baby's growth spurt means you may have itchiness and soreness as the skin stretches to make room. During pregnancy your hair's natural grow-shed cycle slows, leaving you with more hairs on your head at any given time. You may sometimes feel a stitch-like pain in your side. Don't worry, it's simply the muscles of your womb stretching - not contracting (which is what happens with Braxton-Hicks contractions)."</item>
+        <item>"Your growing baby-to-be puts added pressure on your bladder, which is working overtime along with the rest of your body to flush out any impurities in your blood supply, which jumps 50 percent during pregnancy. Don't be surprised if you have to wake up at least a couple of times in the night to use the bathroom. As your stomach is pushed up closer to your esophagus, you're more likely to experience heartburn. Pregnancy hormones, which tend to slow digestion, can also cause food to sit longer in your stomach. More than half of all pregnant women experience swollen, itchy veins in the rectum due to that big old uterus pressing down — as well as to increased blood flow to the area. And while they're not dangerous to your body, hemorrhoids can be downright painful — so try your best to avoid them by eating right (and avoiding constipation, which aggravates those pesky piles), doing pelvic-floor exercises (Kegel exercises), and trying not to strain when you poop. Have you noticed a difference in your skin? Sometimes it can itch where it's being stretched - moisturising baths and creams can help."</item>
+        <item>"Your uterus is about 2.36 inches (6cm) above your bellybutton or about 10.23 inches (26cm) from your pubic symphysis. In the second half of your pregnancy you will be growing nearly 0.39inches (1cm) each week and if you have been following a balanced, nutritious meal plan you would have put on a total of between 16 and 22 pounds (7.2 and 9.9kg). Your uterus is about 2 1/2 inches above your belly button. If you feel your uterus suddenly tighten and then relax, don't panic. You're experiencing Braxton Hicks Contractions. These are normal, usually painless or feel similar to menstrual cramps and happen at irregular intervals. They are your body's way of practicing for the real thing and help to tone up your uterus for the tough job of labor. Youre almost done with your second trimester! You may have noticed swelling in your face, hands, feet, and ankles. This swelling, called edema, happens as your body retains fluid to keep your blood volume high. With more blood flowing, your vessels are forced closer to the skins surface. Your tender gums may bleed when you brush your teeth."</item>
+        <item>Your uterus is about 2.75inches (7cm) above your bellybutton and more than 10.62 inches (27cm) above your pubic symphysis. As your baby bump expands, you may experience a few growing pains: Your skin may itch as it stretches. Meals may be smaller, but you may want to eat more often as your stomach has less room. Heartburn and indigestion can be frequent as your stomach is pushed up closer to your esophagus. And the added baby weight puts pressure on your bladder, meaning youre still visiting the bathroom often. In the weeks leading up to your babys birth you may feel Braxton Hicks contractions regularly. These false contractions, which feel like a tightening in the abdomen, give your uterus a slight workout.</item>
+        <item>"Your uterus may be well above your umbilicus by now. Added baby weight is taking its toll on your body. Chances are you're feeling aches and pains all over! Your feet, ankles, and hands may be swollen. Cramps may cause intense pain in your legs, especially at night, and it may be hard to find a comfortable sleeping position. You may also be experiencing false contractions (called Braxton Hicks) where your abdomen tightens, then relaxes. Your midwife will check your blood pressure and you'll be asked about swelling of your ankles, feet and hands - this is to rule out pre-eclampsia. If your blood is Rhesus negative, your blood will be checked for antibodies now. And treatment may be needed."</item>
+        <item>"Your uterus now sits about 2.75-3.93 inches (7.5-10cm) above your bellybutton and about 11.4 inches (29cm) above your pubic symphysis. Your total weight gain by this week should be around 18- 27 pounds (8.5-12.25kg). Your pregnancy is already entering its third trimester. Your uterus is around 3 inches above your navel; average weight gain is between 17 and 24 pounds at this point. As your baby-to-be grows bigger, you may find your pregnancy pains increasing. By the end of the day your back aches and your feet become swollen. Frequent potty breaks are probably becoming a nuisance as your wiggly baby presses down on your bladder. It is also a good time to start working with your birth support partner or healthcare team to plan your birth. As part of your preparations, it's not too early to begin perineal massage to help prevent an episiotomy or tearing during delivery."</item>
+        <item>"Your uterus now sits about 4 inches (10 cm) above your bellybutton and about 12 inches (23cm) above your pubic symphysis. You may be having some trouble sleeping now. The best sleeping position for a pregnant woman is on her left side. As your baby-to-be crowds your internal organs you may experience more heartburn, indigestion, and flatulence. Breathing may be more difficult as your lungs have less room to expand. Swelling can become a real problem late in pregnancy. Your body retains water to supply your increased blood production. You may find your face, ankles, and fingers swell to the point your shoes don't fit and your rings won't go on. As your baby-to-be continues to grow, the pressure on your bladder will too, meaning your potty breaks will keep increasing until your baby's birth."</item>
+        <item>"Your uterus now sits about 4.33 inches (11 cm) above your bellybutton and about 12.20 inches (31cm) above your pubic symphysis. Your weight gain should be at around 20.94-26.78 pounds (9.45-12.15kg) already. Your body is already making preparations. One of the ways it's getting ready is by practicing for labor in the form of Braxton Hicks contractions. Braxton Hicks contractions feel like a sudden tightening of your uterus. This is just a little preview of what real contractions will feel like. They usually start to become noticeable around the eighth month and can become very strong by the end of your pregnancy. Your uterus is about 4.4 inches above your bellybutton and continues to get larger. An average weight gain at this point is between 21 and 27 pounds. The weight that you gain is made up of your baby, placenta, blood supply, uterus, breasts, fat, water storage and amniotic fluid. Many women get heartburn during these last few weeks of pregnancy because the oversized uterus leaves less room for the stomach and the contents within the stomach. Eating smaller, more frequent meals can help relieve the discomforts of heartburn."</item>
+        <item>"Your uterus now sits about 4.72 inches (12cm) above your bellybutton and about 12.59 inches (32cm) above your pubic symphysis. Your uterus is measuring about 5 inches above your navel and is pushing your organs every which way causing heartburn, constipation, indigestion and breathlessness. Your hips are spreading and your pelvic ligaments are stretching. Braxton Hicks contractions are probably getting stronger. You'll probably gain about a pound a week for the next few weeks, with half of that poundage bulking up baby. Up until now, you've been seeing your doctor about once a month. Now you'll start seeing her every two weeks."</item>
+        <item>"Your uterus now sits about 5.11 inches (13cm) above your bellybutton and about 12.99 inches (33cm) above your pubic symphysis. Your total weight gain by now should be about 21.82-27.77 pounds (9.9-12.6 kg). You'll be gaining about a pound a week. Mild edema is normal but if you experience severe headache; seeing spots or flashing lights while at rest; sudden increase in swelling, such as over 2-3 days, especially of the face; abdominal pain; and nausea, vomiting, and feeling sick, contact your caregiver immediately. With delivery day quickly approaching, you may already be feeling some false contractions, called Braxton Hicks. At times, you may notice your abdomen tighten and then relax. Your appetite may be decreasing as your stomach is cramped for space. At about this point you have probably begun to obsess over labor and delivery. Now would be a good time to decide who you want in the labor and delivery room with you."</item>
+        <item>"Your uterus now sits about 5.51 inches (14cm) above your bellybutton and about 13.38 inches (34cm) above your pubic symphysis. You've probably felt some Braxton Hicks contractions for the past several weeks but they may intensify now. They are usually painless and non-rhythmical. These are preparing your body for the real thing. By now you're getting used to the backaches, leg cramps, and other pains that come with the final weeks of pregnancy. You may also experience swelling in your ankles and feet, and sometimes in your face and hands. A brisk walk every day will help maintain your fitness levels, as well as relieve any backache or cramps. If you've made a birth plan, it might help to look at it again and make sure you're still happy with your choices. Have you started packing your birth bag? It's not too early - make sure you pack some snacks to keep you going during labour."</item>
+        <item>"If you have not yet dropped (your baby has moved down into the birth canal) your uterus should now sit about 5.90 inches (15cm) above your bellybutton and about 13.79 inches (35cm) above your pubic symphysis. Your weight gain up to this point of your pregnancy should be around 23.8-28.6 pounds (10.8-13kg). Today your uterus is the size of a small watermelon and reaches all the way up to your ribs. Nearly 1/6 of your body's total blood volume is chugging around in the vessels in your uterus. This week, your body may start prepping for delivery day by flexing its muscles — literally. If you feel your uterus bunching or hardening periodically, those are practice contractions, otherwise known as Braxton Hicks. These rehearsals (typically experienced earlier and with more intensity in women who've been pregnant before) feel like a tightening sensation that begins at the top of your uterus and then spreads downward, lasting from 15 to 30 seconds (though they can sometimes last two minutes or more). If you haven't already started preparing for the birth of your baby, then now is the time to start doing so."</item>
+        <item>"If you have not yet dropped (your baby has moved down into the birth canal) your uterus should now sit about 5.51 inches (14cm) above your bellybutton and about 14.17inches (36cm) above your pubic symphysis. Your weight gain should be around 24.8-29.76 pounds (11.25-13.5kg) by this week. From now onward your body is going to become more efficient at converting stored nutrition into energy. It is also not uncommon for pregnant women to lose some weight from this point forward as a result of this. Your developing baby is going to place more strain on your circulatory system, and at the moment about one sixth of your total blood volume is contained within the blood vessels in the uterus. Had Braxton-Hicks yet? These are practice contractions - not labour. Braxton Hicks differ from labour because they're not usually painful (thankfully) and don't get longer and more intense over time. You'll know when you're in labour because your contractions will become painful and happen at regular and increasingly shorter intervals, becoming longer and stronger in intensity."</item>
+        <item>"Your uterus now sits about 6.2-6.69 inches (16-17cm) above your bellybutton and about 14.56 inches (37cm) above your pubic symphysis. Your total weight gain should be about 24.9-35.05 pounds (11.3-15.9kg) by this week. You're one week shy of full-term status. Your once small baby bump is now the size of a basketball—or bigger. Your internal organs are cramped as they make room for your nearly full-sized baby. Heartburn, indigestion, and flatulence may be constant problems as your stomach has less room to hold in, and digest, your food. You're probably finding it difficult to move, walk, and sleep now that your baby is almost ready to be born. Now you're getting closer to your due date, make sure you're prepared. 85% of all babies are born within 2 weeks of their due dates - either early or late. You will be entering this period next week, but now would be a good time to begin getting familiar with the signs and symptoms of labor as well as the different stages of labor."</item>
+        <item>"Your uterus now sits about 16-17cm above your bellybutton and about 37cm above your pubic symphysis. Most women don't grow much more in the last few weeks of their pregnancy. Your weight usually remains stable in the last two to three weeks of pregnancy. So if your bump has been making your back and feet ache - there's not long to go now. These last few weeks of pregnancy can be so hard; you're deep in the waiting game! Braxton Hicks contractions are more frequent and intense. You may experience false contractions off and on throughout the day. Inside your body, your cervix is readying for delivery. You may notice clear to white vaginal discharge, sometimes streaked with blood, as your cervix thins (or effaces)."</item>
+        <item>Your uterus now sits about 16-20cm above your bellybutton and about 36-40cm above your pubic symphysis. Your body is making its final preparations for birth. Your cervix is softening, or ripening and any day now you could have a show. This is the mucus plug which keeps your cervix sealed, it comes away in the days before labour. Many women lose their mucus plug a week or two before delivery. One week to go—although doctors already consider you full-term, so you could have your baby anytime.</item>
+        <item>"So, you're 40 weeks pregnant and seeing no signs of labor yet? Patience! It'll happen! Your big day is almost here... it won't be long before your newborn baby's in your arms. But if you're still waiting come the end of the week, don't worry, only a small percentage of babies arrive on their due date."</item>
+    </string-array>
+    <string-array name="names">
+        <item>How your weight affects your fertility</item>
+        <item>What is a healthy diet during pregnancy?</item>
+        <item>Weight gain in pregnancy</item>
+        <item>Nutrients for pregnancy</item>
+        <item>Healthy start vouchers</item>
+        <item>Food poisoning during pregnancy</item>
+        <item>Foods to avoid during pregnancy</item>
+        <item>Pregnancy sickness</item>
+        <item>Cravings and aversions in pregnancy</item>
+        <item>Heartburn and constipation in pregnancy</item>
+        <item>Vegetarians and vegan diets during pregnancy</item>
+        <item>"Your partner's weight"</item>
+    </string-array>
+    <string-array name="tonames">
+        <item>"If you're very underweight, it can be more difficult to conceive. Being very overweight may also cause problems, especially if you also suffer from polycystic ovary syndrome. Being overweight and pregnant also increases the risk of complications during pregnancy, birth and in the few days after the birth. 
+
+ The ideal weight range is usually calculated using the body mass index (BMI). A BMI of between 18.5 to 25 is a healthy weight for most people and associated with relatively low risks. For people with a BMI over 30, even a small weight loss can greatly increase your ability to conceive and have a healthy pregnancy. 
+
+ So, take steps either to lose or gain weight in a sensible and sustainable way before you become pregnant. Crash dieting is not good for your health, and limiting your r ange of foods may mean you go short of important nutrients. If you're concerned about your weight, you may find it useful to speak to your doctor or practice nurse for further advice. They can refer you if necessary to a specialist dietitian."</item>
+        <item>"With a few exceptions, you can continue to eat normally before and during pregnancy. A healthy diet includes regular meals and snacks, and a healthy eating regime contains: 
+
+ Plenty of starchy carbohydrates - bread, rice, pasta, breakfast cereals, chapattis, couscous and potatoes.
+ Plenty of fruit and vegetables - at least five portions a day.
+ Low or reduced fat dairy products such as milk, yoghurt, fromage frais and pasteurised cheeses.
+ Lean sources of protein, such as meat, poultry, fish, eggs (well-cooked), beans and pulses.
+ Not too many fat-rich and sugary foods.
+ At least eight medium glasses of fluid each day.
+ Very little or no alcohol.
+
+ he digestive system in pregnant women changes and becomes more efficient at absorbing certain nutrients. In fact, with only a few exceptions, most of the additional nutrient needs of pregnancy can be met by eating a well-balanced and varied diet. You dont normally need to eat larger quantities of food."</item>
+        <item>"Optimum weight gain in pregnancy depends on your pre-pregnancy weight. The baby and amniotic fluid are only a small part of the weight gain; the rest is an increase in the mother's fat stores which provide an energy reserve for later breastfeeding. 
+
+ There are no specific recommendations for pregnancy weight gain in the UK."</item>
+        <item>" "&lt;b>Energy&lt;/b>"
+
+ Most of the extra calories needed in pregnancy are required in the last three months Its estimated you need around 300 kcals extra each day. If you're less active during the last three months of pregnancy, this may mean you need very little extra food, because youre not expending as much energy. If you continue to stay active, a snack of a couple of slices of toast with spread and a glass of milk or a yoghurt may be all you need.
+
+ "&lt;b>Protein&lt;/b>"
+
+ Most people eat more than enough protein so there's no need to increase your protein intake. Try to follow healthy eating principles and include some lean meat, fish or poultry, dairy products, grains, nuts and pulses in your meals. "&lt;b>Fibre&lt;/b>"
+
+ It's particularly important to eat more fibre in pregnancy to avoid the common niggles of constipation and piles (haemorrhoids). Increase your fibre intake by eating fruit and vegetables, wholemeal bread and cereals, brown rice, wholemeal pasta and pulses. You should also drink more fluids because increasing fibre intake without enough liquid can make constipation worse. "&lt;b>Folic acid&lt;/b>"
+
+ Mothers who lack sufficient folic acid before conception and in early pregnancy are at increased risk of having a baby with a neural tube defect (NTD), such as spina bifida. 
+
+ From the moment you start trying to conceive until the end of week 12 of your pregnancy, you should take a daily 400 microgram supplement of folic acid. Women with a history of NTDs should be prescribed a 5mg supplement.
+
+ These supplements should be in addition to dietary intake, which should be about 200 micrograms per day. You can boost your folic acid intake by choosing foods such as: 
+
+ Green leafy vegetables - cabbage, broccoli, spinach, Brussels sprouts, spring greens, kale, okra and fresh peas.
+ Pulses - chickpeas, black-eyed beans and lentils
+ Fortified breakfast cereals. 
+ Wholemeal and wholegrain breads and rolls or those fortified with folic acid.
+
+ Folic acid is easily lost during cooking, so steam vegetables or cook in only a little water for a short time to retain as much goodness as possible. Supermarkets and food manufacturers often identify good sources of folic acid with a special label. Look out for these next time you go shopping. "&lt;b>Iron&lt;/b>"
+
+ Your iron levels will be measured throughout pregnancy, and if theyre found to be low you'll be prescribed an iron supplement. Pregnant women should try to maintain a good iron intake from their diet to obtain the other nutrients in these foods. 
+
+ Good sources of iron can be split into two categories: meat-based (haem) and plant-based (non-haem). The body doesn't absorb iron from non-meat foods as easily as it does from meat sources. However, you can enhance iron absorption by including a source of vitamin C with your meal. Tannins found in black tea reduce the absorption. So, it's better to have a glass of orange juice with your bowl of cereal in the morning rather than a cup of tea.
+
+ "&lt;b>Vitamin A&lt;/b>"
+
+ Too much vitamin A can build up in the liver and harm an unborn baby. So, although liver and liver products, such as paté and liver sausage, are good sources of iron, their high concentrations of vitamin A have led the UK Department of Health to advise pregnant women and women trying to conceive to avoid liver and liver products. 
+
+ Some vitamin supplements and fish liver oil supplements are high in vitamin A, so always choose a specially prepared pregnancy supplement if you take one.
+
+ "&lt;b>Vitamin C&lt;/b>"
+
+ Eat plenty of vitamin C-rich foods to help you use iron effectivelyGood sources include citrus fruits (oranges, tangerines, grapefruit and lemons), blackcurrants, strawberries, kiwi fruit, peppers, tomatoes and green leafy vegetables. Aim to eat at least five portions of fruit and vegetables every day; a drink of fruit or vegetable juice counts as one portion.
+
+ "&lt;b>Vitamin D&lt;/b>"
+
+ Vitamin D is essential for forming and maintaining healthy bones and teeth. It's found in only a few foods, including fortified margarines and reduced-fat spreads, some fortified breakfast cereals, oily fish and meat. A small amount can also be found in milk and eggs. The body also makes vitamin D when the skin is exposed to sunlight. 
+
+ Current recommendations are that pregnant women should take a 10 microgram supplement of vitamin D every day. Pregnant and breastfeeding women with dark skin, or those who always cover their skin, are at particular risk of a vitamin D deficiency.
+
+ "&lt;b>Calcium&lt;/b>"
+
+ Your needs for calcium double during pregnancy, and are particularly high during the last ten weeks when calcium is being laid down in your baby's bones. Your body adapts to absorb more calcium from foods eaten, so you don’t actually need to eat more of it in late pregnancy, as long as it's present in your diet anyway. 
+
+ Continue to ensure your diet has milk and dairy foods such as cheese, yoghurt and fromage frais. Official advice is to have three servings every day – and typical servings include a glass of milk, milk with cereal, a small matchbox size chunk of hard cheese or a small pot of yoghurt (125g to 150g). Other sources of calcium include bread, green vegetables, canned fish with soft, edible bones (salmon, sardines and pilchards), dried apricots, sesame seeds, tofu, fortified orange juice and fortified soya milk."</item>
+        <item>"If you're pregnant and on a low income, or claim income support, you're entitled to 'Healthy Start' vouchers to exchange for foods such as milk and fresh fruit and vegetables. You can also claim to get free vitamin supplements. Speak to your midwife or health visitor."</item>
+        <item>"Food poisoning can be dangerous to your unborn baby, especially in the case of listeriosis and toxoplasmosis. 
+
+ If you follow the guidelines below, your risk of food poisoning will be low. 
+
+ Always wash your hands before preparing food.
+ Keep kitchen surfaces, cooking utensils and tea towels scrupulously clean.
+ Store cooked and ready-to-eat food in separate containers and shelves in the fridge; don't let juices from raw or thawing meat or fish drip on to other foods.
+ Use separate chopping boards for preparing meat or poultry, and fruit and vegetables.
+ Wash fruit and vegetables thoroughly to remove dirt and soil.
+ Never eat food that has passed its use-by date.
+ Cook food thoroughly and according to manufacturers instructions.
+ Cool leftover food quickly and use within 24 hours.
+ Wash your hands carefully after touching any animals.
+ Avoid cat litter trays - if you need to touch them, wear gloves."</item>
+        <item>"In pregnancy, avoid the foods known to increase the risk of developing food poisoning. These include: 
+
+ "&lt;b>Cheeses&lt;/b>" such as camembert, brie or others that have a similar soft rind. You should also avoid blue-veined cheeses such as stilton. All of these cheeses can contain listeria, a type of bacteria which can be harmful to your unborn baby. There's no risk associated with hard cheeses such as cheddar or with cottage cheese, processed cheese or cheese spread.
+
+ "&lt;b>Pâté&lt;/b>" can contain listeria so it's best to avoid all types.
+
+ "&lt;b>Raw or partially cooked eggs&lt;/b>". Eggs can contain salmonella, which causes a type of food poisoning. Eat eggs that have been cooked thoroughly, so both the white and yolk is solid. Avoid eating foods that may contain raw eggs or partially-cooked eggs such as homemade mayonnaise, salad dressings and ice creams. Most shop-bought mayonnaise and other salad dressings contain pasteurised egg, which is fine.
+
+ "&lt;b>Raw or undercooked meat or fish&lt;/b>". Eat well-cooked meat that's very hot all the way through and is no longer pink in colour.
+
+ "&lt;b>Some types of fish&lt;/b>". Some fish contain mercury, which at high levels can affect the development of an unborn baby's nervous system. Avoid eating shark, swordfish and marlin, and limit how much tuna you eat to no more than two fresh tuna steaks a week or four cans (one can = 185g) of tuna a week to minimise the toxicity risk. You can eat all other types of fish, and you should as part of a healthy diet. Aim for at least two portions a week, one of which should be oily fish.
+
+ "&lt;b>Raw shellfish&lt;/b>" Avoid raw shellfish when you're pregnant, as it can sometimes contain bacteria and viruses that may cause food poisoning. Well-cooked shellfish is fine. 
+
+"&lt;b>Alcohol&lt;/b>". Heavy drinking during pregnancy can harm an unborn child, and there's evidence that it's associated with birth defects and lower birth weight. Minimise your alcohol intake. The Royal College of Obstetricians and Gynaecologists says there's no evidence that a couple of units once or twice a week will harm a baby, but some women choose to give up alcohol altogether during pregnancy which reflects current Department of Health advice. 
+
+"&lt;b>Caffeine&lt;/b>. Current recommendations suggest that pregnant women should have no more than 300mg of caffeine per day, which is equivalent to four cups of coffee, six cups of tea, or eight cans of cola.</item>
+        <item>Nausea and vomiting (especially in early pregnancy and not necessarily limited to the morning, though its often called morning sickness) affects about 70 per cent of pregnant women, and can range from just feeling queasy to being unable to keep anything down. Most women find their sickness goes after about three months.</item>
+        <item>"Food cravings and aversions are common during pregnancy. They're unlikely to have a harmful affect, provided the overall diet is nutritionally balanced. The most common aversions are to alcohol, caffeinated drinks, fatty foods and meat."</item>
+        <item>"Indigestion, heartburn and intestinal discomfort are common, especially later in pregnancy when the baby displaces or squashes your internal organs. Fortunately, they're usually temporary problems. It can help to have smaller, more frequent meals, and to avoid lying down within one to two hours of eating. Some indigestion remedies available from pharmacies are suitable for pregnant women - check with your pharmacist before you buy. 
+
+ For constipation , make sure you eat fibre-rich foods like breakfast cereals, wholegrain bread and rolls, wholewheat pasta, brown rice, fruit and vegetables, nuts, seeds and pulses. It's important to keep your stools soft to avoid the possibility of haemmorhoids (piles). Gentle exercise also helps to keep your gut moving."</item>
+        <item>" A well-planned vegetarian should be sufficient for you and your baby in pregnancy. If you follow a vegan diet, speak to a registered dietitian to discuss the need for supplements.
+
+ "&lt;b>Other special situations&lt;/b>"
+
+ If you're pregnant and have a condition which requires a special diet, such as diabetes or coeliac disease, ask to be referred to a registered dietitian, to make sure you can maintain a healthy diet despite restrictions. "</item>
+        <item>"Eating a healthy diet and being the right body weight can be important for men who are hoping to become dads, too. There have been many studies looking at specific nutrients such as zinc and selenium and male sperm quality, and it does appear that a good diet produces better sperm. The key messages for men are: 
+
+ Aim to be the right weight for your height by eating sensibly and exercising on a regular basis. Follow the principles of healthy eating. Eating a variety of foods will help ensure you have all the nutrients you need such as zinc and selenium – you can increase your intake of these with fresh fruit, vegetables and whole grains.
+
+ Stick firmly within the alcohol limits. Dont t exceed three to four units per day on a regular basis, preferably with some alcohol-free days each week. Alcohol interferes with the bodys ability to make the most of a healthy diet."</item>
+    </string-array>
+    <string-array name="ArraySov">
+        <item>"1. If you're planning to fall pregnant, try to eat well and include food rich in folates, (or leafy green veggies) and take folic acid supplements too.&lt;br> 2. Quit smoking or drinking alcohol now&lt;br> 3. Have lots of sex!&lt;br> 4. Stick to a diet naturally high in folic acid (oranges, melons and dark green vegetables)."</item>
+        <item>"1. Pinpoint fertile days! If you have a 28-day menstrual cycle then you're probably ovulating between days 12 to 16, so the middle days of your menstrual cycle are your most fertile - so have sex on these days.&lt;br> 2. If you aren't already, begin taking folic acid each day.&lt;br> 3. Have lots more sex!&lt;br> 4. Eat plenty of iron-rich foods (whole grains, beans, raisins and nuts).&lt;br>"</item>
+        <item>1. Take folic acid!&lt;br> 2. Have lots more sex!&lt;br> 3. Start a pregnancy blog, journal or website for your baby.&lt;br> 4. Get to know the basics of fetal development.&lt;br></item>
+        <item>1. Try a home pregnancy test - you might be pleasantly surprised!&lt;br> 2. Eat little bits, often.&lt;br> 3. Avoid strong smells.&lt;br> 4. Take folic acid!&lt;br> 5. Stop smoking, drinking, and cut back on caffeine.&lt;br></item>
+        <item>1. If an earlier pregnancy test was negative - but you still feel you may be pregnant - then take another test, there may be more hormone present now for the test to show a positive result.&lt;br> 2. Take prenatal vitamins.&lt;br> 3. Stock up on healthy foods.&lt;br> 4. Talk with your partner about how and when to share your pregnancy with friends, family or coworkers.&lt;br></item>
+        <item>1. If you have not scheduled your first prenatal appointment, schedule your appointment this week.&lt;br> 2. Avoid certain foods like raw or undercooked meat, soft cheeses or raw or runny eggs as these may contain bugs that could harm your baby.&lt;br> 3. Take folic acid!&lt;br> 4. Find out which prenatal tests you may need.&lt;br></item>
+        <item>"1. Now is a good time to see your doctor to sign up for antenatal care.&lt;br> 2. Don't forget folic acid!&lt;br> 3. Start reading information on labor and childbirth options.&lt;br> 4. Do Kegel exercises to strengthen pelvic muscles.&lt;br> 5. Buy a few pregnancy books!&lt;br>"</item>
+        <item>"1. Don't forget folic acid!&lt;br> 2. Buy fresh fruits and veggies to snack on.&lt;br> 3. Check your bra fitting.&lt;br> 4. Take time to relax your body.&lt;br> 5. Exercise, but moderately. Don't start a new exercise regimen when you're pregnant, and be careful not to become overheated for prolonged periods.&lt;br>"</item>
+        <item>"1. Remember to keep popping those folic acid supplements - current advice is to keep them going until you're 12 weeks.&lt;br> 2. Add more sleeping time to your day. &lt;br> 3. Find a large mug and fill it with water to sip during the day.&lt;br> 4. If you were a smoker, you're now well on the road to a smoke-free life - for you and your baby.&lt;br> 5. As a general rule, avoid medication and consult with your doctor before taking any.&lt;br>"</item>
+        <item>"1. Keep up with your regular doctor appointments and taking those prenatal vitamins.&lt;br> 2. Continue eating healthy. Make sure you are drinking plenty of water.&lt;br> 3. Consider taking a prenatal exercise class.&lt;br> 4. Try to take naps, go to bed early, and delegate as much work as you can to others.&lt;br> 5. Remember that you're working incredibly hard. Growing another human being is hard work!&lt;br>"</item>
+        <item>"1. Talk to your doctor about CVS testing. This should be done around 10-12 weeks of pregnancy.&lt;br> 2. Keep taking folic acid!&lt;br> 3. This is a good time to consider ways to maintain a healthy diet and good exercise routine during your pregnancy.&lt;br> 4. Speaking of exercise, it's a good idea to learn Kegel exercises, and time to start doing 25 a day. &lt;br> 5. Choose iron-rich foods such as red meat, eggs, beans, and green vegetables. &lt;br>"</item>
+        <item>1. First antenatal check.&lt;br> 2. Make sure that you are taking your prenatal vitamins regularly.&lt;br> 3. To do a Kegel, tighten the muscles around the vagina and anus and hold for eight to 10 seconds.&lt;br> 4. Make the most of your increased calories by choosing foods that will provide the maximum nutrient kick.&lt;br> 5. Time to share the good news with your friends! &lt;br></item>
+        <item>1. If you havent bought any maternity clothing, purchase some maternity clothes this week.&lt;br> 2. Bring light snacks&lt;br> 3. Put non-slip pads under your area rugs to prevent slipping accidents.&lt;br> 4. Keep exepcising!&lt;br> 5. Buy a few pregnancy books!&lt;br></item>
+        <item>"1. Tests consider options.&lt;br> 2. Drink plenty of water. Opt for foods high in protein, such as string cheese, almonds, or milk.&lt;br> 3. Wear comfortable clothes&lt;br> 4. Taking naps during the day is ideal, but if you can't take a nap, try to rest a couple times a day or go to bed early.&lt;br> 5. Start doing Kegel exercises to prepare for birth.&lt;br>"</item>
+        <item>"1. Purchase a new support bra and/or maternity underwear.&lt;br> 2. If your growing belly is getting in the way of a good night's sleep, surround yourself with pillows to make for an extra-comfy nest effect.&lt;br> 3. Opt for sneakers or flats instead of high heels. Take stairs slowly. And be mindful of your movements to avoid any serious spills.&lt;br> 4. Second trimester is an ideal time for a dental visit. Untreated gum disease is linked to prematurity.&lt;br>"</item>
+        <item>"1. Talk to your doctor about AFP testing. This should be done around 16-18 weeks of pregnancy.&lt;br> 2. If you have felt your baby move, write a journal entry about your babys first movements.&lt;br> 3. You'll probably see your midwife this week, you could have a think about any questions you'd like to ask. Make a list, forgetfulness is common in pregnancy!&lt;br>"</item>
+        <item>"1. If you or your partner haven't tried talking to your baby yet - this is the perfect time to start.&lt;br> 2. Complete pre-admission hospital paperwork.&lt;br> 3. Maybe time to go shopping for maternity clothes if you haven't already.&lt;br> 4. Your libido may be back in full force. Get comfortable with sex during pregnancy.&lt;br>"</item>
+        <item>"1. If you want to know the sex of your baby you can ask at your scan.&lt;br> 2. Sign up for a childbirth preparation class.&lt;br> 3. Between your 16th and 20th weeks of pregnancy you'll be offered a series of tests to determine if your baby-to-be is at risk for certain genetic problems. Notice that these tests are offered but not required.&lt;br> 4. Munch on fresh fruit.&lt;br>"</item>
+        <item>"1. Make a list of questions.&lt;br> 2. Try using lotions and oils to help with dry, flaky and itchy skin. Also, a healthy diet and drinking lots of water will help to ease any skin irregularities.&lt;br> 3. Each baby has different movement patterns, but if you're concerned or if the movements have decreased in frequency or intensity, talk to your doctor.&lt;br> 4. Wear low or mid heeled shoes.&lt;br>"</item>
+        <item>"1. Soothing back exercises.&lt;br> 2. If you haven't yet, you might want to start coming up with some of your favorite baby names.&lt;br> 3. Sign up for a breastfeeding class if you are planning to breastfeed.&lt;br> 4. Make a list of phone numbers to call in case you need an emergency babysitter or petsitter.&lt;br>"</item>
+        <item>1. Try wearing some comfortable low-heeled shoes.&lt;br> 2. Remember to rest with your feet raised above your hips.&lt;br> 3. You could try rubbing in a stretch mark cream to moisturise the skin.&lt;br> 4. Snare scan pictures.&lt;br> 5. If you get piles (or haemorrhoids), try to drink plenty of water and eat foods high in fibre.&lt;br></item>
+        <item>1. Keep fluid levels up!&lt;br> 2. Unless your doctor advises you otherwise, you should be able to have sex as often as you desire.&lt;br> 3. Take a tour of the hospital or birthing center you will deliver at.&lt;br> 4. Talk to your partner about getting a cell phone or pager for any emergency phone calls.&lt;br></item>
+        <item>1. Choose a place to give birth (hospital? birthing center? home?).&lt;br> 2. Start shopping for maternity clothes. &lt;br> 3. Check your vision. Pregnancy vision changes are common, and can be a sign of complications.&lt;br> 4. Buy a few pregnancy books!&lt;br></item>
+        <item>1. Start shopping for maternity clothes.&lt;br> 2. Time to start preparing your nursery. &lt;br> 3. Know how to manage varicose veins.&lt;br> 4. Talk with your doctor about taking the glucose tolerance test. (This should be done between 24-28 weeks)&lt;br></item>
+        <item>1. Do you want a doula? If the answer is yes, find one now. &lt;br> 2. Verify how much maternity leave you have and how much of it will be paid leave.&lt;br> 3. Get plenty of sleep, and try to nap if you feel tired during the day.&lt;br> 4. Increase fiber intake to combat constipation.&lt;br></item>
+        <item>"1. Read up on your company's maternity leave policies and prepare for your time off.&lt;br> 2. Make sure you know the signs of premature labor. &lt;br> 3. Discuss with your partner, your plan for getting to the hospital or birthing center when you go into labor.&lt;br> 4. Choose a pediatrician.&lt;br>"</item>
+        <item>1. Get plenty of sleep, and try to nap if you feel tired during the day.&lt;br> 2. Decide who will be in the delivery room with you.&lt;br> 3. Begin perineal massage to reduce the chance of vaginal tearing during birth.&lt;br> 4. Continue Kegal exercises.&lt;br></item>
+        <item>1. Develop your birth plan.&lt;br> 2. Make sure you have your doctors emergency number on hand if you should need it.&lt;br> 3. Sleep on your side every night starting in the third trimester to ensure proper blood flow.&lt;br> 4. Replace cleaning chemicals with all-natural cleansers&lt;br></item>
+        <item>"1. Take a birthing class and hospital tour if you haven't already done so.&lt;br> 2. Eat plenty of iron-rich foods (whole grains, beans, raisins and nuts).&lt;br> 3. Settle on your baby names list. Choose one for each sex no matter how sure the sonographer was of the baby's sex.&lt;br>"</item>
+        <item>1. Keep active. It might be a bit more daunting as you get bigger and feel less graceful but it will help you feel better, improve your mood and make sure you are physically ready for labor. It will also improve your sleep, which can be problematic during the third trimester.&lt;br> 2. Put your feet up!&lt;br> 3. Attend your childbirth class.&lt;br></item>
+        <item>1. Continue eating a healthy pregnancy diet&lt;br> 2. Put your feet up! &lt;br> 3. Just like all major furniture purchases, your nursery furniture may take six to eight weeks to arrive, which means you need to place your order now.&lt;br> 4. Read your pregnancy books to better familiarize yourself with the stages of labor and to prepare yourself for special situations such as inducing labor or cesarean sections.&lt;br></item>
+        <item>1. Get plenty of sleep, and try to nap if you feel tired during the day.&lt;br> 2. Put your feet up! They are working extra hard these days.&lt;br> 3. Avoid stress such as listening to birth horror stories, overdoing, and getting caught up in the grandma battles.&lt;br> 4. Get a list of medications you need to avoid in the last trimester. There are certain drugs which are dangerous in the weeks close to birth.&lt;br></item>
+        <item>"1. Buy your diaper bag, and stock up on diapering essentials.&lt;br> 2. Read baby books now not just pregnancy ones. &lt;br> 3. Make a list of questions for hospital staff.&lt;br> 4. Eat more spinach.&lt;br> 5. Decide if you will bank the baby's cord blood, or donate it.&lt;br>"</item>
+        <item>"1. Pack your bag ... Your baby will be here soon!&lt;br> 2. Study up on newborn vaccines and find out what's best for your baby.&lt;br> 3. Become familiar with cesarean sections as this is a possibility for any birth. By having some knowledge of the process you won't be as fearful or feel as caught off guard if a complication arises and one becomes necessary.&lt;br>"</item>
+        <item>"1. Put your feet up! They are working extra hard these days.&lt;br> 2. Talk to your doctor about Baby's position and how it may impact childbirth.&lt;br> 3. Pack the hospital and labor bags. Pack your labor bag and baby's bag with necessary supplies.&lt;br> 4. Practice your breathing and relaxation exercises.&lt;br>"</item>
+        <item>1. Find out what to expect during the last weeks of your pregnancy.&lt;br> 2. Prepare for the weeks after you give birth.&lt;br> 3. Finalize your baby name selections. &lt;br> 4. Make an emergency phone number list and place in a visible place&lt;br></item>
+        <item>1. Prepare yourself for labor and delivery. &lt;br> 2. Know your contractions. Recognize the differences between Braxton-Hicks contractions and true labor.&lt;br> 3. Pack for the hospital. Check out our Essential Birth and Labor checklist for what to bring.&lt;br> 4. If the last days are wearing your nerves, go see a movie or catch lunch with friends. &lt;br></item>
+        <item>"1. Check labour bag. Your baby will be here soon!&lt;br> 2. Finish decorating nursery&lt;br> 3. Relax and enjoy the last days before delivery!&lt;br> 4. Arrange for help for after baby's birth like relatives, friends or a doula.&lt;br>"</item>
+        <item>1. Review birth plan&lt;br> 2. Arrange for help postpartum&lt;br> 3. Practice your breathing and relaxation exercises.&lt;br> 4. Clean your house or enlist help to get the place cheery and bright.&lt;br></item>
+        <item>1. Check labour bag&lt;br> 2. Try to take your mind off things by filling your time with activities instead of counting down the days/hours/minutes/!&lt;br> 3. Pelvic floor exercises!&lt;br></item>
+    </string-array>
+    <string-array name="ArrayMEA">
+        <item>Mood</item>
+        <item>Energy</item>
+        <item>Appetite</item>
+    </string-array>
+</resources>

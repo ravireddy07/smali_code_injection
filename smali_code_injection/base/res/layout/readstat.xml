@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="@drawable/shadow" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/date" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Дата" android:layout_weight="1.0" />
+    <TextView android:id="@id/start" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Начало" android:layout_weight="1.0" />
+    <TextView android:id="@id/durat" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Время" android:layout_weight="1.0" />
+    <TextView android:id="@id/times" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Кол-во" android:layout_weight="1.0" />
+</LinearLayout>

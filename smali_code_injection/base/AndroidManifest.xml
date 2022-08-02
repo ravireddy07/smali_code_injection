@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="com.kolesnik.pregnancy" platformBuildVersionCode="21" platformBuildVersionName="5.0.1-1624448">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <application android:icon="@drawable/baby" android:label="@string/app_name">
+        <activity android:label="@string/app_name" android:name="com.kolesnik.pregnancy.MainActivity" android:theme="@style/Theme.Blue">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".FirstPeriodMenu" android:theme="@style/AppTheme6"/>
+        <activity android:name=".Loading"/>
+        <activity android:name=".Baby"/>
+        <activity android:name=".setDate"/>
+        <activity android:name=".setDate2"/>
+        <activity android:name=".Main"/>
+        <activity android:name=".ShowNames"/>
+        <activity android:name=".counter"/>
+        <activity android:name=".Readstat"/>
+        <activity android:name=".Calendar"/>
+        <activity android:name=".ListPreg"/>
+        <activity android:name=".Names"/>
+        <activity android:name=".Graf"/>
+        <activity android:name=".Start"/>
+        <activity android:name=".Body"/>
+        <activity android:name=".Healthy"/>
+        <activity android:name=".Weight"/>
+        <activity android:name=".Graphwe"/>
+        <activity android:name=".Fitness"/>
+        <activity android:name=".About"/>
+        <activity android:name=".Pref"/>
+        <activity android:name=".Anketa"/>
+        <activity android:name=".Examp"/>
+        <activity android:name=".Feminap"/>
+        <activity android:name=".CalendarView" android:theme="@style/AppTheme6"/>
+        <activity android:name=".BabyNames"/>
+        <activity android:name=".Boy"/>
+        <activity android:name=".Girl"/>
+        <activity android:name=".OpenName"/>
+        <activity android:name=".Kicks"/>
+        <activity android:name=".ListKicks"/>
+        <activity android:name=".Helpful"/>
+        <activity android:name=".ReadRes"/>
+        <activity android:name=".Symptoms"/>
+        <activity android:name=".Sprsymp"/>
+        <activity android:name=".Report"/>
+        <activity android:name=".Note"/>
+        <activity android:name=".Pills"/>
+        <activity android:name=".EditPill"/>
+        <activity android:name=".Doctor"/>
+        <activity android:name=".EditDoctor"/>
+        <activity android:name=".Chart"/>
+        <activity android:name=".BabyBirth"/>
+        <activity android:name=".CountPregnancy"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:label="@string/app_name" android:name="cordovaExample"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:name="com.google.android.gms.ads.AdActivity"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <receiver android:name="com.kolesnik.pregnancy.MyWidgetProvider">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_info"/>
+        </receiver>
+        <service android:name="com.kolesnik.pregnancy.UpdateWidgetService"/>
+    </application>
+</manifest>

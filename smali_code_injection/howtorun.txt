@@ -1,0 +1,1 @@
+build.sh && run.sh dist/base-align.apk

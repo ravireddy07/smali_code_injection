@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Blue" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Blue</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Blue</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Blue</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_blue</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Blue</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Blue</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Blue</item>
+    </style>
+    <style name="Theme.Blue.Widget" parent="@android:style/Theme.Holo">
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Blue</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Blue</item>
+    </style>
+    <style name="CustomRatingBar" parent="@android:style/Widget.RatingBar">
+        <item name="android:maxHeight">32.0dip</item>
+        <item name="android:progressDrawable">@drawable/custom_ratingbar</item>
+        <item name="android:minHeight">32.0dip</item>
+    </style>
+    <style name="CustomRatingBarSmall" parent="@android:style/Widget.RatingBar">
+        <item name="android:maxHeight">13.0dip</item>
+        <item name="android:progressDrawable">@drawable/custom_ratingbar_small</item>
+        <item name="android:minHeight">13.0dip</item>
+        <item name="android:isIndicator">true</item>
+    </style>
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="colorTitle">@style/backgrp2</item>
+        <item name="colorTitle2">@style/bat2</item>
+        <item name="mtextc">@style/textc2</item>
+    </style>
+    <style name="AppTheme2" parent="@android:style/Theme.Holo.Light">
+        <item name="colorTitle">@style/backgrp</item>
+        <item name="colorTitle2">@style/bat</item>
+        <item name="mtextc">@style/textc</item>
+    </style>
+    <style name="AppTheme3" parent="@android:style/Theme.Holo.Light">
+        <item name="colorTitle">@style/backgrp3</item>
+        <item name="colorTitle2">@style/bat3</item>
+        <item name="mtextc">@style/textc3</item>
+    </style>
+    <style name="AppTheme4" parent="@android:style/Theme.Holo.Light">
+        <item name="colorTitle">@style/backgrp4</item>
+        <item name="colorTitle2">@style/bat4</item>
+        <item name="mtextc">@style/textc4</item>
+    </style>
+    <style name="AppTheme5" parent="@android:style/Theme.Holo.Light">
+        <item name="colorTitle">@style/backgrp5</item>
+        <item name="colorTitle2">@style/bat5</item>
+        <item name="mtextc">@style/textc5</item>
+    </style>
+    <style name="backgrp">
+        <item name="android:background">@color/c1_1</item>
+    </style>
+    <style name="textc">
+        <item name="android:textColor">@color/c1_2</item>
+    </style>
+    <style name="bat">
+        <item name="android:background">@drawable/botton_selector</item>
+    </style>
+    <style name="backgrp2">
+        <item name="android:background">@color/c2_1</item>
+    </style>
+    <style name="textc2">
+        <item name="android:textColor">@color/c2_2</item>
+    </style>
+    <style name="bat2">
+        <item name="android:background">@drawable/botton_selector2</item>
+    </style>
+    <style name="backgrp3">
+        <item name="android:background">@color/c3_1</item>
+    </style>
+    <style name="textc3">
+        <item name="android:textColor">@color/c3_2</item>
+    </style>
+    <style name="bat3">
+        <item name="android:background">@drawable/botton_selector3</item>
+    </style>
+    <style name="backgrp4">
+        <item name="android:background">@color/c4_1</item>
+    </style>
+    <style name="textc4">
+        <item name="android:textColor">@color/c4_2</item>
+    </style>
+    <style name="bat4">
+        <item name="android:background">@drawable/botton_selector4</item>
+    </style>
+    <style name="backgrp5">
+        <item name="android:background">@color/c5_1</item>
+    </style>
+    <style name="textc5">
+        <item name="android:textColor">@color/c5_2</item>
+    </style>
+    <style name="bat5">
+        <item name="android:background">@drawable/botton_selector5</item>
+    </style>
+    <style name="AppTheme6" parent="@android:style/Theme.Holo.Light" />
+</resources>
